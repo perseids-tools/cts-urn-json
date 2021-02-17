@@ -1,0 +1,10 @@
+inherit_gem:
+  gnar-style:
+    - "rubocop/rubocop.yml"
+
+Layout/LineLength:
+  Max: 120
+  Severity: refactor
+
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
