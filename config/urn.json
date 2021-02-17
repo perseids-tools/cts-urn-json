@@ -1,0 +1,61 @@
+[
+  {
+    "name": "greekLit",
+    "prefix": "urn:cts:greekLit",
+    "git": [
+      {
+        "name": "canonical-greekLit",
+        "url": "https://github.com/PerseusDL/canonical-greekLit.git",
+        "commit": "8403e88376cd3e844d2c93d79f05742788b971c7"
+      },
+      {
+        "name": "First1KGreek",
+        "url": "https://github.com/OpenGreekAndLatin/First1KGreek.git",
+        "commit": "160f2a6c3e55fc6a2a0913a23181e8ee946645b9"
+      }
+    ]
+  },
+  {
+    "name": "latinLit",
+    "prefix": "urn:cts:latinLit",
+    "git": [
+      {
+        "name": "canonical-latinLit",
+        "url": "https://github.com/PerseusDL/canonical-latinLit.git",
+        "commit": "c001efb82bc26ba95e935ce2fb4756d1dff0a688"
+      },
+      {
+        "name": "csel",
+        "url": "https://github.com/OpenGreekAndLatin/csel-dev.git",
+        "commit": "fe80c57e88302917eaeac5dc6ecc81be5f3fb83a"
+      },
+      {
+        "name": "priapeia",
+        "url": "https://github.com/lascivaroma/priapeia.git",
+        "commit": "64d5d916d1220ec4db8a848ce74998e9b6cdec71"
+      }
+    ]
+  },
+  {
+    "name": "farsiLit",
+    "prefix": "urn:cts:farsiLit",
+    "git": [
+      {
+        "name": "canonical-farsiLit",
+        "url": "https://github.com/PerseusDL/canonical-farsiLit.git",
+        "commit": "1ce632ece8a2af0646195a0531f5e8f39b161f72"
+      }
+    ]
+  },
+  {
+    "name": "ancJewLit",
+    "prefix": "urn:cts:ancJewLit",
+    "git": [
+      {
+        "name": "ancJewLitCTS",
+        "url": "https://github.com/hlapin/ancJewLitCTS",
+        "commit": "f3534557c6cae678bccbbf0d97ac2b2cdf71cc2e"
+      }
+    ]
+  }
+]
