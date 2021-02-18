@@ -6,12 +6,12 @@
       {
         "name": "canonical-greekLit",
         "url": "https://github.com/PerseusDL/canonical-greekLit.git",
-        "commit": "8403e88376cd3e844d2c93d79f05742788b971c7"
+        "commit": "d650cb65109c4c382dbfc2e53481e16524c05271"
       },
       {
         "name": "First1KGreek",
         "url": "https://github.com/OpenGreekAndLatin/First1KGreek.git",
-        "commit": "160f2a6c3e55fc6a2a0913a23181e8ee946645b9"
+        "commit": "3f5519b9a01ca4ff5eb56048868e83844e7755ab"
       }
     ]
   },
@@ -22,17 +22,17 @@
       {
         "name": "canonical-latinLit",
         "url": "https://github.com/PerseusDL/canonical-latinLit.git",
-        "commit": "c001efb82bc26ba95e935ce2fb4756d1dff0a688"
+        "commit": "a32e58bc9931a987588c47a7eb0f97d6ca5337bf"
       },
       {
         "name": "csel",
         "url": "https://github.com/OpenGreekAndLatin/csel-dev.git",
-        "commit": "fe80c57e88302917eaeac5dc6ecc81be5f3fb83a"
+        "commit": "cef6c2d6198aa35636e490ae134ad4145ab49ab9"
       },
       {
         "name": "priapeia",
         "url": "https://github.com/lascivaroma/priapeia.git",
-        "commit": "64d5d916d1220ec4db8a848ce74998e9b6cdec71"
+        "commit": "7420d10c82e1814e7be47627a2569f7969f8a3b0"
       }
     ]
   },
