@@ -29,8 +29,13 @@ class UrnMap
 
   def update_configuration!
     configuration.each { |group| update_group!(group) }
+    json = JSON.pretty_generate(configuration)
 
-    File.open(config, 'w') { |file| file.puts(JSON.pretty_generate(configuration)) }
+    if config == '-'
+      puts(json)
+    else
+      File.open(config, 'w') { |file| file.puts(json) }
+    end
   end
 
   def sync_git!
@@ -45,11 +50,16 @@ class UrnMap
   end
 
   def write_map!
-    json = configuration.reduce({}) do |hash, group|
+    map = configuration.reduce({}) do |hash, group|
       hash.merge!(parse_files(group))
     end
+    json = JSON.pretty_generate(map)
 
-    File.open(out, 'w') { |file| file.puts(JSON.pretty_generate(json)) }
+    if out == '-'
+      puts(json)
+    else
+      File.open(out, 'w') { |file| file.puts(json) }
+    end
   end
 
   private
