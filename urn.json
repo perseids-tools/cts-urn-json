@@ -471,9 +471,9 @@
     "author": "Philostratus Minor",
     "title": "Imagines"
   },
-  "urn:cts:greekLit:tlg0058.tlg001.perseus-grc1": {
+  "urn:cts:greekLit:tlg0058.tlg001.perseus-grc2": {
     "author": "Aeneas Tacticus",
-    "title": "Poliorcetica"
+    "title": "Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν"
   },
   "urn:cts:greekLit:tlg0093.tlg009.perseus-grc1": {
     "author": "Theophrastus",
@@ -555,6 +555,10 @@
     "author": "Aratus Solensis",
     "title": "Phaenomena"
   },
+  "urn:cts:greekLit:tlg1311.tlg001.perseus-eng1": {
+    "author": "",
+    "title": "The Didache, or Teaching of the Twelve Apostles."
+  },
   "urn:cts:greekLit:tlg0034.tlg001.perseus-eng1": {
     "author": "Lycurgus",
     "title": "Against Leocrates from Speeches (English). Machine readable text"
@@ -609,7 +613,7 @@
   },
   "urn:cts:greekLit:tlg2040.tlg002.perseus-grc1": {
     "author": "Basil, Saint, Bishop of Caesarea",
-    "title": "De legendis gentilium libris"
+    "title": "To Young Men, On How They Might Dervice Profit From Pagan Literature"
   },
   "urn:cts:greekLit:tlg0719.tlg001.perseus-eng1": {
     "author": "Aretaeus",
@@ -955,6 +959,18 @@
     "author": "Clement of Alexandria",
     "title": "Exhortation to Endurance, or to the Newly Baptized"
   },
+  "urn:cts:greekLit:tlg0555.tlg004.perseus-grc1": {
+    "author": "Clement of Alexandria",
+    "title": "Stromata (Books I-VI)"
+  },
+  "urn:cts:greekLit:tlg1271.tlg001.perseus-eng1": {
+    "author": "Clement of Rome",
+    "title": "The First Epistle of Clement to the Corinthians"
+  },
+  "urn:cts:greekLit:tlg1271.tlg002.perseus-eng1": {
+    "author": "Clement of Rome",
+    "title": "The Second Epistle of Clement to the Corinthians"
+  },
   "urn:cts:greekLit:tlg0554.tlg001.perseus-grc1": {
     "author": "Chariton",
     "title": "De Chaerea et Callirhoe"
@@ -962,6 +978,14 @@
   "urn:cts:greekLit:tlg0562.tlg001.perseus-grc1": {
     "author": "Marcus Aurelius",
     "title": "M. Antoninus Imperator Ad Se Ipsum"
+  },
+  "urn:cts:greekLit:tlg1443.tlg001.perseus-eng1": {
+    "author": "Ignatius of Antioch",
+    "title": "The Epistles of Saint Ignatius"
+  },
+  "urn:cts:greekLit:tlg1622.tlg001.perseus-eng1": {
+    "author": "Polycarp",
+    "title": "The Epistle to the Philippians of Saint Polycarp"
   },
   "urn:cts:greekLit:tlg0199.tlg001.perseus-grc1": {
     "author": "Bacchylides",
@@ -978,6 +1002,10 @@
   "urn:cts:greekLit:tlg0199.tlg002.perseus-grc1": {
     "author": "Bacchylides",
     "title": "Odes (Greek) - Dith"
+  },
+  "urn:cts:greekLit:tlg1419.tlg001.perseus-eng1": {
+    "author": "Hermas",
+    "title": "The Shepherd of Hermas"
   },
   "urn:cts:greekLit:tlg0011.tlg007.perseus-grc2": {
     "author": "Sophocles",
@@ -1899,6 +1927,10 @@
     "author": "Isocrates",
     "title": "Busiris"
   },
+  "urn:cts:greekLit:tlg0646.tlg004.perseus-eng1": {
+    "author": "Anonymous",
+    "title": "The Epistle to Diogentus"
+  },
   "urn:cts:greekLit:tlg0612.tlg001.perseus-grc1": {
     "author": "Dio Chrysostom",
     "title": "Orationes"
@@ -2251,141 +2283,141 @@
     "author": "Anonymous",
     "title": "World English Bible - Ephesians"
   },
-  "urn:cts:greekLit:tlg0007.tlg118.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg118.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Praecepta gerendae reipublicae"
+    "title": "Πολιτικὰ παραγγέλματα"
   },
-  "urn:cts:greekLit:tlg0007.tlg118.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg118.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Praecepta gerendae reipublicae"
+    "title": "Precepts of Statecraft"
   },
-  "urn:cts:greekLit:tlg0007.tlg118.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg118.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Praecepta gerendae reipublicae"
+    "title": "Political Precepts"
   },
-  "urn:cts:greekLit:tlg0007.tlg127.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg127.perseus-grc3": {
     "author": "Plutarch",
-    "title": "De primo frigido"
+    "title": "Περὶ τοῦ πρώτως ψυχροῦ"
   },
-  "urn:cts:greekLit:tlg0007.tlg127.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg127.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De primo frigido"
+    "title": "On the Principle of Cold"
   },
-  "urn:cts:greekLit:tlg0007.tlg127.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg127.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De primo frigido"
+    "title": "Concering the First Principles of Cold"
   },
-  "urn:cts:greekLit:tlg0007.tlg120.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg120.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De vitando aere alieno"
+    "title": "Against Running in Debt, or Taking up Money Upon Usury"
   },
-  "urn:cts:greekLit:tlg0007.tlg120.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg120.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De vitando aere alieno"
+    "title": "That we Ought not to Borrow"
   },
-  "urn:cts:greekLit:tlg0007.tlg120.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg120.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De vitando aere alieno"
+    "title": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
   },
-  "urn:cts:greekLit:tlg0007.tlg129.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg129.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De sollertia animalium"
+    "title": "Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαῖα ἢ τὰ ἔνυδρα"
   },
-  "urn:cts:greekLit:tlg0007.tlg129.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg129.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De sollertia animalium"
+    "title": "Which are the most crafty, water-animals or those creatures that breed upon the land?"
   },
-  "urn:cts:greekLit:tlg0007.tlg129.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg129.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De sollertia animalium"
+    "title": "Whether land or sea animals are cleverer"
   },
-  "urn:cts:greekLit:tlg0007.tlg116.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg116.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Ad principem ineruditum"
+    "title": "Πρὸς ἡγεμόνα ἀπαίδευτον"
   },
-  "urn:cts:greekLit:tlg0007.tlg116.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg116.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Ad principem ineruditum"
+    "title": "A discourse to an unlearned prince"
   },
-  "urn:cts:greekLit:tlg0007.tlg116.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg116.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Ad principem ineruditum"
+    "title": "To an Uneducated Ruler"
   },
-  "urn:cts:greekLit:tlg0007.tlg111.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg111.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Consolatio ad uxorem"
+    "title": "Plutarch's Consolatory Letter to His Wife"
   },
-  "urn:cts:greekLit:tlg0007.tlg111.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg111.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Consolatio ad uxorem"
+    "title": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
   },
-  "urn:cts:greekLit:tlg0007.tlg110.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg110.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De exilio"
+    "title": "Of Banishment, or Flying One's Country."
   },
-  "urn:cts:greekLit:tlg0007.tlg110.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg110.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De exilio"
+    "title": "Περὶ φυγῆς"
   },
-  "urn:cts:greekLit:tlg0007.tlg128.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg128.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Aquane an ignis sit utilior"
+    "title": "Περὶ τοῦ πότερον ὕδωρ ἢ πῦρ χρησιμώτερον"
   },
-  "urn:cts:greekLit:tlg0007.tlg128.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg128.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Aquane an ignis sit utilior"
+    "title": "Whether water or fire be most useful"
   },
-  "urn:cts:greekLit:tlg0007.tlg128.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg128.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Aquane an ignis sit utilior"
+    "title": "Whether fire or water is most useful"
   },
-  "urn:cts:greekLit:tlg0007.tlg117.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg117.perseus-grc2": {
     "author": "Plutarch",
-    "title": "An seni respublica gerenda sit"
+    "title": "Εἰ πρεσβυτέρῳ πολιτευτέον"
   },
-  "urn:cts:greekLit:tlg0007.tlg117.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg117.perseus-eng4": {
     "author": "Plutarch",
-    "title": "An seni respublica gerenda sit"
+    "title": "Whether an Aged Man Ought to Meddle in State Affairs"
   },
-  "urn:cts:greekLit:tlg0007.tlg117.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg117.perseus-eng3": {
     "author": "Plutarch",
-    "title": "An seni respublica gerenda sit"
+    "title": "Whether an Old Man Should Engage in Public Affairs"
   },
-  "urn:cts:greekLit:tlg0007.tlg121.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg121.perseus-eng4": {
+    "author": "Plutarch",
+    "title": "Lives of the Ten Orators"
+  },
+  "urn:cts:greekLit:tlg0007.tlg121.perseus-eng3": {
+    "author": "Plutarch",
+    "title": "The Lives of the Ten Orators"
+  },
+  "urn:cts:greekLit:tlg0007.tlg121.perseus-grc2": {
     "author": "Plutarch",
     "title": "Vitae decem oratorum"
   },
-  "urn:cts:greekLit:tlg0007.tlg121.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg119.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Vitae decem oratorum"
+    "title": "Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg121.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg119.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Vitae decem oratorum"
+    "title": "On Monarchy, Democracy, and Oligrachy"
   },
-  "urn:cts:greekLit:tlg0007.tlg119.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg119.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De unius in republica dominatione"
+    "title": "Of the Three Sorts of Government, Monarchy, Democracy, and Oligarchy."
   },
-  "urn:cts:greekLit:tlg0007.tlg119.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg126.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De unius in republica dominatione"
+    "title": "Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης"
   },
-  "urn:cts:greekLit:tlg0007.tlg119.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg126.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De unius in republica dominatione"
+    "title": "Concerning the Face which Appears in the Orb Of the Moon"
   },
-  "urn:cts:greekLit:tlg0007.tlg126.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg126.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De faciae quae in orbe lunae apparet"
-  },
-  "urn:cts:greekLit:tlg0007.tlg126.perseus-eng1": {
-    "author": "Plutarch",
-    "title": "De faciae quae in orbe lunae apparet"
-  },
-  "urn:cts:greekLit:tlg0007.tlg126.perseus-eng2": {
-    "author": "Plutarch",
-    "title": "De facie quae in orbe lunae apparet"
+    "title": "Of the Face Appearing Within the Orb Of the Moon"
   },
   "urn:cts:greekLit:tlg0007.tlg054.perseus-grc2": {
     "author": "Plutarch",
@@ -2403,29 +2435,29 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg098.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg098.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De amore prolis"
+    "title": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg098.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg098.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De amore prolis"
+    "title": "Of Natural Affection Towards One's Offspring"
   },
-  "urn:cts:greekLit:tlg0007.tlg098.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg098.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De amore prolis"
+    "title": "On Affection for Offspring"
   },
-  "urn:cts:greekLit:tlg0007.tlg091.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg091.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De Pythiae oraculis"
+    "title": "Wherefore the Pythian Priestess Now Ceases to Deliver her Oracles in Verse"
   },
-  "urn:cts:greekLit:tlg0007.tlg091.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg091.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De Pythiae oraculis"
+    "title": "The Oracle at Delphie no Longer Given in Verse"
   },
-  "urn:cts:greekLit:tlg0007.tlg091.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg091.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Pythiae oraculis"
+    "title": "Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν"
   },
   "urn:cts:greekLit:tlg0007.tlg065.perseus-grc2": {
     "author": "Plutarch",
@@ -2443,17 +2475,17 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg096.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg096.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De tranquilitate animi"
+    "title": "Περὶ εὐθυμίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg096.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg096.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De tranquilitate animi"
+    "title": "On Tranquillity of Mind"
   },
-  "urn:cts:greekLit:tlg0007.tlg096.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg096.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De tranquilitate animi"
+    "title": "Of the Tranquillity of the Mind."
   },
   "urn:cts:greekLit:tlg0007.tlg009.perseus-eng2": {
     "author": "Plutarch",
@@ -2495,17 +2527,17 @@
     "author": "Plutarch",
     "title": "Solon"
   },
-  "urn:cts:greekLit:tlg0007.tlg097.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg097.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De fraterno amore"
+    "title": "Περὶ φιλαδελφίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg097.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg097.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De fraterno amore"
+    "title": "On Brotherly Love"
   },
-  "urn:cts:greekLit:tlg0007.tlg097.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg097.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De fraterno amore"
+    "title": "Of Brotherly Love"
   },
   "urn:cts:greekLit:tlg0007.tlg063.perseus-eng2": {
     "author": "Plutarch",
@@ -2523,17 +2555,17 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg090.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg090.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De E apud Delphos"
+    "title": "Of the word ΕΙ engraven over the gate of Apollo's temple at Delphi."
   },
-  "urn:cts:greekLit:tlg0007.tlg090.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg090.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De E apud Delphos"
+    "title": "The Ε at Delphi"
   },
-  "urn:cts:greekLit:tlg0007.tlg090.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg090.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De E apud Delphos"
+    "title": "Περὶ τοῦ Ε τοῦ ἐν Δελφοῖς"
   },
   "urn:cts:greekLit:tlg0007.tlg052.perseus-eng1": {
     "author": "Plutarch",
@@ -2543,17 +2575,17 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg099.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg099.perseus-grc2": {
     "author": "Plutarch",
-    "title": "An vitiositas ad infelicitatem sufficia"
+    "title": "Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν"
   },
-  "urn:cts:greekLit:tlg0007.tlg099.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg099.perseus-eng4": {
     "author": "Plutarch",
-    "title": "An vitiositas ad infelicitatem sufficia"
+    "title": "Whether Vice is Sufficient to Render a Man Unhappy"
   },
-  "urn:cts:greekLit:tlg0007.tlg099.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg099.perseus-eng3": {
     "author": "Plutarch",
-    "title": "An vitiositas ad infelicitatem sufficia"
+    "title": "Whether vice be sufficient to cause unhappiness"
   },
   "urn:cts:greekLit:tlg0007.tlg055.perseus-grc2": {
     "author": "Plutarch",
@@ -2651,57 +2683,57 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg083.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg083.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Mulierum virtutes"
+    "title": "Γυναικῶν ἀρεταί"
   },
-  "urn:cts:greekLit:tlg0007.tlg083.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg083.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Mulierum virtutes"
+    "title": "Γυναικῶν ἀρεταί"
   },
-  "urn:cts:greekLit:tlg0007.tlg083.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg083.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Mulierum virtutes"
+    "title": "Bravery of Women"
   },
-  "urn:cts:greekLit:tlg0007.tlg083.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg083.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Mulierum virtutes"
+    "title": "Concerning the Virtues of Women"
   },
-  "urn:cts:greekLit:tlg0007.tlg077.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg077.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De tuenda sanitate praecepta"
+    "title": "Plutarch's Rules for the Preservation of Health"
   },
-  "urn:cts:greekLit:tlg0007.tlg077.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg077.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De tuenda sanitate praecepta"
+    "title": "Advice About Keeping Well"
   },
-  "urn:cts:greekLit:tlg0007.tlg077.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg077.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De tuenda sanitate praecepta"
+    "title": "Ὑγιεινὰ παραγγέλματα"
   },
-  "urn:cts:greekLit:tlg0007.tlg070.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg070.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Quomodo adulator ab amico internoscatur"
+    "title": "Πῶς ἄν τις διακρίνειε τὸν κόλκακα τοῦ φίλου"
   },
-  "urn:cts:greekLit:tlg0007.tlg070.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg070.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Quomodo adulator ab amico internoscatur"
+    "title": "How to Tell a Flatterer from a Friend"
   },
-  "urn:cts:greekLit:tlg0007.tlg070.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg070.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Quomodo adulator ab amico internoscatur"
+    "title": "How to Know a Flatterer from a Friend"
   },
-  "urn:cts:greekLit:tlg0007.tlg079.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg079.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Septem sapientium convivium"
+    "title": "The Dinner of the Seven Wise Men"
   },
-  "urn:cts:greekLit:tlg0007.tlg079.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg079.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Septem sapientium convivium"
+    "title": "The Banquet of the Seven Wise Men"
   },
-  "urn:cts:greekLit:tlg0007.tlg079.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg079.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Septem sapientium convivium"
+    "title": "Των επτά σοφών συμπόσιον"
   },
   "urn:cts:greekLit:tlg0007.tlg046.perseus-eng2": {
     "author": "Plutarch",
@@ -2759,17 +2791,17 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg078.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg078.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Conjugalia Praecepta"
+    "title": "Advice to Bride and Groom"
   },
-  "urn:cts:greekLit:tlg0007.tlg078.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg078.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Conjugalia Praecepta"
+    "title": "Conjugal Precepts"
   },
-  "urn:cts:greekLit:tlg0007.tlg078.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg078.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Conjugalia Praecepta"
+    "title": "Γαμικὰ παραγγέλματα"
   },
   "urn:cts:greekLit:tlg0007.tlg047.perseus-eng2": {
     "author": "Plutarch",
@@ -2779,33 +2811,33 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg085.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg085.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Parallela minora"
+    "title": "Parallels, or a comparison between the Greek and Roman Histories."
   },
-  "urn:cts:greekLit:tlg0007.tlg085.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg085.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Parallela minora"
+    "title": "Greek and Roman Parallel Stories"
   },
-  "urn:cts:greekLit:tlg0007.tlg085.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg085.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Parallela minora"
+    "title": "Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ῥωμαϊκῶν"
   },
-  "urn:cts:greekLit:tlg0007.tlg085.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg085.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Parallela minora"
+    "title": "Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ῥωμαϊκῶν"
   },
-  "urn:cts:greekLit:tlg0007.tlg071.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg071.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Quomodo quis suos in virtute sentiat profectus"
+    "title": "Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή"
   },
-  "urn:cts:greekLit:tlg0007.tlg071.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg071.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Quomodo quis suos in virtute sentiat profectus"
+    "title": "How a Man May Become Aware of His Progress in Virtue"
   },
-  "urn:cts:greekLit:tlg0007.tlg071.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg071.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Quomodo quis suos in virtute sentiat profectus"
+    "title": "How a Man May Be Sensible of His Progress in Virtue"
   },
   "urn:cts:greekLit:tlg0007.tlg049.perseus-eng2": {
     "author": "Plutarch",
@@ -2815,213 +2847,213 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg076.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg076.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Consolatio ad Apollonium"
+    "title": "Consolation to Apollonius"
   },
-  "urn:cts:greekLit:tlg0007.tlg076.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg076.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Consolatio ad Apollonium"
+    "title": "A letter of Condolence to Apollonius"
   },
-  "urn:cts:greekLit:tlg0007.tlg076.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg076.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Consolatio ad Apollonium"
+    "title": "Πραμυθητικὸς πρὸς Ἀπολλώνιον"
   },
-  "urn:cts:greekLit:tlg0007.tlg082.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg082.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Apophthegmata Laconica"
+    "title": "Ἀποφθέγματα Λακωνικά"
   },
-  "urn:cts:greekLit:tlg0007.tlg082.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg082.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Apophthegmata Laconica"
+    "title": "Ἀποφθέγματα Λακωνικά"
   },
-  "urn:cts:greekLit:tlg0007.tlg082.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg082.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Apophthegmata Laconica"
+    "title": "Sayings of Spartans"
   },
-  "urn:cts:greekLit:tlg0007.tlg082.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg082.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Apophthegmata Laconica"
+    "title": "Laconic Apophthegms; or Remarkable Sayings of the Spartans."
   },
-  "urn:cts:greekLit:tlg0007.tlg104.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg104.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De vitioso pudore"
+    "title": "Of Bashfulness"
   },
-  "urn:cts:greekLit:tlg0007.tlg104.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg104.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De vitioso pudore"
+    "title": "Περὶ δυσωπίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg103.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg103.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De cupiditate divitiarum"
+    "title": "Περὶ φιλοπλουτίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg103.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg103.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De cupiditate divitiarum"
+    "title": "Of the Love of Wealth"
   },
-  "urn:cts:greekLit:tlg0007.tlg135.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg135.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Compendium libri de animae procreatione in Timaeo"
+    "title": "Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg084a.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg084a.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Quaestiones Romanae"
+    "title": "Κεφαλαίων καταγραφή Ῥωμαϊκά"
   },
-  "urn:cts:greekLit:tlg0007.tlg084a.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg084a.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Quaestiones Romanae"
+    "title": "Ἀίτια Ῥωμαϊκά"
   },
-  "urn:cts:greekLit:tlg0007.tlg084a.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg084a.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Quaestiones Romanae"
+    "title": "Roman Questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg084a.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg084a.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Quaestiones Romanae"
+    "title": "The Roman Questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg132.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg132.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De esu carnium II"
+    "title": "Περὶ σαρκοφαγίας λόγος β′"
   },
-  "urn:cts:greekLit:tlg0007.tlg132.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg132.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De esu carnium II"
+    "title": "On the eating of flesh II"
   },
-  "urn:cts:greekLit:tlg0007.tlg132.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg132.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De esu carnium II"
+    "title": "Of eating of flesh: Tract II"
   },
-  "urn:cts:greekLit:tlg0007.tlg133.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg133.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Platonicae quaestiones"
+    "title": "Πλατωνικὰ ζητήματα"
   },
-  "urn:cts:greekLit:tlg0007.tlg133.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg133.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Platonicae quaestiones"
+    "title": "Plutarch's Platonic questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg134.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg134.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De animae procreatione in Timaeo"
+    "title": "Concerning the procreation of the soul as discoursed in Timaeus"
   },
-  "urn:cts:greekLit:tlg0007.tlg134.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg134.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De animae procreatione in Timaeo"
+    "title": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg102.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg102.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De curiositate"
+    "title": "Περὶ πολυπραγμοσύνης"
   },
-  "urn:cts:greekLit:tlg0007.tlg102.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg102.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De curiositate"
+    "title": "Of Curiosity, or an Over-Busy Inquisitiveness into Things Impertinent."
   },
-  "urn:cts:greekLit:tlg0007.tlg102.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg102.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De curiositate"
+    "title": "On Being a Busybody"
   },
-  "urn:cts:greekLit:tlg0007.tlg105.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg105.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De invidia et odio"
+    "title": "Of Envy and Hatred"
   },
-  "urn:cts:greekLit:tlg0007.tlg105.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg105.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De invidia et odio"
+    "title": "Περὶ φθόνου καὶ μίσους"
   },
-  "urn:cts:greekLit:tlg0007.tlg082b.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg082b.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Lacaenarum Apophthegmata"
+    "title": "Sayings of Spartan Women"
   },
-  "urn:cts:greekLit:tlg0007.tlg082b.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg082b.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Lacaenarum Apophthegmata"
+    "title": "Λακαινῶν ἀποφθάγματα"
   },
-  "urn:cts:greekLit:tlg0007.tlg082b.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg082b.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Lacaenarum Apophthegmata"
+    "title": "Λακαινῶν ἀποφθάγματα"
   },
-  "urn:cts:greekLit:tlg0007.tlg123.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg123.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Herodoti malignitate"
+    "title": "Περὶ τῆς Ἡροδότου κακοηθείας"
   },
-  "urn:cts:greekLit:tlg0007.tlg123.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg123.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De Herodoti malignitate"
+    "title": "Of Herodotus’s Malice."
   },
-  "urn:cts:greekLit:tlg0007.tlg112.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg112.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Quaestiones Convivales"
+    "title": "Συμποσιακῶν προβλημάτων βιβλία"
   },
-  "urn:cts:greekLit:tlg0007.tlg112.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg112.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Quaestiones Convivales"
+    "title": "Symposiacs"
   },
-  "urn:cts:greekLit:tlg0007.tlg115.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg115.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Maxime cum principbus philosopho esse diserendum"
+    "title": "That a Philosopher Ought Chiefly to Converse with Great Men"
   },
-  "urn:cts:greekLit:tlg0007.tlg115.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg115.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Maxime cum principbus philosopho esse diserendum"
+    "title": "That a Philosopher Ought to Converse Especially with Men in Power"
   },
-  "urn:cts:greekLit:tlg0007.tlg115.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg115.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Maxime cum principbus philosopho esse diserendum"
+    "title": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν φιλοσοφόν διαλέγεσθαι"
   },
-  "urn:cts:greekLit:tlg0007.tlg141.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg141.perseus-eng2": {
     "author": "Plutarch",
-    "title": "An Recte Dictum Sit Latenter Esse Vivendum"
+    "title": "Whether 'Twere Rightly Said, Live Concealed"
   },
-  "urn:cts:greekLit:tlg0007.tlg141.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg141.perseus-grc2": {
     "author": "Plutarch",
-    "title": "An Recte Dictum Sit Latenter Esse Vivendum"
+    "title": "Εἰ καλῶς εἴρηται τὸ λάθε βιώτας"
   },
-  "urn:cts:greekLit:tlg0007.tlg114.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg114.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Amatoriae narrationes"
+    "title": "Five Tragical Histories of Love"
   },
-  "urn:cts:greekLit:tlg0007.tlg114.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg114.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Amatoriae narrationes"
+    "title": "Love Stories"
   },
-  "urn:cts:greekLit:tlg0007.tlg114.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg114.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Amatoriae narrationes"
+    "title": "Ἐρωτικαὶ διηγήσεις"
   },
-  "urn:cts:greekLit:tlg0007.tlg113.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg113.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Amatorius"
+    "title": "Ἐρωτικός"
   },
-  "urn:cts:greekLit:tlg0007.tlg113.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg113.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Amatorius"
+    "title": "Of Love"
   },
-  "urn:cts:greekLit:tlg0007.tlg125.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg125.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Quaestiones Naturales"
+    "title": "Plutarch's Natural Questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg125.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg125.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Quaestiones Naturales"
+    "title": "Αἴτια φυσικά"
   },
-  "urn:cts:greekLit:tlg0007.tlg122.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg122.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Comparationis Aristophanis et Menandri compendium"
+    "title": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
   },
-  "urn:cts:greekLit:tlg0007.tlg122.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg122.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Comparationis Aristophanis et Menandri compendium"
+    "title": "An abstract of a comparison betwixt Aristophanes and Menander"
   },
-  "urn:cts:greekLit:tlg0007.tlg122.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg122.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Comparationis Aristophanis et Menandri compendium"
+    "title": "Summary of a Comparison Between Aristophanes and Menander"
   },
-  "urn:cts:greekLit:tlg0007.tlg140.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg140.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Adversus Colotem"
+    "title": "Against Colotes, the Disciple and Favorite of Epicurus."
   },
-  "urn:cts:greekLit:tlg0007.tlg140.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg140.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Adversus Colotem"
+    "title": "Πρὸς Κωλώτην"
   },
   "urn:cts:greekLit:tlg0007.tlg032.perseus-eng2": {
     "author": "Plutarch",
@@ -3071,17 +3103,17 @@
     "author": "Plutarch",
     "title": "Demetrius"
   },
-  "urn:cts:greekLit:tlg0007.tlg068.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg068.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Quomodo adolescens poetas audire debeat"
+    "title": "How a Young Man Ought to Hear Poems"
   },
-  "urn:cts:greekLit:tlg0007.tlg068.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg068.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Quomodo adolescens poetas audire debeat"
+    "title": "How the Young Man Should Study Poetry"
   },
-  "urn:cts:greekLit:tlg0007.tlg068.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg068.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Quomodo adolescens poetas audire debeat"
+    "title": "Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν."
   },
   "urn:cts:greekLit:tlg0007.tlg061.perseus-grc2": {
     "author": "Plutarch",
@@ -3091,41 +3123,29 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg095.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg095.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De cohibenda ira"
+    "title": "On the Control of Anger"
   },
-  "urn:cts:greekLit:tlg0007.tlg095.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg095.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De cohibenda ira"
+    "title": "Concerning the cure of anger: a dialogue"
   },
-  "urn:cts:greekLit:tlg0007.tlg095.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg095.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De cohibenda ira"
+    "title": "Περὶ ἀοπγησίας"
   },
   "urn:cts:greekLit:tlg0007.tlg092.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De defectu oraculorum"
-  },
-  "urn:cts:greekLit:tlg0007.tlg092.perseus-grc1": {
-    "author": "Plutarch",
-    "title": "De defectu oraculorum"
+    "title": "Περὶ τῶν ἐκλελοιπότων"
   },
   "urn:cts:greekLit:tlg0007.tlg092.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De defectu oraculorum"
-  },
-  "urn:cts:greekLit:tlg0007.tlg092.perseus-eng1": {
-    "author": "Plutarch",
-    "title": "De defectu oraculorum"
+    "title": "Why the Oracles Cease to Give Answers"
   },
   "urn:cts:greekLit:tlg0007.tlg092.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De defectu oraculorum"
-  },
-  "urn:cts:greekLit:tlg0007.tlg092.perseus-eng2": {
-    "author": "Plutarch",
-    "title": "De defectu oraculorum"
+    "title": "The Obsolesence of Oracles"
   },
   "urn:cts:greekLit:tlg0007.tlg066.perseus-eng2": {
     "author": "Plutarch",
@@ -3185,19 +3205,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg067.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De liberis educandis"
+    "title": "Περὶ παίδων ἀγωγῆς"
   },
-  "urn:cts:greekLit:tlg0007.tlg093.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg093.perseus-grc2": {
     "author": "Plutarch",
-    "title": "An virtus doceri possit"
+    "title": "Εἰ διδακτὸν ἡ ἀρετή"
   },
-  "urn:cts:greekLit:tlg0007.tlg093.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg093.perseus-eng4": {
     "author": "Plutarch",
-    "title": "An virtus doceri possit"
+    "title": "That Virtue May Be Taught"
   },
-  "urn:cts:greekLit:tlg0007.tlg093.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg093.perseus-eng3": {
     "author": "Plutarch",
-    "title": "An virtus doceri possit"
+    "title": "Can Virtue Be Taught?"
   },
   "urn:cts:greekLit:tlg0007.tlg058.perseus-eng2": {
     "author": "Plutarch",
@@ -3207,17 +3227,17 @@
     "author": "Plutarch",
     "title": "Antony"
   },
-  "urn:cts:greekLit:tlg0007.tlg094.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg094.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De virtute morali"
+    "title": "On Moral Virtue"
   },
-  "urn:cts:greekLit:tlg0007.tlg094.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg094.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De virtute morali"
+    "title": "Of Moral Virtue"
   },
-  "urn:cts:greekLit:tlg0007.tlg094.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg094.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De virtute morali"
+    "title": "Περὶ τῆς ἠθικῆς ἀρετῆς"
   },
   "urn:cts:greekLit:tlg0007.tlg060.perseus-grc2": {
     "author": "Plutarch",
@@ -3235,17 +3255,17 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg069.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg069.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De recta ratione audiendi"
+    "title": "Of Hearing"
   },
-  "urn:cts:greekLit:tlg0007.tlg069.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg069.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De recta ratione audiendi"
+    "title": "On Listening to Lectures"
   },
-  "urn:cts:greekLit:tlg0007.tlg069.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg069.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Recta Ratione Audiendi"
+    "title": "Περὶ τοῦ ἀκούειν"
   },
   "urn:cts:greekLit:tlg0007.tlg051.perseus-grc1": {
     "author": "Plutarch",
@@ -3255,69 +3275,69 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg073.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg073.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De amicorum multitudine"
+    "title": "On Having Many Friends"
   },
-  "urn:cts:greekLit:tlg0007.tlg073.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg073.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De amicorum multitudine"
+    "title": "Of Large Acquaintance: or, an Essay to Prove the Folly of Seeking Many Friends"
   },
-  "urn:cts:greekLit:tlg0007.tlg073.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg073.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De amicorum multitudine"
+    "title": "Περί πολυφιλίας"
   },
-  "urn:cts:greekLit:tlg0007.tlg087.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg087.perseus-grc4": {
     "author": "Plutarch",
-    "title": "De Alexandri magni fortuna aut virtute"
+    "title": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α, λόγος Β"
   },
-  "urn:cts:greekLit:tlg0007.tlg087.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg087.perseus-grc3": {
     "author": "Plutarch",
-    "title": "De Alexandri magni fortuna aut virtute"
+    "title": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α, λόγος Β"
   },
-  "urn:cts:greekLit:tlg0007.tlg087.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg087.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De Alexandri magni fortuna aut virtute"
+    "title": "Concerning the fortune or virtue of Alexander the Great."
   },
-  "urn:cts:greekLit:tlg0007.tlg087.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg087.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De Alexandri magni fortuna aut virtute"
+    "title": "On the Fortune or the Virtue of Alexander I and II"
   },
-  "urn:cts:greekLit:tlg0007.tlg080.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg080.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De superstitione"
+    "title": "Superstition"
   },
-  "urn:cts:greekLit:tlg0007.tlg080.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg080.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De superstitione"
+    "title": "Of Superstition, or Indiscreet Devotion"
   },
-  "urn:cts:greekLit:tlg0007.tlg080.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg080.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De superstitione"
+    "title": "Περὶ δεισιδαιμονίας"
   },
   "urn:cts:greekLit:tlg0007.tlg074.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De fortuna"
+    "title": "Περὶ τύχης"
   },
   "urn:cts:greekLit:tlg0007.tlg074.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De fortuna"
+    "title": "Of Fortune"
   },
   "urn:cts:greekLit:tlg0007.tlg074.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De fortuna"
+    "title": "Chance"
   },
-  "urn:cts:greekLit:tlg0007.tlg089.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg089.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Iside et Osiride"
+    "title": "Περὶ Ἴσιδος και Ὀσίριδος"
   },
-  "urn:cts:greekLit:tlg0007.tlg089.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg089.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De Iside et Osiride"
+    "title": "Isis and Osiris"
   },
-  "urn:cts:greekLit:tlg0007.tlg089.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg089.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De Iside et Osiride"
+    "title": "Of Isis and Osiris, or of the Ancient Religion and Philosophy of Egypt"
   },
   "urn:cts:greekLit:tlg0007.tlg042.perseus-eng2": {
     "author": "Plutarch",
@@ -3391,21 +3411,21 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg088.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg088.perseus-grc3": {
     "author": "Plutarch",
-    "title": "De gloria Atheniensium"
+    "title": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι"
   },
-  "urn:cts:greekLit:tlg0007.tlg088.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg088.perseus-grc4": {
     "author": "Plutarch",
-    "title": "De gloria Atheniensium"
+    "title": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι"
   },
-  "urn:cts:greekLit:tlg0007.tlg088.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg088.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De gloria Atheniensium"
+    "title": "Were the Athenians More Famous in War or in Wisdom?"
   },
-  "urn:cts:greekLit:tlg0007.tlg088.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg088.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De gloria Atheniensium"
+    "title": "Whether the Athenians Were More Renowned For Their Warlike Achievements or For Their Learning"
   },
   "urn:cts:greekLit:tlg0007.tlg043.perseus-eng2": {
     "author": "Plutarch",
@@ -3415,61 +3435,61 @@
     "author": "Plutarch",
     "title": "Machine readable text"
   },
-  "urn:cts:greekLit:tlg0007.tlg075.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg075.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De virtute et vitio"
+    "title": "Περὶ ἀρετῆς καὶ κακιάς"
   },
-  "urn:cts:greekLit:tlg0007.tlg075.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg075.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De virtute et vitio"
+    "title": "Of Virtue and Vice"
   },
-  "urn:cts:greekLit:tlg0007.tlg075.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg075.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De virtute et vitio"
+    "title": "Virtue and Vice"
   },
-  "urn:cts:greekLit:tlg0007.tlg081.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg081.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Regum et imperatorum apophthegmata"
+    "title": "Sayings of Kings and Commanders"
   },
-  "urn:cts:greekLit:tlg0007.tlg081.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg081.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Regum et imperatorum apophthegmata"
+    "title": "The Apopthegms or Remarkable Sayings of Kings and Great Commanders"
   },
-  "urn:cts:greekLit:tlg0007.tlg081.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg081.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Regum et imperatorum apophthegmata"
+    "title": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
   },
-  "urn:cts:greekLit:tlg0007.tlg081.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg081.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Regum et imperatorum apophthegmata"
+    "title": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
   },
-  "urn:cts:greekLit:tlg0007.tlg086.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg086.perseus-grc4": {
     "author": "Plutarch",
-    "title": "De fortuna Romanorum"
+    "title": "Περὶ τῆς Ῥωμαίων τύχης"
   },
-  "urn:cts:greekLit:tlg0007.tlg086.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg086.perseus-grc3": {
     "author": "Plutarch",
-    "title": "De fortuna Romanorum"
+    "title": "Περὶ τῆς Ῥωμαίων τύχης"
   },
-  "urn:cts:greekLit:tlg0007.tlg086.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg086.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De fortuna Romanorum"
+    "title": "Concerning the Fortune of the Romans"
   },
-  "urn:cts:greekLit:tlg0007.tlg086.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg086.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De fortuna Romanorum"
+    "title": "On the Fortune of the Romans"
   },
-  "urn:cts:greekLit:tlg0007.tlg072.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg072.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De capienda ex inimicis utilitate"
+    "title": "How to Profit By One's Enemies"
   },
-  "urn:cts:greekLit:tlg0007.tlg072.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg072.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De capienda ex inimicis utilitate"
+    "title": "How a Man May Recieve Advantage and Profit From His Enemies"
   },
-  "urn:cts:greekLit:tlg0007.tlg072.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg072.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De capienda ex inimicis utilitate"
+    "title": "Πῶς ἄν τις ἀπ’ ἐχθρῶν ὠφελοῖτο"
   },
   "urn:cts:greekLit:tlg0007.tlg026.perseus-eng2": {
     "author": "Plutarch",
@@ -3519,145 +3539,145 @@
     "author": "Plutarch",
     "title": "Themistocles"
   },
-  "urn:cts:greekLit:tlg0007.tlg100.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg100.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Animine an corporis affectiones sint peiores"
+    "title": "Whether the passions of the soul or diseases of the body are worse"
   },
-  "urn:cts:greekLit:tlg0007.tlg100.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg100.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Animine an corporis affectiones sint peiores"
+    "title": "Whether the Affections of the Soul are Worse Than Those of the Body"
   },
-  "urn:cts:greekLit:tlg0007.tlg100.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg100.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Animine an corporis affectiones sint peiores"
+    "title": "Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα"
   },
-  "urn:cts:greekLit:tlg0007.tlg107.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg107.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De sera numinis vindicta"
+    "title": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων"
   },
-  "urn:cts:greekLit:tlg0007.tlg107.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg107.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De sera numinis vindicta"
+    "title": "Concerning Such Whom God is Slow to Punish"
   },
-  "urn:cts:greekLit:tlg0007.tlg138.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg138.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De communibus notitiis adversus Stoicos"
+    "title": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
   },
-  "urn:cts:greekLit:tlg0007.tlg138.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg138.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De communibus notitiis adversus Stoicos"
+    "title": "Of common conceptions, against the Stoics"
   },
-  "urn:cts:greekLit:tlg0007.tlg084b.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg084b.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Quaestiones Graecae"
+    "title": "Greek Questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg084b.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg084b.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Quaestiones Graecae"
+    "title": "The Greek Questions"
   },
-  "urn:cts:greekLit:tlg0007.tlg084b.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg084b.perseus-grc4": {
     "author": "Plutarch",
-    "title": "Quaestiones Graecae"
+    "title": "Κεφαλαίων καταγραφή Ἑλληνικά"
   },
-  "urn:cts:greekLit:tlg0007.tlg084b.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg084b.perseus-grc3": {
     "author": "Plutarch",
-    "title": "Quaestiones Graecae"
+    "title": "Αἴτια Ἑλληνικά"
   },
-  "urn:cts:greekLit:tlg0007.tlg131.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg131.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De esu carnium I"
+    "title": "On the eating of flesh I"
   },
-  "urn:cts:greekLit:tlg0007.tlg131.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg131.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De esu carnium I"
+    "title": "Of eating of flesh: Tract I."
   },
-  "urn:cts:greekLit:tlg0007.tlg131.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg131.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De esu carnium I"
+    "title": "Περὶ σαρκοφαγίας λόγος α′"
   },
-  "urn:cts:greekLit:tlg0007.tlg136.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg136.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Stoicorum repugnantiis"
+    "title": "Περὶ Στωικῶν ἐνιγμάτων"
   },
-  "urn:cts:greekLit:tlg0007.tlg136.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg136.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De Stoicorum repugnantiis"
+    "title": "The contradictions of the Stoics"
   },
-  "urn:cts:greekLit:tlg0007.tlg109.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg109.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De genio Socratis"
+    "title": "Περὶ τοῦ Σωκράτους δαιμονίου"
   },
-  "urn:cts:greekLit:tlg0007.tlg109.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg109.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De genio Socratis"
+    "title": "A Discourse Concerning Socrates's Daemon"
   },
-  "urn:cts:greekLit:tlg0007.tlg082a.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg082a.perseus-grc3": {
+    "author": "Plutarch",
+    "title": "Τὰ παλαιὰ τῶν Λακεδαινίων ἐπιτηδεύματα"
+  },
+  "urn:cts:greekLit:tlg0007.tlg082a.perseus-grc4": {
+    "author": "Plutarch",
+    "title": "Τὰ παλαιὰ τῶν Λακεδαινίων ἐπιτηδεύματα"
+  },
+  "urn:cts:greekLit:tlg0007.tlg082a.perseus-eng2": {
     "author": "Plutarch",
     "title": "Instituta Laconica"
   },
-  "urn:cts:greekLit:tlg0007.tlg082a.perseus-grc2": {
+  "urn:cts:greekLit:tlg0007.tlg137.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Instituta Laconica"
+    "title": "Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν ποιητῶν λέγουσι"
   },
-  "urn:cts:greekLit:tlg0007.tlg082a.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg137.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Instituta Laconica"
+    "title": "A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets"
   },
-  "urn:cts:greekLit:tlg0007.tlg137.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg108.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Compendium Argumenti Stoicos absurdiora poetis dicere"
+    "title": "Περὶ εἱμαρμένης"
   },
-  "urn:cts:greekLit:tlg0007.tlg137.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg108.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Compendium Argumenti Stoicos absurdiora poetis dicere"
+    "title": "Of Fate"
   },
-  "urn:cts:greekLit:tlg0007.tlg108.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg130.perseus-eng3": {
     "author": "Plutarch",
-    "title": "De fato"
+    "title": "Beasts are rational"
   },
-  "urn:cts:greekLit:tlg0007.tlg108.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg130.perseus-eng4": {
     "author": "Plutarch",
-    "title": "De fato"
+    "title": "That brute beasts make use of reason"
   },
-  "urn:cts:greekLit:tlg0007.tlg130.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg130.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Bruta animalia ratione uti"
+    "title": "Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι"
   },
-  "urn:cts:greekLit:tlg0007.tlg130.perseus-eng2": {
+  "urn:cts:greekLit:tlg0007.tlg106.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Bruta animalia ratione uti"
+    "title": "Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως"
   },
-  "urn:cts:greekLit:tlg0007.tlg130.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg106.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Bruta animalia ratione uti"
+    "title": "How a Man May Inoffensively Praise Himself Without Being Liable to Envy"
   },
-  "urn:cts:greekLit:tlg0007.tlg106.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg139.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De Se Ipsum Citra Invidiam Laudando"
+    "title": "Ὅτι οὐδ' ἡδέως ζῆν ἔστι κατ' Ἐπίκουρον"
   },
-  "urn:cts:greekLit:tlg0007.tlg106.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg139.perseus-eng2": {
     "author": "Plutarch",
-    "title": "De Se Ipsum Citra Invidiam Laudando"
+    "title": "That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus"
   },
-  "urn:cts:greekLit:tlg0007.tlg139.perseus-grc1": {
+  "urn:cts:greekLit:tlg0007.tlg101.perseus-eng4": {
     "author": "Plutarch",
-    "title": "Non posse suaviter vivi secundum Epicurum"
+    "title": "Of Garrulity, or Talkativeness"
   },
-  "urn:cts:greekLit:tlg0007.tlg139.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg101.perseus-eng3": {
     "author": "Plutarch",
-    "title": "Non posse suaviter vivi secundum Epicurum"
+    "title": "Concerning Talkativeness"
   },
-  "urn:cts:greekLit:tlg0007.tlg101.perseus-eng1": {
+  "urn:cts:greekLit:tlg0007.tlg101.perseus-grc2": {
     "author": "Plutarch",
-    "title": "De garrulitate"
-  },
-  "urn:cts:greekLit:tlg0007.tlg101.perseus-eng2": {
-    "author": "Plutarch",
-    "title": "De garrulitate"
-  },
-  "urn:cts:greekLit:tlg0007.tlg101.perseus-grc1": {
-    "author": "Plutarch",
-    "title": "De garrulitate"
+    "title": "Περὶ ἀδολεσχίας"
   },
   "urn:cts:greekLit:tlg0062.tlg054.perseus-grc1": {
     "author": "Lucian",
@@ -3953,83 +3973,147 @@
   },
   "urn:cts:greekLit:tlg0006.tlg009.perseus-grc2": {
     "author": "Euripides",
-    "title": "Heracles"
+    "title": "Ἡρακλῆς"
   },
   "urn:cts:greekLit:tlg0006.tlg009.perseus-eng2": {
     "author": "Euripides",
     "title": "Heracles"
   },
-  "urn:cts:greekLit:tlg0006.tlg009.perseus-grc2b": {
+  "urn:cts:greekLit:tlg0006.tlg007.perseus-grc2": {
     "author": "Euripides",
-    "title": "Heracles"
+    "title": "Ἑκάβη"
   },
-  "urn:cts:greekLit:tlg0006.tlg007.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg007.perseus-eng2": {
     "author": "Euripides",
     "title": "Hecuba"
   },
-  "urn:cts:greekLit:tlg0006.tlg008.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg001.perseus-eng2": {
     "author": "Euripides",
-    "title": "Suppliants"
+    "title": "The Cyclops"
   },
-  "urn:cts:greekLit:tlg0006.tlg015.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg001.perseus-grc2": {
     "author": "Euripides",
-    "title": "Phoenissae"
+    "title": "Cyclops"
   },
-  "urn:cts:greekLit:tlg0006.tlg012.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg006.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἀνδρομάχη"
+  },
+  "urn:cts:greekLit:tlg0006.tlg006.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Alcestis"
+  },
+  "urn:cts:greekLit:tlg0006.tlg008.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἱκέτιδες"
+  },
+  "urn:cts:greekLit:tlg0006.tlg015.perseus-eng2": {
+    "author": "Euripides",
+    "title": "The Phoenician Maidens"
+  },
+  "urn:cts:greekLit:tlg0006.tlg015.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Φοίνισσαι"
+  },
+  "urn:cts:greekLit:tlg0006.tlg012.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἠλέκτρα"
+  },
+  "urn:cts:greekLit:tlg0006.tlg012.perseus-eng2": {
     "author": "Euripides",
     "title": "Electra"
   },
-  "urn:cts:greekLit:tlg0006.tlg013.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg013.perseus-grc2": {
     "author": "Euripides",
-    "title": "Iphigenia in Tauris"
+    "title": "Ἰφιγένεια ἐν Ταύροις"
   },
-  "urn:cts:greekLit:tlg0006.tlg014.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg013.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Iphigenia Among the Tauri"
+  },
+  "urn:cts:greekLit:tlg0006.tlg014.perseus-eng2": {
     "author": "Euripides",
     "title": "Helen"
   },
-  "urn:cts:greekLit:tlg0006.tlg011.perseus-eng1": {
+  "urn:cts:greekLit:tlg0006.tlg014.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἑλένη"
+  },
+  "urn:cts:greekLit:tlg0006.tlg003.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Medea"
+  },
+  "urn:cts:greekLit:tlg0006.tlg004.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Heracleidae"
+  },
+  "urn:cts:greekLit:tlg0006.tlg004.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἡρακλεῖδαι"
+  },
+  "urn:cts:greekLit:tlg0006.tlg005.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Hippolytus"
+  },
+  "urn:cts:greekLit:tlg0006.tlg005.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἱππόλυτος"
+  },
+  "urn:cts:greekLit:tlg0006.tlg002.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Alcestis"
+  },
+  "urn:cts:greekLit:tlg0006.tlg011.perseus-eng2": {
     "author": "Euripides",
     "title": "The Trojan Women"
   },
-  "urn:cts:greekLit:tlg0006.tlg011.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg011.perseus-grc2": {
     "author": "Euripides",
-    "title": "The Trojan Women"
+    "title": "Τρῳάδες"
   },
-  "urn:cts:greekLit:tlg0006.tlg016.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg016.perseus-grc2": {
     "author": "Euripides",
     "title": "Orestes"
   },
-  "urn:cts:greekLit:tlg0006.tlg018.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg016.perseus-eng2": {
+    "author": "Euripides",
+    "title": "Orestes"
+  },
+  "urn:cts:greekLit:tlg0006.tlg018.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἰφιγένεια ἐν Αὐλίδι"
+  },
+  "urn:cts:greekLit:tlg0006.tlg018.perseus-eng2": {
     "author": "Euripides",
     "title": "Iphigenia in Aulis"
   },
-  "urn:cts:greekLit:tlg0006.tlg018.perseus-eng1": {
+  "urn:cts:greekLit:tlg0006.tlg019.perseus-grc2": {
     "author": "Euripides",
-    "title": "Iphigenia in Aulis"
+    "title": "Ῥῆσος"
   },
-  "urn:cts:greekLit:tlg0006.tlg019.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg019.perseus-eng3": {
     "author": "Euripides",
     "title": "Rhesus"
   },
-  "urn:cts:greekLit:tlg0006.tlg019.perseus-eng2": {
-    "author": "Euripides",
-    "title": "Rhesus (English)"
-  },
-  "urn:cts:greekLit:tlg0006.tlg019.perseus-eng1": {
+  "urn:cts:greekLit:tlg0006.tlg019.perseus-eng4": {
     "author": "Euripides",
     "title": "Rhesus"
   },
   "urn:cts:greekLit:tlg0006.tlg017.perseus-grc2": {
     "author": "Euripides",
-    "title": "Bacchae"
+    "title": "Βάκχαι"
   },
-  "urn:cts:greekLit:tlg0006.tlg017.perseus-eng1": {
+  "urn:cts:greekLit:tlg0006.tlg017.perseus-eng2": {
     "author": "Euripides",
     "title": "Bacchae"
   },
-  "urn:cts:greekLit:tlg0006.tlg010.perseus-grc1": {
+  "urn:cts:greekLit:tlg0006.tlg010.perseus-eng2": {
     "author": "Euripides",
     "title": "Ion"
+  },
+  "urn:cts:greekLit:tlg0006.tlg010.perseus-grc2": {
+    "author": "Euripides",
+    "title": "Ἴων"
   },
   "urn:cts:greekLit:tlg4036.tlg023.cypria-grc1": {
     "author": "Proclus",
@@ -4092,6 +4176,10 @@
     "title": "The Deipnosophists"
   },
   "urn:cts:greekLit:tlg0008.tlg001.perseus-eng2": {
+    "author": "Athenaeus",
+    "title": "The Deipnosophists"
+  },
+  "urn:cts:greekLit:tlg0008.tlg001.perseus-eng3": {
     "author": "Athenaeus",
     "title": "The Deipnosophists"
   },
@@ -4407,6 +4495,10 @@
     "author": "Longinus",
     "title": "De Sublimitate"
   },
+  "urn:cts:greekLit:tlg0560.tlg001.perseus-grc2": {
+    "author": "Longinus",
+    "title": "Περὶ ὕψους"
+  },
   "urn:cts:greekLit:tlg0551.tlg009.perseus-grc2": {
     "author": "Appian",
     "title": "Punic Wars"
@@ -4523,6 +4615,10 @@
     "author": "Appian",
     "title": "Numidian Affairs"
   },
+  "urn:cts:greekLit:tlg1484.tlg001.perseus-eng1": {
+    "author": "Anonymous",
+    "title": "The Martydom of Polycarp"
+  },
   "urn:cts:greekLit:tlg0556.tlg001.perseus-grc1": {
     "author": "Asclepiodotus",
     "title": "Tactica"
@@ -4543,17 +4639,17 @@
     "author": "Achilles Tatius",
     "title": "Leucippe et Clitophon"
   },
-  "urn:cts:greekLit:tlg0557.tlg001.perseus-grc1": {
+  "urn:cts:greekLit:tlg0557.tlg001.perseus-grc2": {
     "author": "Epictetus",
-    "title": "Discourses"
+    "title": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
   },
-  "urn:cts:greekLit:tlg0557.tlg001.perseus-eng2": {
+  "urn:cts:greekLit:tlg0557.tlg001.perseus-eng3": {
     "author": "Epictetus",
-    "title": "Discourses"
+    "title": "Arrian's Discourses of Epictetus"
   },
-  "urn:cts:greekLit:tlg0557.tlg001.perseus-eng1": {
+  "urn:cts:greekLit:tlg0557.tlg001.perseus-eng4": {
     "author": "Epictetus",
-    "title": "Discourses"
+    "title": "The Discourses of Epictetus"
   },
   "urn:cts:greekLit:tlg0557.tlg003.perseus-eng1": {
     "author": "Epictetus",
@@ -4565,23 +4661,27 @@
   },
   "urn:cts:greekLit:tlg0557.tlg003.perseus-grc1": {
     "author": "Epictetus",
-    "title": "Fragments"
+    "title": "Fragmenta"
   },
-  "urn:cts:greekLit:tlg0557.tlg002.perseus-eng1": {
+  "urn:cts:greekLit:tlg0557.tlg002.perseus-eng3": {
     "author": "Epictetus",
-    "title": "Enchiridion"
+    "title": "The Encheiridion, or Manual."
   },
-  "urn:cts:greekLit:tlg0557.tlg002.perseus-eng2": {
+  "urn:cts:greekLit:tlg0557.tlg002.perseus-eng4": {
     "author": "Epictetus",
-    "title": "Enchiridion"
+    "title": "The Enchiridion"
   },
-  "urn:cts:greekLit:tlg0557.tlg002.perseus-grc1": {
+  "urn:cts:greekLit:tlg0557.tlg002.perseus-grc2": {
     "author": "Epictetus",
-    "title": "Enchiridion"
+    "title": "Ἐγχειρίδιον"
   },
-  "urn:cts:greekLit:tlg1216.tlg001.perseus-grc1": {
+  "urn:cts:greekLit:tlg1216.tlg001.perseus-eng1": {
     "author": "Barnabas",
-    "title": "Barnabae Epistula"
+    "title": "The Epistle of Barnabas"
+  },
+  "urn:cts:greekLit:tlg1216.tlg001.perseus-grc2": {
+    "author": "Barnabas",
+    "title": "The Epistle of Barnabas"
   },
   "urn:cts:greekLit:tlg2003.tlg009.perseus-grc1": {
     "author": "Julian the Emperor",
@@ -4654,6 +4754,14 @@
   "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2": {
     "author": "Homer",
     "title": "Iliad (Greek). Machine readable text"
+  },
+  "urn:cts:greekLit:tlg0012.tlg003.perseus-grc1": {
+    "author": "Homer",
+    "title": "Ἐπιγράμματα"
+  },
+  "urn:cts:greekLit:tlg0012.tlg003.perseus-eng1": {
+    "author": "Homer",
+    "title": "Epigrams"
   },
   "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2": {
     "author": "Homer",
@@ -5175,491 +5283,507 @@
     "author": "Anonymous",
     "title": "Hymn 10 To Aphrodite"
   },
-  "urn:cts:greekLit:tlg0014.tlg054.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg054.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "κατὰ Κόνωνος αἰκείας"
+  },
+  "urn:cts:greekLit:tlg0014.tlg054.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Conon"
   },
-  "urn:cts:greekLit:tlg0014.tlg054.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Conon"
-  },
-  "urn:cts:greekLit:tlg0014.tlg053.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg053.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Apollodorus Against Nicostratus"
   },
-  "urn:cts:greekLit:tlg0014.tlg053.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg053.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Nicostratus"
+    "title": "πρὸς Νικόστρατον περὶ ἀνδραπόδων ἀπογραφῆς Ἀρεθουσίου"
   },
-  "urn:cts:greekLit:tlg0014.tlg009.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg062.perseus-eng2": {
+    "author": "Demosthenes",
+    "title": "Exordia"
+  },
+  "urn:cts:greekLit:tlg0014.tlg062.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "προοίμια δημηγορικά"
+  },
+  "urn:cts:greekLit:tlg0014.tlg009.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Third Philippic"
   },
-  "urn:cts:greekLit:tlg0014.tlg009.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg009.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Third Philippic"
+    "title": "κατὰ Φιλίππου γ΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg036.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "For Phormio"
-  },
-  "urn:cts:greekLit:tlg0014.tlg036.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg036.perseus-eng2": {
     "author": "Demosthenes",
     "title": "For Phormio"
   },
-  "urn:cts:greekLit:tlg0014.tlg031.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg036.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Onetor 2"
+    "title": "παραγραφὴ ὑπὲρ Φορμίωνος"
   },
-  "urn:cts:greekLit:tlg0014.tlg031.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg031.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Onetor 2"
+    "title": "πρὸς Ὀνήτορα ἐξούλης β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg038.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg031.perseus-eng2": {
+    "author": "Demosthenes",
+    "title": "Against Onetor II"
+  },
+  "urn:cts:greekLit:tlg0014.tlg038.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Nausimachus and Xenopeithes"
   },
-  "urn:cts:greekLit:tlg0014.tlg038.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg038.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Nausimachus and Xenopeithes"
+    "title": "παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην"
   },
-  "urn:cts:greekLit:tlg0014.tlg007.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "On Halonnesus"
-  },
-  "urn:cts:greekLit:tlg0014.tlg007.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg007.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On Halonnesus"
   },
-  "urn:cts:greekLit:tlg0014.tlg052.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg007.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ Ἀλοννήσου"
+  },
+  "urn:cts:greekLit:tlg0014.tlg063.perseus-eng2": {
+    "author": "Demosthenes",
+    "title": "Letters"
+  },
+  "urn:cts:greekLit:tlg0014.tlg063.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "Δημοσθένους ἐπιστολαὶ"
+  },
+  "urn:cts:greekLit:tlg0014.tlg052.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Apollodorus Against Callipus"
   },
-  "urn:cts:greekLit:tlg0014.tlg052.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg052.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Callipus"
+    "title": "πρὸς Κάλλιππον"
   },
-  "urn:cts:greekLit:tlg0014.tlg055.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg055.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Καλλικλέα περὶ χωρίου βλάβης"
+  },
+  "urn:cts:greekLit:tlg0014.tlg055.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Callicles"
   },
-  "urn:cts:greekLit:tlg0014.tlg055.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg001.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Callicles"
+    "title": "Ὀλυνθιακὸς α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg001.perseus-grc1": {
-    "author": "Demosthenes",
-    "title": "First Olynthiac"
-  },
-  "urn:cts:greekLit:tlg0014.tlg001.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg001.perseus-eng2": {
     "author": "Demosthenes",
     "title": "First Olynthiac"
   },
-  "urn:cts:greekLit:tlg0014.tlg039.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg039.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Boeotus 1"
+    "title": "Against Boeotus I"
   },
-  "urn:cts:greekLit:tlg0014.tlg039.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg039.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Boeotus 1."
+    "title": "πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος"
   },
-  "urn:cts:greekLit:tlg0014.tlg006.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Second Philippic"
-  },
-  "urn:cts:greekLit:tlg0014.tlg006.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg006.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Second Philippic"
   },
-  "urn:cts:greekLit:tlg0014.tlg030.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg006.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Onetor 1"
+    "title": "κατὰ Φιλίππου β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg030.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg030.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Onetor 1"
+    "title": "πρὸς Ὀνήτορα ἐξούλης α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg008.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg030.perseus-eng2": {
+    "author": "Demosthenes",
+    "title": "Against Onetor I"
+  },
+  "urn:cts:greekLit:tlg0014.tlg008.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Chersonese"
   },
-  "urn:cts:greekLit:tlg0014.tlg008.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg008.perseus-grc2": {
     "author": "Demosthenes",
     "title": "περὶ τῶν ἐν Χερρονήσῳ"
   },
-  "urn:cts:greekLit:tlg0014.tlg037.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg037.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Pantaenetus"
   },
-  "urn:cts:greekLit:tlg0014.tlg037.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg037.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Pantaenetus"
+    "title": "παραγραφὴ πρὸς Πανταίνετον"
   },
-  "urn:cts:greekLit:tlg0014.tlg015.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg015.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "ὑπὲρ τῆς Ῥοδίων ἐλευθερίας"
+  },
+  "urn:cts:greekLit:tlg0014.tlg015.perseus-eng2": {
     "author": "Demosthenes",
     "title": "For the Liberty of the Rhodians"
   },
-  "urn:cts:greekLit:tlg0014.tlg015.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg012.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "For the Liberty of the Rhodians"
+    "title": "Philip’s Letter"
   },
-  "urn:cts:greekLit:tlg0014.tlg012.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg012.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Philip's Letter"
+    "title": "ἐπιστολή [Φιλίππου]"
   },
-  "urn:cts:greekLit:tlg0014.tlg012.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg024.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Philip's Letter"
+    "title": "κατὰ Τιμοκράτους"
   },
-  "urn:cts:greekLit:tlg0014.tlg024.perseus-grc1": {
-    "author": "Demosthenes",
-    "title": "Against Timocrates"
-  },
-  "urn:cts:greekLit:tlg0014.tlg024.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg024.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Timocrates"
   },
-  "urn:cts:greekLit:tlg0014.tlg023.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg023.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Aristocrates"
   },
-  "urn:cts:greekLit:tlg0014.tlg023.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg023.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aristocrates"
+    "title": "κατὰ Ἀριστοκράτους"
   },
-  "urn:cts:greekLit:tlg0014.tlg048.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg048.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Olympiodorus"
   },
-  "urn:cts:greekLit:tlg0014.tlg048.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg048.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "κατὰ Ὀλυμπιοδώρου Βλάβης"
+    "title": "κατὰ Ὀλυμπιοδώρου βλάβης"
   },
-  "urn:cts:greekLit:tlg0014.tlg046.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg046.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Stephanus 2"
+    "title": "Apollodorus Against Stephanus II"
   },
-  "urn:cts:greekLit:tlg0014.tlg046.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg046.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Stephanus 2"
+    "title": "κατὰ Στεφάνου ψευδομαρτυριῶν β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg041.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg041.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Σπουδίαν ὑπὲρ προικός"
+  },
+  "urn:cts:greekLit:tlg0014.tlg041.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Spudias"
   },
-  "urn:cts:greekLit:tlg0014.tlg041.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Spudias"
-  },
-  "urn:cts:greekLit:tlg0014.tlg022.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg022.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Androtion"
   },
-  "urn:cts:greekLit:tlg0014.tlg022.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg022.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "κατὰ Ἀνδροτίωνος Παρανόμων"
+    "title": "κατὰ Ἀνδροτίωνος παρανόμων"
   },
-  "urn:cts:greekLit:tlg0014.tlg025.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg025.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aristogeiton 1"
+    "title": "κατὰ Ἀριστογείτονος α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg025.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg025.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Aristogeiton 1"
+    "title": "Against Aristogeiton I"
   },
-  "urn:cts:greekLit:tlg0014.tlg013.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "On Organization"
-  },
-  "urn:cts:greekLit:tlg0014.tlg013.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg013.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On Organization"
   },
-  "urn:cts:greekLit:tlg0014.tlg014.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg013.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ συντάξεως"
+  },
+  "urn:cts:greekLit:tlg0014.tlg014.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ τῶν συμμοριῶν"
+  },
+  "urn:cts:greekLit:tlg0014.tlg014.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Navy-Boards"
   },
-  "urn:cts:greekLit:tlg0014.tlg014.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg040.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "On the Navy-Boards"
+    "title": "πρὸς Βοιωτὸν περὶ προικὸς μητρῴας"
   },
-  "urn:cts:greekLit:tlg0014.tlg040.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg040.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Boeotus 2."
+    "title": "Against Boeotus II"
   },
-  "urn:cts:greekLit:tlg0014.tlg040.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Boeotus 2"
-  },
-  "urn:cts:greekLit:tlg0014.tlg047.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg047.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Evergus And Mnesibulus"
   },
-  "urn:cts:greekLit:tlg0014.tlg047.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg047.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Evergus And Mnesibulus"
+    "title": "κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν"
   },
-  "urn:cts:greekLit:tlg0014.tlg049.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Apollodorus Against Timotheus"
-  },
-  "urn:cts:greekLit:tlg0014.tlg049.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg049.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Apollodorus Against Timotheus"
   },
-  "urn:cts:greekLit:tlg0014.tlg032.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg049.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Τιμόθεον ὑπὲρ χρέως"
+  },
+  "urn:cts:greekLit:tlg0014.tlg032.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Zenothemis"
   },
-  "urn:cts:greekLit:tlg0014.tlg032.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg032.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Zenothemis"
+    "title": "πρὸς Ζηνόθεμιν παραγραφή"
   },
-  "urn:cts:greekLit:tlg0014.tlg035.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg035.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς τὴν Λάκριτον παραγραφὴν"
+  },
+  "urn:cts:greekLit:tlg0014.tlg035.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Lacritus"
   },
-  "urn:cts:greekLit:tlg0014.tlg035.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Lacritus"
-  },
-  "urn:cts:greekLit:tlg0014.tlg003.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg003.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Third Olynthiac"
   },
-  "urn:cts:greekLit:tlg0014.tlg003.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg003.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Third Olynthiac"
+    "title": "Ὀλυνθιακὸς γ΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg004.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg004.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Speech 4 (Greek). Machine readable text"
+    "title": "κατὰ Φιλίππου α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg004.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg004.perseus-eng2": {
     "author": "Demosthenes",
     "title": "First Philippic"
   },
-  "urn:cts:greekLit:tlg0014.tlg050.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg050.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος"
+  },
+  "urn:cts:greekLit:tlg0014.tlg050.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Apollodorus Against Polycles"
   },
-  "urn:cts:greekLit:tlg0014.tlg050.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Apollodorus Against Polycles"
-  },
-  "urn:cts:greekLit:tlg0014.tlg057.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg057.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Eubulides"
   },
-  "urn:cts:greekLit:tlg0014.tlg057.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg057.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Eubulides"
+    "title": "ἔφεσις πρὸς Εὐβουλίδην"
   },
-  "urn:cts:greekLit:tlg0014.tlg061.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg061.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "ἐρωτικὸς"
+  },
+  "urn:cts:greekLit:tlg0014.tlg061.perseus-eng2": {
     "author": "Demosthenes",
     "title": "The Erotic Essay"
   },
-  "urn:cts:greekLit:tlg0014.tlg061.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "The Erotic Essay"
-  },
-  "urn:cts:greekLit:tlg0014.tlg059.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg059.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Apollodorus Against Neaera"
   },
-  "urn:cts:greekLit:tlg0014.tlg059.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg059.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Neaera"
+    "title": "κατὰ Νεαίρας"
   },
-  "urn:cts:greekLit:tlg0014.tlg005.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg005.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ τῆς εἰρήνης"
+  },
+  "urn:cts:greekLit:tlg0014.tlg005.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Peace"
   },
-  "urn:cts:greekLit:tlg0014.tlg005.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "On the Peace"
-  },
-  "urn:cts:greekLit:tlg0014.tlg002.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg002.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Second Olynthiac"
   },
-  "urn:cts:greekLit:tlg0014.tlg002.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg002.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Second Olynthiac"
+    "title": "Ὀλυνθιακὸς β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg034.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg034.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Φορμίωνα ὑπὲρ δανείου"
+  },
+  "urn:cts:greekLit:tlg0014.tlg034.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Phormio"
   },
-  "urn:cts:greekLit:tlg0014.tlg034.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Phormio"
-  },
-  "urn:cts:greekLit:tlg0014.tlg033.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg033.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Apaturius"
   },
-  "urn:cts:greekLit:tlg0014.tlg033.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg033.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Apaturius"
+    "title": "πρὸς Ἀπατούριον παραγραφή"
   },
-  "urn:cts:greekLit:tlg0014.tlg058.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Theocrines"
-  },
-  "urn:cts:greekLit:tlg0014.tlg058.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg058.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Theocrines"
   },
-  "urn:cts:greekLit:tlg0014.tlg060.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg058.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "The Funeral Speech 51-61 (Greek). Machine readable text"
+    "title": "ἔνδειξις κατὰ Θεοκρίνου"
   },
-  "urn:cts:greekLit:tlg0014.tlg060.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg060.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "ἐπιτάφιος"
+  },
+  "urn:cts:greekLit:tlg0014.tlg060.perseus-eng2": {
     "author": "Demosthenes",
     "title": "The Funeral Speech"
   },
-  "urn:cts:greekLit:tlg0014.tlg056.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg056.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Dionysodorus"
   },
-  "urn:cts:greekLit:tlg0014.tlg056.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg056.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Dionysodorus"
+    "title": "κατὰ Διονυσοδώρου βλάβης"
   },
-  "urn:cts:greekLit:tlg0014.tlg051.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg051.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ τοῦ Στεφάνου τῆς τριηραρκίας"
+  },
+  "urn:cts:greekLit:tlg0014.tlg051.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On The Trierarchic Crown"
   },
-  "urn:cts:greekLit:tlg0014.tlg051.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "On The Trierarchic Crown"
-  },
-  "urn:cts:greekLit:tlg0014.tlg042.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg042.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Phaenippus"
   },
-  "urn:cts:greekLit:tlg0014.tlg042.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg042.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Phaenippus"
+    "title": "πρὸς Φαίνιππον περὶ ἀντιδόσεως"
   },
-  "urn:cts:greekLit:tlg0014.tlg045.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg045.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Stephanus 1"
+    "title": "κατὰ Στεφάνου ψευδομαρτυριῶν α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg045.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg045.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Apollodorus Against Stephanus 1"
+    "title": "Apollodorus Against Stephanus I"
   },
-  "urn:cts:greekLit:tlg0014.tlg011.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg011.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Answer to Philip's Letter"
+    "title": "πρὸς τὴν ἐπιστολήν τὴν Φιλίππου"
   },
-  "urn:cts:greekLit:tlg0014.tlg011.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg011.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Answer to Philip's Letter"
+    "title": "Answer to Philip’s Letter"
   },
-  "urn:cts:greekLit:tlg0014.tlg016.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg016.perseus-eng2": {
     "author": "Demosthenes",
     "title": "For the People of Megalopolis"
   },
-  "urn:cts:greekLit:tlg0014.tlg016.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg016.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "For the Megalopolitans"
+    "title": "ὑπὲρ Μεγαλοπολιτῶν"
   },
-  "urn:cts:greekLit:tlg0014.tlg029.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg029.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Aphobus 3"
+    "title": "Against Aphobus III"
   },
-  "urn:cts:greekLit:tlg0014.tlg029.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg029.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aphobus 3"
+    "title": "πρὸς Ἄφοβον ὑπὲρ Φάνου ψευδομαρτυριῶν γ΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg020.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg020.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "περὶ τῆς Ἀτελείας πρὸς Λεπτίνην"
+  },
+  "urn:cts:greekLit:tlg0014.tlg020.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Leptines"
   },
-  "urn:cts:greekLit:tlg0014.tlg020.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg027.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Leptines"
+    "title": "Against Aphobus I"
   },
-  "urn:cts:greekLit:tlg0014.tlg027.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg027.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aphobus 1"
+    "title": "κατὰ Ἀφόβου ἐπιτροπῆς α΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg027.perseus-grc1": {
-    "author": "Demosthenes",
-    "title": "Against Aphobus 1"
-  },
-  "urn:cts:greekLit:tlg0014.tlg018.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg018.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Crown"
   },
-  "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg018.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "On the Crown"
+    "title": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου"
   },
-  "urn:cts:greekLit:tlg0014.tlg044.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg044.perseus-grc2": {
+    "author": "Demosthenes",
+    "title": "πρὸς Λεωκάρη περὶ τοῦ Ἀρχιάδου κλήρου"
+  },
+  "urn:cts:greekLit:tlg0014.tlg044.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Leochares"
   },
-  "urn:cts:greekLit:tlg0014.tlg044.perseus-eng1": {
-    "author": "Demosthenes",
-    "title": "Against Leochares"
-  },
-  "urn:cts:greekLit:tlg0014.tlg043.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg043.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Macartatus"
   },
-  "urn:cts:greekLit:tlg0014.tlg043.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg043.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Macartatus"
+    "title": "πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου"
   },
-  "urn:cts:greekLit:tlg0014.tlg026.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg026.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Aristogeiton 2"
+    "title": "Against Aristogeiton II"
   },
-  "urn:cts:greekLit:tlg0014.tlg026.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg026.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aristogeiton 2"
+    "title": "κατὰ Ἀριστογείτονος β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg019.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg019.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Embassy"
   },
-  "urn:cts:greekLit:tlg0014.tlg019.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg019.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "On the False Embassy"
+    "title": "περὶ τῆς παραπρεσβείας"
   },
-  "urn:cts:greekLit:tlg0014.tlg021.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg021.perseus-grc2": {
     "author": "Demosthenes",
     "title": "κατὰ Μειδίου περὶ τοῦ Κονδύλου"
   },
-  "urn:cts:greekLit:tlg0014.tlg021.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg021.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Against Meidias"
   },
-  "urn:cts:greekLit:tlg0014.tlg017.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg017.perseus-eng2": {
     "author": "Demosthenes",
     "title": "On the Treaty with Alexander"
   },
-  "urn:cts:greekLit:tlg0014.tlg017.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg017.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "On the Accession of Alexander"
+    "title": "περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν"
   },
-  "urn:cts:greekLit:tlg0014.tlg028.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg028.perseus-eng2": {
     "author": "Demosthenes",
-    "title": "Against Aphobus 2"
+    "title": "Against Aphobus II"
   },
-  "urn:cts:greekLit:tlg0014.tlg028.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg028.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Against Aphobus 2"
+    "title": "κατὰ Ἀφόβου β΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg010.perseus-grc1": {
+  "urn:cts:greekLit:tlg0014.tlg010.perseus-grc2": {
     "author": "Demosthenes",
-    "title": "Fourth Philippic"
+    "title": "κατὰ Φιλίππου δ΄"
   },
-  "urn:cts:greekLit:tlg0014.tlg010.perseus-eng1": {
+  "urn:cts:greekLit:tlg0014.tlg010.perseus-eng2": {
     "author": "Demosthenes",
     "title": "Fourth Philippic"
   },
@@ -6115,13 +6239,53 @@
     "author": "Agatharchides",
     "title": "Ex Agatharchidis De Maris Erythraeo Libri Excerpta"
   },
+  "urn:cts:greekLit:tlg0093.tlg010x04.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Κόπων"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x03.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Σημείων Ὑδάτων και Pνευμάτων και Xειμώνων και Εὐδιών"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x02.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Ανέμων"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x05.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Ἰλίγγων"
+  },
   "urn:cts:greekLit:tlg0093.tlg001.1st1K-grc1": {
     "author": "Theophrastus",
     "title": "Enquiry into Plants"
   },
+  "urn:cts:greekLit:tlg0093.tlg006.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Ἐκ τῶν μετὰ τὰ φυσικά"
+  },
   "urn:cts:greekLit:tlg0093.ogl001.1st1K-grc1": {
     "author": "Theophrastus",
     "title": "Concerning Odours"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x07.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Λειποψυχίας"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x09.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Fragmenta varia (13-190)"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x08.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περὶ Παραλύσεως"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x06.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Ἰδρώτων"
+  },
+  "urn:cts:greekLit:tlg0093.tlg010x01.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περί Ὀσμών"
   },
   "urn:cts:greekLit:tlg0093.tlg003.1st1K-grc1": {
     "author": "Theophrastus",
@@ -6131,9 +6295,21 @@
     "author": "Theophrastus",
     "title": "De lapidibus"
   },
+  "urn:cts:greekLit:tlg0093.tlg005.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περὶ πυρός"
+  },
+  "urn:cts:greekLit:tlg0093.tlg002.1st1K-grc1": {
+    "author": "Theophrastus",
+    "title": "Περὶ φυτῶν αἰτιῶν"
+  },
   "urn:cts:greekLit:tlg0093.ogl002.1st1K-grc1": {
     "author": "Theophrastus",
     "title": "Enquiry into Plants"
+  },
+  "urn:cts:greekLit:tlg0609.tlg001.1st1K-grc1": {
+    "author": "Tryphon I Grammaticus",
+    "title": "Περὶ τρόπων"
   },
   "urn:cts:greekLit:tlg0094.tlg001.1st1K-grc1": {
     "author": "Pseudo-Plutarch",
@@ -6142,6 +6318,14 @@
   "urn:cts:greekLit:tlg0069.tlg001.1st1K-grc1": {
     "author": "Dionysius Calliphontis",
     "title": "Dionysii Calliphontis filii Descriptio Graeciae"
+  },
+  "urn:cts:greekLit:tlg0607.tlg001.1st1K-grc1": {
+    "author": "Aelius Theon",
+    "title": "Progymnasmata"
+  },
+  "urn:cts:greekLit:tlg0005.tlg003.1st1K-grc1": {
+    "author": "Theocritus",
+    "title": "Syrinx"
   },
   "urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1": {
     "author": "Anonymus",
@@ -6171,6 +6355,10 @@
     "author": "Anonymous",
     "title": "Certamen Homeri et Hesiodi"
   },
+  "urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1": {
+    "author": "Chrysippus",
+    "title": "Fragmenta Logica et Physica"
+  },
   "urn:cts:greekLit:tlg2022.tlg009.opp-grc1": {
     "author": "Gregorius Nazianzenus",
     "title": "De Filio (Orat. 29)"
@@ -6198,6 +6386,10 @@
   "urn:cts:greekLit:tlg2022.tlg010.opp-grc1": {
     "author": "Gregorius Nazianzenus",
     "title": "De Filio (Orat. 30)"
+  },
+  "urn:cts:greekLit:tlg1801.tlg001.1st1K-grc1": {
+    "author": "Parodica Anonyma",
+    "title": "Incertorum fragmenta"
   },
   "urn:cts:greekLit:tlg3135.tlg001.opp-grc1": {
     "author": "Joannes Zonaras",
@@ -6251,9 +6443,25 @@
     "author": "Vitae Pindari et varia de Pindaro",
     "title": "Vita metrica"
   },
+  "urn:cts:greekLit:tlg1402.tlg003.1st1K-grc1": {
+    "author": "Hephaestion",
+    "title": "Περὶ ποιημάτων"
+  },
+  "urn:cts:greekLit:tlg1402.tlg005.1st1K-grc1": {
+    "author": "Hephaestion",
+    "title": "Fragmenta Hephaestionea"
+  },
+  "urn:cts:greekLit:tlg1402.tlg002.1st1K-grc1": {
+    "author": "Hephaestion",
+    "title": "Μετρικὴ εἰσαγωγή"
+  },
   "urn:cts:greekLit:tlg0317.tlg001.1st1K-grc1": {
     "author": "Acta Joannis",
     "title": "Acta Joannis"
+  },
+  "urn:cts:greekLit:tlg0317.tlg001.1st1K-eng1": {
+    "author": "Anonymous",
+    "title": "Acts of John"
   },
   "urn:cts:greekLit:tlg0317.tlg002.1st1K-grc1": {
     "author": "Acta Joannis",
@@ -6356,7 +6564,7 @@
     "title": "De septimestri partu"
   },
   "urn:cts:greekLit:tlg3129.ogl001.1st1K-grc1": {
-    "author": "Theophylacti",
+    "author": "Theophylactus",
     "title": "In Cyrilli In XII Prophetas"
   },
   "urn:cts:greekLit:tlg0555.tlg007.opp-grc1": {
@@ -6451,9 +6659,29 @@
     "author": "Clemens Romanus",
     "title": "Epistula I ad Corinthios"
   },
+  "urn:cts:greekLit:tlg1271.tlg006.1st1K-grc1": {
+    "author": "Clemens Romanus",
+    "title": "Ὁμίλαι"
+  },
+  "urn:cts:greekLit:tlg1271.tlg003.1st1K-grc1": {
+    "author": "Clemens Romanus",
+    "title": "Ἐπιστολὴ Πέτρου πρὸς Ἰάκωβον"
+  },
+  "urn:cts:greekLit:tlg1271.tlg004.1st1K-grc1": {
+    "author": "Clemens Romanus",
+    "title": "Διαμαρτυρία περὶ τῶν τοῦ βιβλίου λαμβανόντων"
+  },
+  "urn:cts:greekLit:tlg1271.tlg005.1st1K-grc1": {
+    "author": "Clemens Romanus",
+    "title": "Ἐπιστολὴ Κλήμεντος πρὸς Ἰάκωβον"
+  },
   "urn:cts:greekLit:tlg1271.tlg002.1st1K-grc1": {
     "author": "Clemens Romanus",
     "title": "Epistula II ad Corinthios"
+  },
+  "urn:cts:greekLit:tlg2632.tlg001.1st1K-grc1": {
+    "author": "Comarius",
+    "title": "Κομαρίου φιλοσόφου ἀρχιερέως διδάσκοντος τὴν Κλεοπάτραν τὴν θείαν καὶ ἱερὰν τέχνην τοῦ λίθου τῆς φιλοσοφίας"
   },
   "urn:cts:greekLit:tlg0357.tlg001.1st1K-grc1": {
     "author": "Didymus Alexandrinus",
@@ -6462,6 +6690,10 @@
   "urn:cts:greekLit:tlg0357.tlg001.1st1K-grc2": {
     "author": "Didymus Alexandrinus",
     "title": "Mensuris marmorum"
+  },
+  "urn:cts:greekLit:tlg0733.tlg001.1st1K-grc1": {
+    "author": "Cassius Iatrosophista",
+    "title": "Ἰατρικαὶ Ἀπορίαι καὶ Προβλήματα Φυσικά"
   },
   "urn:cts:greekLit:tlg0361.tlg001.opp-grc1": {
     "author": "Cleonides",
@@ -6500,8 +6732,12 @@
     "title": "In Aristotelis categorias commentarium"
   },
   "urn:cts:greekLit:tlg5019.tlg001.1st1K-grc1": {
-    "author": "Anonymous",
-    "title": "Scholia in Dionysium Periegetam"
+    "author": "Scholia in Dionysium Periegetam",
+    "title": "Scholia in Dionysii Byzantii per Bosporum navigationem (scholia vetera)"
+  },
+  "urn:cts:greekLit:tlg5019.tlg002.1st1K-grc1": {
+    "author": "Scholia in Dionysium Periegetam",
+    "title": "Scholia in Dionysii Periegetae orbis descriptionem (scholia vetera)"
   },
   "urn:cts:greekLit:tlg5026.tlg007.First1K-grc1": {
     "author": "Scholia in Homerum",
@@ -6510,6 +6746,22 @@
   "urn:cts:greekLit:tlg5026.tlg001.1st1K-grc1": {
     "author": "Scholia in Homerum",
     "title": "Scholia in Iliadum"
+  },
+  "urn:cts:greekLit:tlg1486.tlg001.1st1K-grc1": {
+    "author": "Matron of Pitana",
+    "title": "Δει̑πνον Ἀττικόν"
+  },
+  "urn:cts:greekLit:tlg1486.tlg002.1st1K-grc1": {
+    "author": "Matron of Pitana",
+    "title": "Δει̑πνον Ἀττικόν"
+  },
+  "urn:cts:greekLit:tlg2038.tlg001.1st1K-grc1": {
+    "author": "Acta Thomae",
+    "title": "Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ"
+  },
+  "urn:cts:greekLit:tlg2038.tlg001.1st1K-eng1": {
+    "author": "Anonymous",
+    "title": "Acts of Thomas"
   },
   "urn:cts:greekLit:tlg1443.tlg009.1st1K-grc1": {
     "author": "Ignatius Antiochenus",
@@ -6623,6 +6875,10 @@
     "author": "Alexander of Aphrodisias",
     "title": "De fato"
   },
+  "urn:cts:greekLit:tlg0732.tlg003.1st1K-grc1": {
+    "author": "Alexander of Aphrodisias",
+    "title": "Περὶ Πυρετῶν [Sp.]"
+  },
   "urn:cts:greekLit:tlg0732.tlg004.opp-grc1": {
     "author": "Alexander of Aphrodisias",
     "title": "In Aristotelis metaphysica commentaria"
@@ -6678,6 +6934,34 @@
   "urn:cts:greekLit:tlg0640.tlg001.First1K-grc1": {
     "author": "Alciphron",
     "title": "Epistulae"
+  },
+  "urn:cts:greekLit:tlg0649.tlg003.1st1K-grc1": {
+    "author": "Lesbonax (Rhetorician)",
+    "title": "Προτρεπτικὸς Β̄"
+  },
+  "urn:cts:greekLit:tlg0649.tlg002.1st1K-grc1": {
+    "author": "Lesbonax (Rhetorician)",
+    "title": "Προτρεπτικὸς Ᾱ"
+  },
+  "urn:cts:greekLit:tlg1750.tlg001.1st1K-grc1": {
+    "author": "Pseudo-Dorotheus (Vitae Prophetarum)",
+    "title": "De prophetarum vita et obitu (Dorothei recensio)"
+  },
+  "urn:cts:greekLit:tlg1750.tlg003.1st1K-grc1": {
+    "author": "Vitae Prophetarum (Scholius Hesychius)",
+    "title": "De prophetarum vita et obitu (recensio scholiis Hesychii aliorumque patrum in prophetas adjecta)"
+  },
+  "urn:cts:greekLit:tlg1750.tlg004.1st1K-grc1": {
+    "author": "Pseudo-Dorotheus (Vitae Prophetarum)",
+    "title": "Index apostolorum discipulorumque Domini"
+  },
+  "urn:cts:greekLit:tlg1750.tlg002.1st1K-grc1": {
+    "author": "Vitae Prophetarum",
+    "title": "De prophetarum vita et obitu (recensio anonyma)"
+  },
+  "urn:cts:greekLit:tlg0676.tlg001.1st1K-grc1": {
+    "author": "Aglaias, Byzantius",
+    "title": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
   },
   "urn:cts:greekLit:tlg0018.tlg009.opp-grc1": {
     "author": "Philo Judaeus",
@@ -6883,6 +7167,10 @@
     "author": "Herodianus",
     "title": "Περὶ πνευμάτων"
   },
+  "urn:cts:greekLit:tlg0087.tlg002.1st1K-grc1": {
+    "author": "Aelius Herodianus",
+    "title": "Περὶ ἐγκλινομένων"
+  },
   "urn:cts:greekLit:tlg0087.tlg033.1st1K-grc1": {
     "author": "Herodianus",
     "title": "Περὶ μονήρους λέξεως"
@@ -6952,8 +7240,16 @@
     "title": "Fabulae Aesopeae"
   },
   "urn:cts:greekLit:tlg0614.tlg001.1st1K-grc2": {
-    "author": "Anonymous",
+    "author": "Babrius",
     "title": "Fabulae Aesopeae"
+  },
+  "urn:cts:greekLit:tlg4086.tlg001.1st1K-grc1": {
+    "author": "Agathodaemon",
+    "title": "Fragmentum alchemicum"
+  },
+  "urn:cts:greekLit:tlg4086.tlg002.1st1K-grc1": {
+    "author": "Agathodaemon",
+    "title": "Ἀγαθοδαίμων εἰς τὸν χρησμὸν Ὀρφέως συναγωγὴ καὶ ὑπόμνημα"
   },
   "urn:cts:greekLit:tlg2371.tlg001.opp-grc1": {
     "author": "Chronicon Paschale",
@@ -6978,6 +7274,10 @@
   "urn:cts:greekLit:tlg4016.tlg002.opp-grc2": {
     "author": "Ammonius",
     "title": "In Aristotelis Categorias Commentarius"
+  },
+  "urn:cts:greekLit:tlg0026.tlg004.1st1K-grc1": {
+    "author": "Aeschines [Sp.]",
+    "title": "Ἐπιστολαί"
   },
   "urn:cts:greekLit:tlg4018.tlg001.opp-grc2": {
     "author": "Asclepius",
@@ -7008,8 +7308,8 @@
     "title": "Epistula ad Diognetum"
   },
   "urn:cts:greekLit:tlg0615.tlg001.opp-grc1": {
-    "author": "Anonymous",
-    "title": "Commentaria in Aristotelem Graeca"
+    "author": "Aspasius",
+    "title": "In Ethica Nicomachea paraphrasis"
   },
   "urn:cts:greekLit:tlg0088.tlg001.1st1K-grc1": {
     "author": "Aristoxenus",
@@ -7019,9 +7319,21 @@
     "author": "Pseudo-Arrianus",
     "title": "Anonymi (Arriani, ut fertur) periplus ponti Euxini"
   },
+  "urn:cts:greekLit:tlg2948.tlg001.1st1K-eng1": {
+    "author": "Anonymous",
+    "title": "Acts of Philip"
+  },
+  "urn:cts:greekLit:tlg2948.tlg001.1st1K-grc1": {
+    "author": "Acta Philippi",
+    "title": "Πράξεις τοῦ ἁγίου καὶ πανευφήμου ἀποστόλου Φιλίππου"
+  },
   "urn:cts:greekLit:tlg0081.tlg007.1st1K-grc1": {
     "author": "Dionysius Halicarnassensis",
     "title": "Libri secundi de antiquis oratoribus reliquiae"
+  },
+  "urn:cts:greekLit:tlg0081.tlg006.1st1K-grc1": {
+    "author": "Dionysius Halicarnassensis",
+    "title": "De Demosthenis dictione"
   },
   "urn:cts:greekLit:tlg0086.tlg054.1st1K-grc1": {
     "author": "Aristotle",
@@ -7061,7 +7373,7 @@
   },
   "urn:cts:greekLit:tlg0086.tlg015.1st1K-grc1": {
     "author": "Aristoteles",
-    "title": "De animalium motione"
+    "title": "De animalium incessu"
   },
   "urn:cts:greekLit:tlg0086.tlg024.1st1K-grc1": {
     "author": "Aristotle",
@@ -7160,7 +7472,7 @@
     "title": "Topica"
   },
   "urn:cts:greekLit:tlg0086.tlg043.1st1K-grc1": {
-    "author": "Aristoteles",
+    "author": "Aristotle",
     "title": "De spiritu"
   },
   "urn:cts:greekLit:tlg0086.tlg026.1st1K-grc1": {
@@ -7173,7 +7485,7 @@
   },
   "urn:cts:greekLit:tlg0086.tlg021.1st1K-grc1": {
     "author": "Aristoteles",
-    "title": "De animalium incessu"
+    "title": "De animalium motione"
   },
   "urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1": {
     "author": "Aristotle",
@@ -7194,6 +7506,14 @@
   "urn:cts:greekLit:tlg2137.tlg001.1st1K-grc1": {
     "author": "Gaudentius",
     "title": "Harmonica introductio"
+  },
+  "urn:cts:greekLit:tlg0693.tlg001.1st1K-grc1": {
+    "author": "Albinus",
+    "title": "Διδασκαλικὸς τῶν Πλάτωνος δογμάτων"
+  },
+  "urn:cts:greekLit:tlg0693.tlg002.1st1K-grc1": {
+    "author": "Albinus",
+    "title": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
   },
   "urn:cts:greekLit:tlg0031.tlg002.1st1K-cop1": {
     "author": "",
@@ -7487,6 +7807,10 @@
     "author": "Crateuas",
     "title": "Fragmenta"
   },
+  "urn:cts:greekLit:tlg0233.tlg001.1st1K-grc1": {
+    "author": "Hipponax",
+    "title": "Fragmentum (128)"
+  },
   "urn:cts:greekLit:tlg4036.tlg001.opp-grc1": {
     "author": "Proclus Diadochus",
     "title": "In Platonis Rem Publicam Commentarii"
@@ -7494,6 +7818,10 @@
   "urn:cts:greekLit:tlg2138.tlg001.opp-grc1": {
     "author": "Canticum Euripidis",
     "title": "Ex Orestis Stasimo I"
+  },
+  "urn:cts:greekLit:tlg1749.tlg001.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Vitae Hesiodi Particula"
   },
   "urn:cts:greekLit:tlg2136.tlg001.opp-grc1": {
     "author": "Bacchius Geron",
@@ -7520,8 +7848,8 @@
     "title": "Sermo De Simeone Et Anna [Sp.]"
   },
   "urn:cts:greekLit:tlg2959.tlg003.opp-ger1": {
-    "author": "Anonymous",
-    "title": "METHODIUS"
+    "author": "Methodius",
+    "title": "De Resurrectione"
   },
   "urn:cts:greekLit:tlg2959.tlg004.opp-ger1": {
     "author": "Methodius",
@@ -7603,6 +7931,10 @@
     "author": "Theophilus Antiochenus",
     "title": "Ad Autolycum"
   },
+  "urn:cts:greekLit:tlg1802.tlg001.1st1K-grc1": {
+    "author": "Various",
+    "title": "Versus heroici"
+  },
   "urn:cts:greekLit:tlg0544.tlg001.opp-grc1": {
     "author": "Sextus Empiricus",
     "title": "Pyrrhoniae hypotyposes"
@@ -7626,6 +7958,46 @@
   "urn:cts:greekLit:tlg2021.tlg002.opp-grc1": {
     "author": "Epiphanius",
     "title": "Panarion (Adversus haereses)"
+  },
+  "urn:cts:greekLit:tlg1805.tlg009.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Eustathii vita"
+  },
+  "urn:cts:greekLit:tlg1805.tlg007.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita septima"
+  },
+  "urn:cts:greekLit:tlg1805.tlg001.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita Herodotea"
+  },
+  "urn:cts:greekLit:tlg1805.tlg006.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita sexta"
+  },
+  "urn:cts:greekLit:tlg1805.tlg008.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Tzetzae vita"
+  },
+  "urn:cts:greekLit:tlg1805.tlg003.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita Proculea (e Chrestomathia)"
+  },
+  "urn:cts:greekLit:tlg1805.tlg004.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita quarta"
+  },
+  "urn:cts:greekLit:tlg1805.tlg005.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Vita quinta"
+  },
+  "urn:cts:greekLit:tlg1805.tlg002.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Plutarchi vita"
+  },
+  "urn:cts:greekLit:tlg1805.tlg010.1st1K-grc1": {
+    "author": "Vitae Homeri",
+    "title": "Suidae vita"
   },
   "urn:cts:greekLit:tlg1205.tlg001.perseus-grc2": {
     "author": "Athenagoras",
@@ -7654,6 +8026,18 @@
   "urn:cts:greekLit:tlg1431.tlg003.1st1K-grc1": {
     "author": "Hipparchus",
     "title": "In Arati et Eudoxi phaenomena commentariorum libri iii"
+  },
+  "urn:cts:greekLit:tlg0580.tlg001.1st1K-grc1": {
+    "author": "Paradoxographus Florentinus",
+    "title": "Mirabilia de aquis"
+  },
+  "urn:cts:greekLit:tlg2016.tlg001.1st1K-grc1": {
+    "author": "Martyrium Perpetuae et Felcitatis",
+    "title": "Μαρτύριον Περπετούας"
+  },
+  "urn:cts:greekLit:tlg2016.tlg001.1st1K-lat1": {
+    "author": "Martyrium Perpetuae et Felcitatis",
+    "title": "Passio S. Perpetuae"
   },
   "urn:cts:greekLit:tlg2029.tlg001.1st1K-grc1": {
     "author": "Anonymous",
@@ -7737,7 +8121,7 @@
   },
   "urn:cts:greekLit:tlg2018.tlg002.1st1K-eng2": {
     "author": "Kirsopp Lake",
-    "title": "Contents of Historia Ecclesiastica"
+    "title": "Table of Contents of Historia Ecclesiastica"
   },
   "urn:cts:greekLit:tlg2018.tlg011.opp-grc1": {
     "author": "Eusebius",
@@ -8215,6 +8599,82 @@
     "author": "Cleomedes",
     "title": "De motu circulari corporum caelestium"
   },
+  "urn:cts:greekLit:tlg1286.tlg009.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου. περὶ νοήσεως καὶ αἰσθήσεως [καὶ ὅτι ἐν μόνῳ τῷ θεῷ τὸ καλὸν καὶ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ οὐδαμοῦ]."
+  },
+  "urn:cts:greekLit:tlg1286.tlg007.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "[Ἑρμοῦ τοῦ τρισμεγίστου.] ὅτι μέγιστον κακὸν ἐν τοῖς ἀνθρώποις ἡ περὶ τοῦ θεοῦ ἀγνωσία"
+  },
+  "urn:cts:greekLit:tlg1286.tlg001.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "[Ἑρμοῦ τρισμεγίστου] Ποιμάνδρης"
+  },
+  "urn:cts:greekLit:tlg1286.tlg006.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου. ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ οὐδαμοῦ."
+  },
+  "urn:cts:greekLit:tlg1286.tlg008.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου. ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν"
+  },
+  "urn:cts:greekLit:tlg1286.tlg012.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου περὶ νοῦ ⎡κοινοῦ⎤ πρὸς Τάτ"
+  },
+  "urn:cts:greekLit:tlg1286.tlg013.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου πρὸς τὸν υἱὸν Τὰτ [ἐν ὄρει] λόγος ἀπόκρυφος περὶ παλιγγενεσίας [καὶ σιγῆς ἐπαγγελίας]"
+  },
+  "urn:cts:greekLit:tlg1286.tlg014.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου Ἀσκληπιῷ εὖ φρονεῖν"
+  },
+  "urn:cts:greekLit:tlg1286.tlg003.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός"
+  },
+  "urn:cts:greekLit:tlg1286.tlg004.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ πρὸς Τάτ. ὁ κρατήρ. [ἡ μονάς.]"
+  },
+  "urn:cts:greekLit:tlg1286.tlg005.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ πρὸς Τὰτ υἱόν. ὅτι ἀφανὴς ⟨...⟩ θεὸς φανερώτατός ἐστι."
+  },
+  "urn:cts:greekLit:tlg1286.tlg002.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "⟨Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν.⟩"
+  },
+  "urn:cts:greekLit:tlg1286.tlg011.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Νοῦ πρὸς Ἑρμῆν"
+  },
+  "urn:cts:greekLit:tlg1286.tlg016.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "[ὅροι] Ἀσκληπιοῦ πρὸς Ἄμμωνα βασιλέα"
+  },
+  "urn:cts:greekLit:tlg1286.tlg020.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Stobaei Hermetica"
+  },
+  "urn:cts:greekLit:tlg1286.tlg018.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "[περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος ἐμποδιζομένης ψυχῆς]"
+  },
+  "urn:cts:greekLit:tlg1286.tlg019.1st1K-lat1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν προσφωνηθεῖσα"
+  },
+  "urn:cts:greekLit:tlg1286.tlg017.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Dialogus (sine titulo)"
+  },
+  "urn:cts:greekLit:tlg1286.tlg010.1st1K-grc1": {
+    "author": "Anonymous",
+    "title": "Ἑρμοῦ τοῦ τρισμεγίστου. Κλείς"
+  },
   "urn:cts:greekLit:tlg2058.tlg001.1st1K-grc1": {
     "author": "Philostorgius",
     "title": "Historia ecclesiastica (fragmenta ap. Photium)"
@@ -8458,6 +8918,10 @@
   "urn:cts:greekLit:tlg0363.tlg011.opp-grc1": {
     "author": "Claudius Ptolemaeus",
     "title": "Musica"
+  },
+  "urn:cts:greekLit:tlg2601.tlg001.1st1K-grc1": {
+    "author": "Tiberius Rhetor",
+    "title": "Περὶ τῶν παρὰ Δημοσθένει σχημάτων"
   },
   "urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1": {
     "author": "Socrates, Scholasticus",
@@ -9039,6 +9503,10 @@
     "author": "Dionysius Periegetes",
     "title": "Orbis Descriptio"
   },
+  "urn:cts:greekLit:tlg2972.tlg001.1st1K-grc1": {
+    "author": "Anonymi de Terrae Motibus",
+    "title": "Anonymi Dissertatio De Terrae Motibus"
+  },
   "urn:cts:greekLit:tlg0610.perseus002.perseus-grc1": {
     "author": "Alcidamas",
     "title": "Peri Sophiston"
@@ -9051,9 +9519,25 @@
     "author": "Cassius Longinus",
     "title": "Ars rhetorica"
   },
+  "urn:cts:greekLit:tlg2178.tlg004.1st1K-grc1": {
+    "author": "Cassius Longinus",
+    "title": "Prolegomena Longini commentariique reliquiae"
+  },
   "urn:cts:greekLit:tlg2178.tlg002.1st1K-grc1": {
     "author": "Cassius Longinus",
     "title": "Excerpta"
+  },
+  "urn:cts:greekLit:tlg2140.tlg001.1st1K-grc1": {
+    "author": "Iamblichus Alchemista",
+    "title": "Fragmenta alchemica"
+  },
+  "urn:cts:greekLit:tlg0628.tlg003.1st1K-grc1": {
+    "author": "Musonius Rufus",
+    "title": "Epistulae spuriae"
+  },
+  "urn:cts:greekLit:tlg0628.tlg002.1st1K-grc1": {
+    "author": "Musonius Rufus",
+    "title": "Fragmenta minora"
   },
   "urn:cts:greekLit:tlg1765.tlg003.1st1K-grc1": {
     "author": "Vitae Aesopi",
@@ -9161,27 +9645,27 @@
   },
   "urn:cts:greekLit:tlg0085.tlg001.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Suppliant Women"
+    "title": "Ἱκέτιδες"
   },
   "urn:cts:greekLit:tlg0085.tlg006.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Libation Bearers"
+    "title": "Χοηφóρoι"
   },
   "urn:cts:greekLit:tlg0085.tlg003.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Prometheus Bound"
+    "title": "Προμηθευς δεσμωτης"
   },
   "urn:cts:greekLit:tlg0085.tlg004.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Seven Against Thebes"
+    "title": "Ἑπτὰ ἐπὶ Θήβας"
   },
   "urn:cts:greekLit:tlg0085.tlg005.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Agamemnon"
+    "title": "Ἀγαμέμνων"
   },
   "urn:cts:greekLit:tlg0085.tlg002.opp-grc3": {
     "author": "Aeschylus",
-    "title": "Persians"
+    "title": "Περσαι"
   },
   "urn:cts:greekLit:tlg1701.tlg001.1st1K-grc1": {
     "author": "Testamentum Abrahamae",
@@ -9408,16 +9892,20 @@
     "title": "Anonymi (Arriani, ut fertur) periplus maris Erythraei"
   },
   "urn:cts:greekLit:tlg0082.tlg001.1st1K-grc1": {
-    "author": "Apollonius, Dyscolus",
-    "title": "De pronominibus"
+    "author": "Apollonius Dyscolus",
+    "title": "Περὶ ἀντωνυμίας"
+  },
+  "urn:cts:greekLit:tlg0082.tlg003.1st1K-grc1": {
+    "author": "Apollonius Dyscolus",
+    "title": "Περὶ συνδέσμων"
   },
   "urn:cts:greekLit:tlg0082.tlg004.1st1K-grc1": {
-    "author": "Apollonius, Dyscolus",
-    "title": "De constructione"
+    "author": "Apollonius Dyscolus",
+    "title": "Περὶ συντάξεως"
   },
   "urn:cts:greekLit:tlg0082.tlg002.1st1K-grc1": {
-    "author": "Apollonius, Dyscolus",
-    "title": "De adverbiis"
+    "author": "Apollonius Dyscolus",
+    "title": "Περὶ ἐπιρρημάτων"
   },
   "urn:cts:greekLit:tlg1799.tlg009.1st1K-grc1": {
     "author": "Euclides",
@@ -9501,11 +9989,15 @@
   },
   "urn:cts:greekLit:tlg4015.tlg005.opp-grc1": {
     "author": "Joannes Philoponus",
-    "title": "in Aristotetelis Meteorologicorum librum primum commentarium"
+    "title": "in Aristotelis Meteorologicorum librum primum commentarium"
   },
   "urn:cts:greekLit:tlg4015.tlg002.opp-grc1": {
     "author": "Joannes Philoponus",
     "title": "in Aristotelis Analytica Priora commentaria"
+  },
+  "urn:cts:greekLit:tlg1763.tlg001.1st1K-grc1": {
+    "author": "Tryphon II Grammaticus",
+    "title": "Γρηγορίου τοῦ Κορινθίου περὶ τρόπων"
   },
   "urn:cts:greekLit:tlg1551.tlg001.opp-grc1": {
     "author": "Oracula Sibyllina",
@@ -9699,7 +10191,11 @@
     "author": "Apuleius",
     "title": "Metamorphoses"
   },
-  "urn:cts:latinLit:phi1212.phi003.perseus-lat1": {
+  "urn:cts:latinLit:phi1212.phi002.perseus-eng1": {
+    "author": "Apuleius",
+    "title": "The Golden Ass"
+  },
+  "urn:cts:latinLit:phi1212.phi003.perseus-lat2": {
     "author": "Apuleius",
     "title": "Florida"
   },
@@ -9722,6 +10218,10 @@
   "urn:cts:latinLit:stoa0045.stoa010.perseus-lat2": {
     "author": "Ausonius, Decimus Magnus",
     "title": "Epigrammata Ausonii de diversis rebus"
+  },
+  "urn:cts:latinLit:stoa0045.stoa010.perseus-eng1": {
+    "author": "Ausonius, Decimus Magnus",
+    "title": "Epigrams"
   },
   "urn:cts:latinLit:stoa0045.stoa017.perseus-lat2": {
     "author": "Ausonius, Decimus Magnus",
@@ -9759,6 +10259,10 @@
     "author": "Ausonius, Decimus Magnus",
     "title": "Epistularum"
   },
+  "urn:cts:latinLit:stoa0045.stoa011.perseus-eng1": {
+    "author": "Ausonius, Decimus Magnus",
+    "title": "Letters"
+  },
   "urn:cts:latinLit:stoa0045.stoa011.perseus-lat2": {
     "author": "Ausonius, Decimus Magnus",
     "title": "Epistularum"
@@ -9778,6 +10282,10 @@
   "urn:cts:latinLit:stoa0045.stoa003.perseus-lat2": {
     "author": "Ausonius, Decimus Magnus",
     "title": "Cento Nuptialis"
+  },
+  "urn:cts:latinLit:stoa0045.stoa014.perseus-eng1": {
+    "author": "Ausonius, Decimus Magnus",
+    "title": "The Thanksgiving for His Consulship"
   },
   "urn:cts:latinLit:stoa0045.stoa014.perseus-lat2": {
     "author": "Ausonius, Decimus Magnus",
@@ -9823,60 +10331,124 @@
     "author": "Ausonius, Decimus Magnus",
     "title": "Epicedion in Patrem"
   },
+  "urn:cts:latinLit:phi0428.phi001.perseus-eng1": {
+    "author": "Anonymous",
+    "title": "The Alexandrian War"
+  },
+  "urn:cts:latinLit:phi0428.phi001.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Bellum Alexandrinum"
+  },
   "urn:cts:latinLit:stoa0089.stoa010.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Panegyricus de tertio consulatu Honorii Augusti"
   },
+  "urn:cts:latinLit:stoa0089.stoa010.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Panegyric on the Third Consulship of the Emperor Honorius"
+  },
+  "urn:cts:latinLit:stoa0089.stoa011.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Panegyric on the Fourth Consulship of the Emperor Honorius"
+  },
   "urn:cts:latinLit:stoa0089.stoa011.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Panegyricus de quarto consulatu Honorii Augusti"
   },
+  "urn:cts:latinLit:stoa0089.stoa002.perseus-eng1": {
+    "author": "Claudian",
+    "title": "The War Against Gildo"
+  },
   "urn:cts:latinLit:stoa0089.stoa002.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "de bello Gildonico"
   },
   "urn:cts:latinLit:stoa0089.stoa005.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "de raptu Proserpinae"
   },
+  "urn:cts:latinLit:stoa0089.stoa005.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Rape of Proserpine"
+  },
+  "urn:cts:latinLit:stoa0089.stoa004.perseus-eng1": {
+    "author": "Claudian",
+    "title": "On Stilicho's Consulship"
+  },
   "urn:cts:latinLit:stoa0089.stoa004.perseus-lat2": {
-    "author": "Claudianus, Claudius",
-    "title": "De consulatu Stilichonis"
+    "author": "Claudian",
+    "title": "de consulatu Stilichonis"
   },
   "urn:cts:latinLit:stoa0089.stoa003.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "de Bello Gothico"
   },
+  "urn:cts:latinLit:stoa0089.stoa003.perseus-eng1": {
+    "author": "Claudian",
+    "title": "The Gothic War"
+  },
+  "urn:cts:latinLit:stoa0089.stoa014.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Panegyric on the Consuls Probinus and Olybrius"
+  },
   "urn:cts:latinLit:stoa0089.stoa014.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Panegyricus dictus Probino et Olybrio consulibus"
   },
   "urn:cts:latinLit:stoa0089.stoa013.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Panegyricus dictus Manlio Theodoro consuli"
   },
+  "urn:cts:latinLit:stoa0089.stoa013.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Panegyric on the Consulshiip of Fl. Manlius Theodorius"
+  },
+  "urn:cts:latinLit:stoa0089.stoa012.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Panegyric on the Sixth Consulship of Honorius"
+  },
   "urn:cts:latinLit:stoa0089.stoa012.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Panegyricus de sexto consulatu Honorii Augusti"
   },
   "urn:cts:latinLit:stoa0089.stoa008.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "In Eutropium"
   },
+  "urn:cts:latinLit:stoa0089.stoa008.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Against Eutropius"
+  },
   "urn:cts:latinLit:stoa0089.stoa006.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Epithalamium de nuptiis Honorii Augusti"
   },
+  "urn:cts:latinLit:stoa0089.stoa006.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Epithalamium of Honorius and Maria"
+  },
+  "urn:cts:latinLit:stoa0089.stoa001.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Shorter Poems"
+  },
   "urn:cts:latinLit:stoa0089.stoa001.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "Carminum minorum corpusculum"
   },
-  "urn:cts:latinLit:stoa0089.stoa007.perseus-lat2": {
+  "urn:cts:latinLit:stoa0089.stoa007.perseus-eng1": {
     "author": "Claudianus, Claudius",
+    "title": "Fescennine Verses in Honour of the Marriage of the Emperor Honorius"
+  },
+  "urn:cts:latinLit:stoa0089.stoa007.perseus-lat2": {
+    "author": "Claudian",
     "title": "Fescinnina de nuptiis Honorii Augusti"
   },
+  "urn:cts:latinLit:stoa0089.stoa009.perseus-eng1": {
+    "author": "Claudian",
+    "title": "Against Rufinus"
+  },
   "urn:cts:latinLit:stoa0089.stoa009.perseus-lat2": {
-    "author": "Claudianus, Claudius",
+    "author": "Claudian",
     "title": "In Rufinum"
   },
   "urn:cts:latinLit:phi1351.phi002.perseus-lat1": {
@@ -9923,6 +10495,14 @@
     "author": "Cornelius Tacitus",
     "title": "De Vita Iulii Agricolae"
   },
+  "urn:cts:latinLit:phi0426.phi001.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Bellum Africum"
+  },
+  "urn:cts:latinLit:phi0426.phi001.perseus-eng1": {
+    "author": "Anonymous",
+    "title": "The African War"
+  },
   "urn:cts:latinLit:phi0472.phi001.perseus-eng3": {
     "author": "C. Valerius Catullus",
     "title": "Carmina"
@@ -9955,9 +10535,9 @@
     "author": "M. Tullius Cicero",
     "title": "In Defense of Aulus Cluentius Habitus"
   },
-  "urn:cts:latinLit:phi0474.phi028.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi028.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "In Defense of Cnaeus Plancius"
+    "title": "Pro Cn. Plancio"
   },
   "urn:cts:latinLit:phi0474.phi028.perseus-eng1": {
     "author": "M. Tullius Cicero",
@@ -9971,13 +10551,13 @@
     "author": "M. Tullius Cicero",
     "title": "In Defense of Lucius Flaccus"
   },
-  "urn:cts:latinLit:phi0474.phi021.perseus-lat1": {
-    "author": "M. Tullius Cicero",
-    "title": "Respecting the Answers of the Soothsayers"
-  },
   "urn:cts:latinLit:phi0474.phi021.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "Respecting the Answers of the Soothsayers"
+  },
+  "urn:cts:latinLit:phi0474.phi021.perseus-lat2": {
+    "author": "M. Tullius Cicero",
+    "title": "De haruspicum responso in P. Clodium"
   },
   "urn:cts:latinLit:phi0474.phi019.perseus-eng2": {
     "author": "M. Tullius Cicero",
@@ -9987,9 +10567,9 @@
     "author": "M. Tullius Cicero",
     "title": "In the Senate after his Return"
   },
-  "urn:cts:latinLit:phi0474.phi026.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi026.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "In Defense of Lucius Cornelius Balbus"
+    "title": "Pro L. Cornelio Balbo"
   },
   "urn:cts:latinLit:phi0474.phi026.perseus-eng1": {
     "author": "M. Tullius Cicero",
@@ -10011,29 +10591,29 @@
     "author": "M. Tullius Cicero",
     "title": "To the Citizens after his Return"
   },
-  "urn:cts:latinLit:phi0474.phi027.perseus-lat1": {
-    "author": "M. Tullius Cicero",
-    "title": "Against Lucius Calpurnius Piso"
-  },
   "urn:cts:latinLit:phi0474.phi027.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "Against Lucius Calpurnius Piso"
   },
-  "urn:cts:latinLit:phi0474.phi020.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi027.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "Address to the Priests"
+    "title": "In L. Calpurnium Pisonem"
+  },
+  "urn:cts:latinLit:phi0474.phi020.perseus-lat2": {
+    "author": "M. Tullius Cicero",
+    "title": "De domo sua ad pontifices"
   },
   "urn:cts:latinLit:phi0474.phi020.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "Address to the Priests"
   },
-  "urn:cts:latinLit:phi0474.phi029.perseus-lat1": {
-    "author": "M. Tullius Cicero",
-    "title": "In Defense of Marcus Aemilius Scaurus"
-  },
   "urn:cts:latinLit:phi0474.phi029.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "In Defense of Marcus Aemilius Scaurus"
+  },
+  "urn:cts:latinLit:phi0474.phi029.perseus-lat2": {
+    "author": "M. Tullius Cicero",
+    "title": "Pro M. Scauro"
   },
   "urn:cts:latinLit:phi0474.phi016.perseus-eng2": {
     "author": "M. Tullius Cicero",
@@ -10051,11 +10631,11 @@
     "author": "M. Tullius Cicero",
     "title": "Orations on the Agrarian Law"
   },
-  "urn:cts:latinLit:phi0474.phi033.perseus-eng1": {
+  "urn:cts:latinLit:phi0474.phi033.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "In Defense of Quintus Ligarius"
+    "title": "Pro Q. Ligario"
   },
-  "urn:cts:latinLit:phi0474.phi033.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi033.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "In Defense of Quintus Ligarius"
   },
@@ -10063,9 +10643,9 @@
     "author": "M. Tullius Cicero",
     "title": "On Behalf of King Deiotarus"
   },
-  "urn:cts:latinLit:phi0474.phi034.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi034.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "On Behalf of King Deiotarus"
+    "title": "Pro Rege Deiotaro"
   },
   "urn:cts:latinLit:phi0474.phi002.perseus-lat2": {
     "author": "M. Tullius Cicero",
@@ -10123,21 +10703,21 @@
     "author": "M. Tullius Cicero",
     "title": "Quintus Roscius"
   },
+  "urn:cts:latinLit:phi0474.phi035.perseus-lat2": {
+    "author": "M. Tullius Cicero",
+    "title": "Philippicae"
+  },
   "urn:cts:latinLit:phi0474.phi035.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "Orations"
-  },
-  "urn:cts:latinLit:phi0474.phi035.perseus-lat1": {
-    "author": "M. Tullius Cicero",
-    "title": "Philippicae Orationes"
   },
   "urn:cts:latinLit:phi0474.phi032.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "On Behalf of Marcus Claudius Marcellus"
   },
-  "urn:cts:latinLit:phi0474.phi032.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi032.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "On Behalf of Marcus Claudius Marcellus"
+    "title": "Pro M. Marcello"
   },
   "urn:cts:latinLit:phi0474.phi059.perseus-eng1": {
     "author": "M. Tullius Cicero",
@@ -10175,11 +10755,11 @@
     "author": "M. Tullius Cicero",
     "title": "First Oration Against Lucius Catilina"
   },
-  "urn:cts:latinLit:phi0474.phi025.perseus-eng1": {
+  "urn:cts:latinLit:phi0474.phi025.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "On the Subject of the Consular Provinces"
+    "title": "De provinciis consularibus"
   },
-  "urn:cts:latinLit:phi0474.phi025.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi025.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "On the Subject of the Consular Provinces"
   },
@@ -10187,9 +10767,9 @@
     "author": "M. Tullius Cicero",
     "title": "In Defense of Publius Sestius"
   },
-  "urn:cts:latinLit:phi0474.phi022.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi022.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "In Defense of Publius Sestius"
+    "title": "Pro P. Sestio"
   },
   "urn:cts:latinLit:phi0474.phi049.perseus-lat1": {
     "author": "M. Tullius Cicero",
@@ -10203,11 +10783,11 @@
     "author": "M. Tullius Cicero",
     "title": "Orator"
   },
-  "urn:cts:latinLit:phi0474.phi023.perseus-eng1": {
+  "urn:cts:latinLit:phi0474.phi023.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "Against Publius Vatinius"
+    "title": "In P. Vatinium testem interrogatio"
   },
-  "urn:cts:latinLit:phi0474.phi023.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi023.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "Against Publius Vatinius"
   },
@@ -10255,13 +10835,13 @@
     "author": "M. Tullius Cicero",
     "title": "De Officiis"
   },
-  "urn:cts:latinLit:phi0474.phi052.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi052.perseus-eng2": {
     "author": "M. Tullius Cicero",
-    "title": "De Amicitia"
+    "title": "Laelius on Friendship"
   },
-  "urn:cts:latinLit:phi0474.phi052.perseus-eng1": {
+  "urn:cts:latinLit:phi0474.phi052.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "Laelius on friendship"
+    "title": "Laelius De Amicitia"
   },
   "urn:cts:latinLit:phi0474.phi037.perseus-lat1": {
     "author": "M. Tullius Cicero",
@@ -10275,9 +10855,9 @@
     "author": "M. Tullius Cicero",
     "title": "On Behalf of Aulus Caecina"
   },
-  "urn:cts:latinLit:phi0474.phi030.perseus-lat1": {
+  "urn:cts:latinLit:phi0474.phi030.perseus-lat2": {
     "author": "M. Tullius Cicero",
-    "title": "In Defense of Caius Rabirius Postumus"
+    "title": "Pro C. Rabirio Postumo"
   },
   "urn:cts:latinLit:phi0474.phi030.perseus-eng1": {
     "author": "M. Tullius Cicero",
@@ -10331,13 +10911,13 @@
     "author": "M. Tullius Cicero",
     "title": "De Partitione Oratoria"
   },
-  "urn:cts:latinLit:phi0474.phi031.perseus-lat1": {
-    "author": "M. Tullius Cicero",
-    "title": "In Defense of Titus Annius Milo"
-  },
   "urn:cts:latinLit:phi0474.phi031.perseus-eng1": {
     "author": "M. Tullius Cicero",
     "title": "In Defense of Titus Annius Milo"
+  },
+  "urn:cts:latinLit:phi0474.phi031.perseus-lat2": {
+    "author": "M. Tullius Cicero",
+    "title": "Pro T. Annio Milone"
   },
   "urn:cts:latinLit:phi0474.phi036.perseus-lat1": {
     "author": "M. Tullius Cicero",
@@ -10587,13 +11167,29 @@
     "author": "Boethius",
     "title": "Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantialiter Praedicentur Liber"
   },
+  "urn:cts:latinLit:stoa0058.stoa028.perseus-eng1": {
+    "author": "Boethius",
+    "title": "Whether Father, Son and Holy Spirit May Be Substantially Predicated of the Divinity"
+  },
+  "urn:cts:latinLit:stoa0058.stoa003.perseus-eng1": {
+    "author": "Boethius",
+    "title": "How Substances Can Be Good In Virtue of Their Existence Without Being Absolute Goods"
+  },
   "urn:cts:latinLit:stoa0058.stoa003.perseus-lat1": {
     "author": "Boethius",
     "title": "Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substantialia Bona"
   },
+  "urn:cts:latinLit:stoa0058.stoa025.perseus-eng1": {
+    "author": "Boethius",
+    "title": "The Trinity"
+  },
   "urn:cts:latinLit:stoa0058.stoa025.perseus-lat1": {
     "author": "Boethius",
     "title": "Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)"
+  },
+  "urn:cts:latinLit:stoa0058.stoa023.perseus-eng1": {
+    "author": "Boethius",
+    "title": "A Treatise Against Eutyches and Nestorius"
   },
   "urn:cts:latinLit:stoa0058.stoa023.perseus-lat1": {
     "author": "Boethius",
@@ -10603,9 +11199,17 @@
     "author": "Boethius",
     "title": "De Fide Catholica"
   },
+  "urn:cts:latinLit:stoa0058.stoa006.perseus-eng1": {
+    "author": "Boethius",
+    "title": "On the Catholic Faith"
+  },
   "urn:cts:latinLit:stoa0058.stoa001.perseus-lat2": {
     "author": "Boethius",
     "title": "De consolatione philosophiae"
+  },
+  "urn:cts:latinLit:stoa0058.stoa001.perseus-eng1": {
+    "author": "Boethius",
+    "title": "The Consolation of Philosophy"
   },
   "urn:cts:latinLit:stoa0255.stoa010.perseus-lat2": {
     "author": "Seneca",
@@ -10791,17 +11395,25 @@
     "author": "Lucretius",
     "title": "De Rerum Natura"
   },
+  "urn:cts:latinLit:phi2003.phi001.perseus-lat1": {
+    "author": "Apicius",
+    "title": "De Re Coquinaria"
+  },
   "urn:cts:latinLit:phi1242.phi001.perseus-lat1": {
     "author": "Florus, Lucius Annaeus",
     "title": "Epitome Rerum Romanorum"
   },
-  "urn:cts:latinLit:stoa0023.stoa001.perseus-eng1": {
+  "urn:cts:latinLit:stoa0023.stoa001.perseus-lat2": {
     "author": "Ammianus Marcellinus",
-    "title": "Rerum Gestarum"
+    "title": "Res Gestae"
   },
-  "urn:cts:latinLit:stoa0023.stoa001.perseus-lat1": {
+  "urn:cts:latinLit:stoa0023.stoa001.perseus-eng2": {
     "author": "Ammianus Marcellinus",
-    "title": "Rerum Gestarum"
+    "title": "Res Gestae"
+  },
+  "urn:cts:latinLit:stoa0023.stoa001.perseus-eng3": {
+    "author": "Ammianus Marcellinus",
+    "title": "The Roman History"
   },
   "urn:cts:latinLit:phi0478.phi003.perseus-eng1": {
     "author": "M. Tullius Cicero",
@@ -10811,9 +11423,17 @@
     "author": "Q. Tullius Cicero",
     "title": "Essay on Running for Consul"
   },
+  "urn:cts:latinLit:stoa0079.stoa001.perseus-lat1": {
+    "author": "Cato, Marcus Porcius",
+    "title": "De agri cultura"
+  },
   "urn:cts:latinLit:phi0845.phi002.perseus-lat3": {
     "author": "Columella, Lucius Junius Moderatus",
     "title": "Res Rustica, Books I-IX"
+  },
+  "urn:cts:latinLit:phi0845.phi002.perseus-eng1": {
+    "author": "Columella, Lucius Junius Moderatus",
+    "title": "On Agriculture, Books 1-9"
   },
   "urn:cts:latinLit:phi0448.phi002.perseus-lat2": {
     "author": "C. Julius Caesar",
@@ -10822,6 +11442,14 @@
   "urn:cts:latinLit:phi0448.phi002.perseus-eng1": {
     "author": "C. Julius Caesar",
     "title": "Commentaries on the Civil War"
+  },
+  "urn:cts:latinLit:phi0448.phi002.perseus-lat3": {
+    "author": "C. Julius Caesar",
+    "title": "De Bello Civili"
+  },
+  "urn:cts:latinLit:phi0448.phi002.perseus-eng2": {
+    "author": "C. Julius Caesar",
+    "title": "The Civil Wars"
   },
   "urn:cts:latinLit:phi0448.phi001.perseus-eng2": {
     "author": "C. Julius Caesar",
@@ -10955,13 +11583,25 @@
     "author": "Sextus Propertius",
     "title": "Elegies"
   },
-  "urn:cts:latinLit:stoa0040.stoa0011.perseus-lat1": {
+  "urn:cts:latinLit:stoa0040.stoa011.perseus-lat1": {
     "author": "Augustine, Saint",
     "title": "Epistulae. Selections."
   },
-  "urn:cts:latinLit:stoa0040.stoa0011.perseus-lat2": {
+  "urn:cts:latinLit:stoa0040.stoa011.perseus-lat2": {
     "author": "Augustine, Saint",
     "title": "Epistulae. Selections."
+  },
+  "urn:cts:latinLit:stoa0040.stoa011.perseus-eng1": {
+    "author": "Augustine, Saint",
+    "title": "Select Letters"
+  },
+  "urn:cts:latinLit:phi0430.phi001.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Bellum Hispaniense"
+  },
+  "urn:cts:latinLit:phi0430.phi001.perseus-eng1": {
+    "author": "Anonymous",
+    "title": "The Spanish War"
   },
   "urn:cts:latinLit:stoa0261.stoa0002.perseus-lat1": {
     "author": "Sidonius Apollinaris",
@@ -10974,6 +11614,14 @@
   "urn:cts:latinLit:stoa0261.stoa0001.perseus-lat1": {
     "author": "Sidonius Apollinaris",
     "title": "Carmina"
+  },
+  "urn:cts:latinLit:stoa0054.stoa006.perseus-eng1": {
+    "author": "The Venerable Bede",
+    "title": "Ecclesiastical History of the English Nation"
+  },
+  "urn:cts:latinLit:stoa0054.stoa006.perseus-lat1": {
+    "author": "The Venerable Bede",
+    "title": "Historiam ecclesiasticam gentis Anglorum"
   },
   "urn:cts:latinLit:phi0660.phi003.perseus-lat2": {
     "author": "Sulpicia",
@@ -11126,6 +11774,50 @@
   "urn:cts:latinLit:phi0860.phi001.perseus-lat2": {
     "author": "Curtius Rufus, Quintus",
     "title": "Historiae Alexandri Magni"
+  },
+  "urn:cts:latinLit:phi0692.phi011.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Moretum, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi002.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Lydia, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi005.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Copa, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi003.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Culex, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi013.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "De Est et Non, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi012.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "De Institutione Viri Boni, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi008.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi006.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi001.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Dirae, Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi007.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Appendix Vergiliana"
+  },
+  "urn:cts:latinLit:phi0692.phi009.perseus-lat1": {
+    "author": "Anonymous",
+    "title": "Catalepton, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi1294.phi002.perseus-lat2": {
     "author": "Martial",
@@ -12099,18 +12791,6 @@
     "author": "Valerius Maximus",
     "title": "Facta et Dicta Memorabilia"
   },
-  "urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1": {
-    "author": "Anonymous",
-    "title": "Priapeia"
-  },
-  "urn:cts:latinLit:phi1103.phi001.lascivaroma-eng2": {
-    "author": "Anonymous",
-    "title": "Priapeia"
-  },
-  "urn:cts:latinLit:phi1103.phi001.lascivaroma-eng1": {
-    "author": "Anonymous",
-    "title": "Priapeia"
-  },
   "urn:cts:latinLit:stoa0045a.stoa001.opp-lat1": {
     "author": "Anonymous",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
@@ -12284,8 +12964,8 @@
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0169a.stoa002.opp-lat2": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Juvencus, Caius Vettius Aquilinus",
+    "title": "Evangeliorum libri quattuor"
   },
   "urn:cts:latinLit:stoa0222a.stoa001.opp-lat1": {
     "author": "Anonymous",
@@ -12548,36 +13228,36 @@
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0171.stoa010.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "Fragmenta"
   },
   "urn:cts:latinLit:stoa0171.stoa002.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "De Mortibus Persecutorum"
   },
   "urn:cts:latinLit:stoa0171.stoa004.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "Carmen de Passione Domini"
   },
   "urn:cts:latinLit:stoa0171.stoa008.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "Epitome Divinarum Institutionum"
   },
   "urn:cts:latinLit:stoa0171.stoa006.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "De Ira Dei"
   },
   "urn:cts:latinLit:stoa0171.stoa001.opp-lat3": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "De Ave Phoenice"
   },
   "urn:cts:latinLit:stoa0171.stoa007.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "De Opificio Dei"
   },
   "urn:cts:latinLit:stoa0171.stoa009.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Lactantius",
+    "title": "Divinarum Institutionum"
   },
   "urn:cts:latinLit:stoa0215b.stoa002.opp-lat1": {
     "author": "Anonymous",
@@ -12633,7 +13313,7 @@
   },
   "urn:cts:latinLit:phi9500.phi035.opp-lat1": {
     "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "title": "Epitaphium Ennodii"
   },
   "urn:cts:latinLit:stoa0022.stoa021.opp-lat1": {
     "author": "Anonymous",
@@ -12672,8 +13352,8 @@
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa014.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Ambrose",
+    "title": "Apologia Altera Prophetae David"
   },
   "urn:cts:latinLit:stoa0022.stoa025.opp-lat1": {
     "author": "Anonymous",
@@ -12684,8 +13364,8 @@
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa015.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Ambrose",
+    "title": "Apologia Prophetae David Ad Theodosium Augustum"
   },
   "urn:cts:latinLit:stoa0022.stoa039.opp-lat1": {
     "author": "Anonymous",
@@ -13096,8 +13776,8 @@
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0007.stoa002.opp-lat1": {
-    "author": "Anonymous",
-    "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
+    "author": "Adamnan",
+    "title": "De Locis Santis"
   },
   "urn:cts:latinLit:stoa0203.stoa001.opp-lat2": {
     "author": "Anonymous",
@@ -13222,729 +13902,5 @@
   "urn:cts:latinLit:stoa0234e.stoa001.opp-lat1": {
     "author": "Anonymous",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
-  },
-  "urn:cts:farsiLit:hafez.divan.perseus-ger1": {
-    "author": "Khwāja Shams-ud-Dīn Muhammad Hāfez-e Shīrāzī",
-    "title": "Divan"
-  },
-  "urn:cts:farsiLit:hafez.divan.perseus-far1": {
-    "author": "Khwāja Shams-ud-Dīn Muhammad Hāfez-e Shīrāzī",
-    "title": "Divān"
-  },
-  "urn:cts:farsiLit:hafez.divan.perseus-eng1": {
-    "author": "Khwāja Shams-ud-Dīn Muhammad Hāfez-e Shīrāzī",
-    "title": "Divan"
-  },
-  "urn:cts:ancJewLit:babTalmud.niddah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Niddah"
-  },
-  "urn:cts:ancJewLit:babTalmud.rosh_hashanah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Rosh Hashanah"
-  },
-  "urn:cts:ancJewLit:babTalmud.berakhot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Berakhot"
-  },
-  "urn:cts:ancJewLit:babTalmud.pesahim.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Pesahim"
-  },
-  "urn:cts:ancJewLit:babTalmud.yoma.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Yoma"
-  },
-  "urn:cts:ancJewLit:babTalmud.sotah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Sotah"
-  },
-  "urn:cts:ancJewLit:babTalmud.meilah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Meilah"
-  },
-  "urn:cts:ancJewLit:babTalmud.horayot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Horayot"
-  },
-  "urn:cts:ancJewLit:babTalmud.nazir.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Nazir"
-  },
-  "urn:cts:ancJewLit:babTalmud.yevamot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Yevamot"
-  },
-  "urn:cts:ancJewLit:babTalmud.bava_qamma.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Bava Qamma"
-  },
-  "urn:cts:ancJewLit:babTalmud.besa.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Besa"
-  },
-  "urn:cts:ancJewLit:babTalmud.gittin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Gittin"
-  },
-  "urn:cts:ancJewLit:babTalmud.bekhorot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Bekhorot"
-  },
-  "urn:cts:ancJewLit:babTalmud.temurah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Temurah"
-  },
-  "urn:cts:ancJewLit:babTalmud.ketubot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Ketubot"
-  },
-  "urn:cts:ancJewLit:babTalmud.keritot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Keritot"
-  },
-  "urn:cts:ancJewLit:babTalmud.bava_metsia.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Bava Metsia"
-  },
-  "urn:cts:ancJewLit:babTalmud.arakhin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Arakhin"
-  },
-  "urn:cts:ancJewLit:babTalmud.hulin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Hulin"
-  },
-  "urn:cts:ancJewLit:babTalmud.zevahim.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Zevahim"
-  },
-  "urn:cts:ancJewLit:babTalmud.menahot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Menahot"
-  },
-  "urn:cts:ancJewLit:babTalmud.tamid.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Tamid"
-  },
-  "urn:cts:ancJewLit:babTalmud.shevuot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Shevuot"
-  },
-  "urn:cts:ancJewLit:babTalmud.sanhedrin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Sanhedrin"
-  },
-  "urn:cts:ancJewLit:babTalmud.hagigah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Hagigah"
-  },
-  "urn:cts:ancJewLit:babTalmud.sukkah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Sukkah"
-  },
-  "urn:cts:ancJewLit:babTalmud.bava_batra.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Bava Batra"
-  },
-  "urn:cts:ancJewLit:babTalmud.megillah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Megillah"
-  },
-  "urn:cts:ancJewLit:babTalmud.taanit.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Taanit"
-  },
-  "urn:cts:ancJewLit:babTalmud.nedarim.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Nedarim"
-  },
-  "urn:cts:ancJewLit:babTalmud.shabbat.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Shabbat"
-  },
-  "urn:cts:ancJewLit:babTalmud.moed_qatan.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Moed Qatan"
-  },
-  "urn:cts:ancJewLit:babTalmud.qiddushin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Qiddushin"
-  },
-  "urn:cts:ancJewLit:babTalmud.avodah_zarah.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Avodah Zarah"
-  },
-  "urn:cts:ancJewLit:babTalmud.makkot.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Makkot"
-  },
-  "urn:cts:ancJewLit:babTalmud.eruvin.dicta": {
-    "author": "Anonymous",
-    "title": "Text of Babylonian Talmud Tractate Eruvin"
-  },
-  "urn:cts:ancJewLit:mishnah.niddah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Niddah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.besah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Besah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.toharot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Toharot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.rosh_hashanah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Rosh Hashanah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.peah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Peah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.berakhot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Berakhot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.maaserot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Maaserot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.gitin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Gitin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.avot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Avot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.pesahim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Pesahim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.miqvaot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Miqvaot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.yoma.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Yoma from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.uqtsim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Uqtsim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.sotah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Sotah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.meilah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Meilah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.terumot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Terumot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.maasersheni.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Maaser heni from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.horayot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Horayot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.yadayim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Yadayim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.bikkurim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Bikkurim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.yebamot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Yebamot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.makhshirin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Makhshirin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.nazir.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Nazir from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.bava_qamma.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Bava Qamma from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.orla.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Orla from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.sheviit.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Sheviit from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.qinnim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Qinnim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.bekhorot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Bekhorot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.temurah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Temurah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.hallah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Hallah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.ketubot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Ketubot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.middot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Middot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.keritot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Keritot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.demai.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Demai from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.kilayim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Kilayim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.tevulyom.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Tevul om from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.eduyot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Eduyot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.bava_metsia.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Bava Metsia from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.negaim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Negaim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.arakhin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Arakhin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.kelim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Kelim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.hulin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Hulin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.zevahim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Zevahim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.menahot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Menahot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.tamid.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Tamid from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.shevuot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Shevuot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.sanhedrin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Sanhedrin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.hagigah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Hagigah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.sukkah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Sukkah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.parah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Parah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.megillah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Megillah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.taanit.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Taanit from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.zabim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Zabim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.nedarim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Nedarim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.baba_batra.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Baba Batra from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.shabbat.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Shabbat from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.moed_qatan.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Moed Qatan from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.ohalot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Ohalot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.qiddushin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Qiddushin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.avodah_zarah.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Avodah Zarah from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.makkot.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Makkot from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.sheqalim.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Sheqalim from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:mishnah.eruvin.p179204": {
-    "author": "Anonymous",
-    "title": "Text of Tractate Eruvin from the Vilna 1913 Edition of the Mishnah for CTS"
-  },
-  "urn:cts:ancJewLit:hebBible.kings_2.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Kings_2"
-  },
-  "urn:cts:ancJewLit:hebBible.kings_2.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Kings_2"
-  },
-  "urn:cts:ancJewLit:hebBible.ecclesiastes.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Ecclesiastes"
-  },
-  "urn:cts:ancJewLit:hebBible.ecclesiastes.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Ecclesiastes"
-  },
-  "urn:cts:ancJewLit:hebBible.samuel_1.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Samuel_1"
-  },
-  "urn:cts:ancJewLit:hebBible.samuel_1.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Samuel_1"
-  },
-  "urn:cts:ancJewLit:hebBible.ezra.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Ezra"
-  },
-  "urn:cts:ancJewLit:hebBible.ezra.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Ezra"
-  },
-  "urn:cts:ancJewLit:hebBible.zephaniah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Zephaniah"
-  },
-  "urn:cts:ancJewLit:hebBible.zephaniah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Zephaniah"
-  },
-  "urn:cts:ancJewLit:hebBible.chronicles_2.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Chronicles_2"
-  },
-  "urn:cts:ancJewLit:hebBible.chronicles_2.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Chronicles_2"
-  },
-  "urn:cts:ancJewLit:hebBible.haggai.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Haggai"
-  },
-  "urn:cts:ancJewLit:hebBible.haggai.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Haggai"
-  },
-  "urn:cts:ancJewLit:hebBible.numbers.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Numbers"
-  },
-  "urn:cts:ancJewLit:hebBible.numbers.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Numbers"
-  },
-  "urn:cts:ancJewLit:hebBible.leviticus.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Leviticus"
-  },
-  "urn:cts:ancJewLit:hebBible.leviticus.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Leviticus"
-  },
-  "urn:cts:ancJewLit:hebBible.jeremiah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Jeremiah"
-  },
-  "urn:cts:ancJewLit:hebBible.jeremiah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Jeremiah"
-  },
-  "urn:cts:ancJewLit:hebBible.joel.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Joel"
-  },
-  "urn:cts:ancJewLit:hebBible.joel.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Joel"
-  },
-  "urn:cts:ancJewLit:hebBible.ruth.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Ruth"
-  },
-  "urn:cts:ancJewLit:hebBible.ruth.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Ruth"
-  },
-  "urn:cts:ancJewLit:hebBible.amos.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Amos"
-  },
-  "urn:cts:ancJewLit:hebBible.amos.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Amos"
-  },
-  "urn:cts:ancJewLit:hebBible.deuteronomy.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Deuteronomy"
-  },
-  "urn:cts:ancJewLit:hebBible.deuteronomy.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Deuteronomy"
-  },
-  "urn:cts:ancJewLit:hebBible.daniel.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Daniel"
-  },
-  "urn:cts:ancJewLit:hebBible.daniel.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Daniel"
-  },
-  "urn:cts:ancJewLit:hebBible.judges.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Judges"
-  },
-  "urn:cts:ancJewLit:hebBible.judges.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Judges"
-  },
-  "urn:cts:ancJewLit:hebBible.jonah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Jonah"
-  },
-  "urn:cts:ancJewLit:hebBible.jonah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Jonah"
-  },
-  "urn:cts:ancJewLit:hebBible.exodus.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Exodus"
-  },
-  "urn:cts:ancJewLit:hebBible.exodus.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Exodus"
-  },
-  "urn:cts:ancJewLit:hebBible.ezekiel.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Ezekiel"
-  },
-  "urn:cts:ancJewLit:hebBible.ezekiel.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Ezekiel"
-  },
-  "urn:cts:ancJewLit:hebBible.samuel_2.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Samuel_2"
-  },
-  "urn:cts:ancJewLit:hebBible.samuel_2.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Samuel_2"
-  },
-  "urn:cts:ancJewLit:hebBible.kings_1.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Kings_1"
-  },
-  "urn:cts:ancJewLit:hebBible.kings_1.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Kings_1"
-  },
-  "urn:cts:ancJewLit:hebBible.proverbs.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Proverbs"
-  },
-  "urn:cts:ancJewLit:hebBible.proverbs.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Proverbs"
-  },
-  "urn:cts:ancJewLit:hebBible.lamentations.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Lamentations"
-  },
-  "urn:cts:ancJewLit:hebBible.lamentations.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Lamentations"
-  },
-  "urn:cts:ancJewLit:hebBible.chronicles_1.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Chronicles_1"
-  },
-  "urn:cts:ancJewLit:hebBible.chronicles_1.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Chronicles_1"
-  },
-  "urn:cts:ancJewLit:hebBible.nehemiah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Nehemiah"
-  },
-  "urn:cts:ancJewLit:hebBible.nehemiah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Nehemiah"
-  },
-  "urn:cts:ancJewLit:hebBible.job.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Job"
-  },
-  "urn:cts:ancJewLit:hebBible.job.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Job"
-  },
-  "urn:cts:ancJewLit:hebBible.nahum.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Nahum"
-  },
-  "urn:cts:ancJewLit:hebBible.nahum.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Nahum"
-  },
-  "urn:cts:ancJewLit:hebBible.psalms.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Psalms"
-  },
-  "urn:cts:ancJewLit:hebBible.psalms.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Psalms"
-  },
-  "urn:cts:ancJewLit:hebBible.habakkuk.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Habakkuk"
-  },
-  "urn:cts:ancJewLit:hebBible.habakkuk.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Habakkuk"
-  },
-  "urn:cts:ancJewLit:hebBible.micah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Micah"
-  },
-  "urn:cts:ancJewLit:hebBible.micah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Micah"
-  },
-  "urn:cts:ancJewLit:hebBible.obadiah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Obadiah"
-  },
-  "urn:cts:ancJewLit:hebBible.obadiah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Obadiah"
-  },
-  "urn:cts:ancJewLit:hebBible.esther.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Esther"
-  },
-  "urn:cts:ancJewLit:hebBible.esther.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Esther"
-  },
-  "urn:cts:ancJewLit:hebBible.hosea.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Hosea"
-  },
-  "urn:cts:ancJewLit:hebBible.hosea.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Hosea"
-  },
-  "urn:cts:ancJewLit:hebBible.isaiah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Isaiah"
-  },
-  "urn:cts:ancJewLit:hebBible.isaiah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Isaiah"
-  },
-  "urn:cts:ancJewLit:hebBible.genesis.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Genesis"
-  },
-  "urn:cts:ancJewLit:hebBible.genesis.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Genesis"
-  },
-  "urn:cts:ancJewLit:hebBible.malachi.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Malachi"
-  },
-  "urn:cts:ancJewLit:hebBible.malachi.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Malachi"
-  },
-  "urn:cts:ancJewLit:hebBible.joshua.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Joshua"
-  },
-  "urn:cts:ancJewLit:hebBible.joshua.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Joshua"
-  },
-  "urn:cts:ancJewLit:hebBible.zechariah.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Zechariah"
-  },
-  "urn:cts:ancJewLit:hebBible.zechariah.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Zechariah"
-  },
-  "urn:cts:ancJewLit:hebBible.song_of_songs.leningrad-cons": {
-    "author": "Anonymous",
-    "title": "Consonantal Text of Unicode/XML Westminster Leningrad Codex for CTS: Song_of_Songs"
-  },
-  "urn:cts:ancJewLit:hebBible.song_of_songs.leningrad-pntd": {
-    "author": "Anonymous",
-    "title": "Pointed Text of Unicode/XML Westminster Leningrad Codex for CTS: Song_of_Songs"
   }
 }

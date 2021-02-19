@@ -28,33 +28,6 @@
         "name": "csel",
         "url": "https://github.com/OpenGreekAndLatin/csel-dev.git",
         "commit": "cef6c2d6198aa35636e490ae134ad4145ab49ab9"
-      },
-      {
-        "name": "priapeia",
-        "url": "https://github.com/lascivaroma/priapeia.git",
-        "commit": "7420d10c82e1814e7be47627a2569f7969f8a3b0"
-      }
-    ]
-  },
-  {
-    "name": "farsiLit",
-    "prefix": "urn:cts:farsiLit",
-    "git": [
-      {
-        "name": "canonical-farsiLit",
-        "url": "https://github.com/PerseusDL/canonical-farsiLit.git",
-        "commit": "1ce632ece8a2af0646195a0531f5e8f39b161f72"
-      }
-    ]
-  },
-  {
-    "name": "ancJewLit",
-    "prefix": "urn:cts:ancJewLit",
-    "git": [
-      {
-        "name": "ancJewLitCTS",
-        "url": "https://github.com/hlapin/ancJewLitCTS",
-        "commit": "f3534557c6cae678bccbbf0d97ac2b2cdf71cc2e"
       }
     ]
   }
