@@ -19,6 +19,7 @@ class UrnMap
     @out = out
 
     @configuration = JSON.parse(File.read(config), symbolize_names: true)
+    @transformations = JSON.parse(File.read(transform), symbolize_names: true)
   end
 
   def init!
@@ -64,7 +65,7 @@ class UrnMap
 
   private
 
-  attr_accessor :config, :transform, :tmp, :out, :configuration
+  attr_accessor :config, :transform, :tmp, :out, :configuration, :transformations
 
   def s(string)
     Shellwords.escape(string)
@@ -118,20 +119,40 @@ class UrnMap
     "#{prefix}:#{postfix}"
   end
 
-  def clean_string(string)
-    string.gsub(/\s/, ' ').squeeze(' ').strip
+  def text_from_node(node)
+    return '' unless node
+
+    node.text.gsub(/\s/, ' ').squeeze(' ').strip
   end
 
   def add_work_to_hash!(xml, urn, hash)
     # Several of the XML files aren't correctly namespaced
     xml.remove_namespaces!
 
-    title = xml.xpath('//titleStmt/title').first
-    author = xml.xpath('//titleStmt/author').first
+    title = text_from_node(xml.xpath('//titleStmt/title').first)
+    author = text_from_node(xml.xpath('//titleStmt/author').first)
 
-    hash[urn] = {
-      author: author ? clean_string(author.text) : 'Anonymous',
-      title: title ? clean_string(title.text) : 'Unknown',
-    }
+    transform_and_add_to_hash!(urn, author, title, hash)
+  end
+
+  def run_transform(match, transform, key, var)
+    if (!match || (match[key] && Regexp.new(match[key]) =~ var)) && transform[key]
+      return var.gsub(Regexp.new(transform[key][0]), transform[key][1])
+    end
+
+    var
+  end
+
+  def transform_and_add_to_hash!(urn, author, title, hash)
+    transformations.each do |group|
+      match = group[:match]
+      transform = group[:transform]
+
+      urn = run_transform(match, transform, :urn, urn)
+      title = run_transform(match, transform, :title, title)
+      author = run_transform(match, transform, :author, author)
+    end
+
+    hash[urn] = { author: author, title: title }
   end
 end

@@ -1,2 +1,44 @@
 [
+  {
+    "transform": {
+      "title": ["Machine readable text", ""]
+    }
+  },
+  {
+    "transform": {
+      "title": ["\\(English\\)\\.?", ""]
+    }
+  },
+  {
+    "transform": {
+      "title": ["\\(ENGLISH\\)\\.?", ""]
+    }
+  },
+  {
+    "transform": {
+      "title": ["\\(Greek\\)\\.?", ""]
+    }
+  },
+  {
+    "transform": {
+      "author": ["\\s+\\z", ""],
+      "title": ["\\s+\\z", ""]
+    }
+  },
+  {
+    "match": {
+      "author": "\\A\\z"
+    },
+    "transform": {
+      "author": ["", "Anonymous"]
+    }
+  },
+  {
+    "match": {
+      "title": "\\A\\z"
+    },
+    "transform": {
+      "title": ["", "Unkown"]
+    }
+  }
 ]

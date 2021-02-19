@@ -501,11 +501,11 @@
   },
   "urn:cts:greekLit:tlg0060.tlg001.perseus-eng1": {
     "author": "Diodorus Siculus",
-    "title": "Library (English). Machine readable text"
+    "title": "Library"
   },
   "urn:cts:greekLit:tlg0060.tlg001.perseus-grc3": {
     "author": "Diodorus Siculus",
-    "title": "Library (Greek). Machine readable text"
+    "title": "Library"
   },
   "urn:cts:greekLit:tlg0060.tlg001.perseus-grc2": {
     "author": "Diodorus Siculus",
@@ -556,12 +556,12 @@
     "title": "Phaenomena"
   },
   "urn:cts:greekLit:tlg1311.tlg001.perseus-eng1": {
-    "author": "",
+    "author": "Anonymous",
     "title": "The Didache, or Teaching of the Twelve Apostles."
   },
   "urn:cts:greekLit:tlg0034.tlg001.perseus-eng1": {
     "author": "Lycurgus",
-    "title": "Against Leocrates from Speeches (English). Machine readable text"
+    "title": "Against Leocrates from Speeches"
   },
   "urn:cts:greekLit:tlg0034.tlg001.perseus-grc1": {
     "author": "Lycurgus",
@@ -569,43 +569,43 @@
   },
   "urn:cts:greekLit:tlg0033.tlg001.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes (English). Machine readable text - O."
+    "title": "Odes   - O."
   },
   "urn:cts:greekLit:tlg0033.tlg001.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes (Greek). Machine readable text - O."
+    "title": "Odes   - O."
   },
   "urn:cts:greekLit:tlg0033.tlg003.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes (Greek). Machine readable text - N."
+    "title": "Odes   - N."
   },
   "urn:cts:greekLit:tlg0033.tlg003.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes (English). Machine readable text - N."
+    "title": "Odes   - N."
   },
   "urn:cts:greekLit:tlg0033.tlg004.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes (English). Machine readable text - I."
+    "title": "Odes   - I."
   },
   "urn:cts:greekLit:tlg0033.tlg004.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes (Greek). Machine readable text - I."
+    "title": "Odes   - I."
   },
   "urn:cts:greekLit:tlg0033.tlg002.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes (Greek). Machine readable text - P."
+    "title": "Odes   - P."
   },
   "urn:cts:greekLit:tlg0033.tlg002.perseus-eng3": {
     "author": "Pindar",
-    "title": "Odes (English). Machine readable text - P."
+    "title": "Odes   - P."
   },
   "urn:cts:greekLit:tlg0525.tlg001.perseus-grc2": {
     "author": "Pausanias",
-    "title": "Description of Greece (Greek). Machine readable text"
+    "title": "Description of Greece"
   },
   "urn:cts:greekLit:tlg0525.tlg001.perseus-eng2": {
     "author": "Pausanias",
-    "title": "Description of Greece (English). Machine readable text"
+    "title": "Description of Greece"
   },
   "urn:cts:greekLit:tlg2040.tlg004.perseus-grc1": {
     "author": "Basil, Saint, Bishop of Caesarea",
@@ -989,19 +989,19 @@
   },
   "urn:cts:greekLit:tlg0199.tlg001.perseus-grc1": {
     "author": "Bacchylides",
-    "title": "Odes (Greek) - Ep"
+    "title": "Odes  - Ep"
   },
   "urn:cts:greekLit:tlg0199.tlg001.perseus-eng1": {
     "author": "Bacchylides",
-    "title": "Odes (English). Machine readable text - Ep"
+    "title": "Odes   - Ep"
   },
   "urn:cts:greekLit:tlg0199.tlg002.perseus-eng1": {
     "author": "Bacchylides",
-    "title": "Odes (English). Machine readable text - Dith"
+    "title": "Odes   - Dith"
   },
   "urn:cts:greekLit:tlg0199.tlg002.perseus-grc1": {
     "author": "Bacchylides",
-    "title": "Odes (Greek) - Dith"
+    "title": "Odes  - Dith"
   },
   "urn:cts:greekLit:tlg1419.tlg001.perseus-eng1": {
     "author": "Hermas",
@@ -1017,7 +1017,7 @@
   },
   "urn:cts:greekLit:tlg0011.tlg001.perseus-eng3": {
     "author": "Sophocles",
-    "title": "Trachiniae (English)"
+    "title": "Trachiniae"
   },
   "urn:cts:greekLit:tlg0011.tlg001.perseus-grc2": {
     "author": "Sophocles",
@@ -1045,11 +1045,11 @@
   },
   "urn:cts:greekLit:tlg0011.tlg003.perseus-eng2": {
     "author": "Sophocles",
-    "title": "Ajax (English)"
+    "title": "Ajax"
   },
   "urn:cts:greekLit:tlg0011.tlg004.perseus-eng2": {
     "author": "Sophocles",
-    "title": "Oedipus Tyrannus (English)"
+    "title": "Oedipus Tyrannus"
   },
   "urn:cts:greekLit:tlg0011.tlg004.perseus-grc2": {
     "author": "Sophocles",
@@ -1057,7 +1057,7 @@
   },
   "urn:cts:greekLit:tlg0011.tlg005.perseus-eng2": {
     "author": "Sophocles",
-    "title": "Electra (English)"
+    "title": "Electra"
   },
   "urn:cts:greekLit:tlg0011.tlg005.perseus-grc2": {
     "author": "Sophocles",
@@ -1069,7 +1069,7 @@
   },
   "urn:cts:greekLit:tlg0011.tlg002.perseus-eng2": {
     "author": "Sophocles",
-    "title": "Antigone (English)"
+    "title": "Antigone"
   },
   "urn:cts:greekLit:tlg0647.tlg001.perseus-grc1": {
     "author": "Tryphiodorus",
@@ -1109,31 +1109,31 @@
   },
   "urn:cts:greekLit:tlg0020.tlg001.perseus-eng2": {
     "author": "Hesiod",
-    "title": "Theogony (English). Machine readable text"
+    "title": "Theogony"
   },
   "urn:cts:greekLit:tlg0020.tlg001.perseus-grc2": {
     "author": "Hesiod",
-    "title": "Theogony (Greek). Machine readable text"
+    "title": "Theogony"
   },
   "urn:cts:greekLit:tlg0020.tlg003.perseus-grc2": {
     "author": "Hesiod",
-    "title": "Shield of Heracles (Greek). Machine readable text"
+    "title": "Shield of Heracles"
   },
   "urn:cts:greekLit:tlg0020.tlg003.perseus-eng2": {
     "author": "Hesiod",
-    "title": "Shield of Heracles (English). Machine readable text"
+    "title": "Shield of Heracles"
   },
   "urn:cts:greekLit:tlg0020.tlg002.perseus-grc2": {
     "author": "Hesiod",
-    "title": "Works and Days (Greek). Machine readable text"
+    "title": "Works and Days"
   },
   "urn:cts:greekLit:tlg0020.tlg002.perseus-eng2": {
     "author": "Hesiod",
-    "title": "Works and Days (English). Machine readable text"
+    "title": "Works and Days"
   },
   "urn:cts:greekLit:tlg0027.tlg001.perseus-eng1": {
     "author": "Andocides",
-    "title": "On the Mysteries from Speeches (English). Machine readable text"
+    "title": "On the Mysteries from Speeches"
   },
   "urn:cts:greekLit:tlg0027.tlg001.perseus-grc1": {
     "author": "Andocides",
@@ -1145,11 +1145,11 @@
   },
   "urn:cts:greekLit:tlg0027.tlg003.perseus-eng1": {
     "author": "Andocides",
-    "title": "On the Peace with Sparta from Speeches (English). Machine readable text"
+    "title": "On the Peace with Sparta from Speeches"
   },
   "urn:cts:greekLit:tlg0027.tlg004.perseus-eng1": {
     "author": "Andocides",
-    "title": "Against Alcibiades from Speeches (English). Machine readable text"
+    "title": "Against Alcibiades from Speeches"
   },
   "urn:cts:greekLit:tlg0027.tlg004.perseus-grc1": {
     "author": "Andocides",
@@ -1161,7 +1161,7 @@
   },
   "urn:cts:greekLit:tlg0027.tlg002.perseus-eng1": {
     "author": "Andocides",
-    "title": "On His Return from Speeches (English). Machine readable text"
+    "title": "On His Return from Speeches"
   },
   "urn:cts:greekLit:tlg0074.tlg001.perseus-grc1": {
     "author": "Arrian",
@@ -1449,7 +1449,7 @@
   },
   "urn:cts:greekLit:tlg0019.tlg006.perseus-eng1": {
     "author": "Aristophanes",
-    "title": "Birds (English)"
+    "title": "Birds"
   },
   "urn:cts:greekLit:tlg0019.tlg008.perseus-grc1": {
     "author": "Aristophanes",
@@ -1497,11 +1497,11 @@
   },
   "urn:cts:greekLit:tlg0026.tlg001.perseus-eng1": {
     "author": "Aeschines",
-    "title": "Against Timarchus from Speeches (English). Machine readable text"
+    "title": "Against Timarchus from Speeches"
   },
   "urn:cts:greekLit:tlg0026.tlg003.perseus-eng1": {
     "author": "Aeschines",
-    "title": "Against Ctesiphon from Speeches (English). Machine readable text"
+    "title": "Against Ctesiphon from Speeches"
   },
   "urn:cts:greekLit:tlg0026.tlg003.perseus-grc1": {
     "author": "Aeschines",
@@ -1509,7 +1509,7 @@
   },
   "urn:cts:greekLit:tlg0026.tlg002.perseus-eng1": {
     "author": "Aeschines",
-    "title": "The Speech on the Embassy from Speeches (English). Machine readable text"
+    "title": "The Speech on the Embassy from Speeches"
   },
   "urn:cts:greekLit:tlg0026.tlg002.perseus-grc1": {
     "author": "Aeschines",
@@ -1573,7 +1573,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg009.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Astyphilus from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Astyphilus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg009.perseus-grc1": {
     "author": "Isaeus",
@@ -1581,7 +1581,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg007.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On The Estate of Apollodorus from Speeches (ENGLISH). Machine readable text"
+    "title": "On The Estate of Apollodorus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg007.perseus-grc1": {
     "author": "Isaeus",
@@ -1593,11 +1593,11 @@
   },
   "urn:cts:greekLit:tlg0017.tlg001.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On The Estate of Cleonymus from Speeches (ENGLISH). Machine readable text"
+    "title": "On The Estate of Cleonymus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg006.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Philoctemon from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Philoctemon from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg006.perseus-grc1": {
     "author": "Isaeus",
@@ -1605,7 +1605,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg008.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On The Estate of Ciron from Speeches (ENGLISH). Machine readable text"
+    "title": "On The Estate of Ciron from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg008.perseus-grc1": {
     "author": "Isaeus",
@@ -1613,7 +1613,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg012.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On Behalf of Euphiletus from Speeches (ENGLISH). Machine readable text"
+    "title": "On Behalf of Euphiletus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg012.perseus-grc1": {
     "author": "Isaeus",
@@ -1621,7 +1621,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg003.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On The Estate Of Pyrrhus from Speeches (ENGLISH). Machine readable text"
+    "title": "On The Estate Of Pyrrhus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg003.perseus-grc1": {
     "author": "Isaeus",
@@ -1633,7 +1633,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg004.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Nicostratus from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Nicostratus from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg005.perseus-grc1": {
     "author": "Isaeus",
@@ -1641,11 +1641,11 @@
   },
   "urn:cts:greekLit:tlg0017.tlg005.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Dicaeogenes from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Dicaeogenes from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg002.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Menecles from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Menecles from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg002.perseus-grc1": {
     "author": "Isaeus",
@@ -1657,7 +1657,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg011.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On the Estate of Hagnias from Speeches (ENGLISH). Machine readable text"
+    "title": "On the Estate of Hagnias from Speeches"
   },
   "urn:cts:greekLit:tlg0017.tlg010.perseus-grc1": {
     "author": "Isaeus",
@@ -1665,7 +1665,7 @@
   },
   "urn:cts:greekLit:tlg0017.tlg010.perseus-eng1": {
     "author": "Isaeus",
-    "title": "On The Estate Of Aristarchus from Speeches (ENGLISH). Machine readable text"
+    "title": "On The Estate Of Aristarchus from Speeches"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc4": {
     "author": "Anonymous",
@@ -1989,11 +1989,11 @@
   },
   "urn:cts:greekLit:tlg0086.tlg009.perseus-grc1": {
     "author": "Aristotle",
-    "title": "Eudemian Ethics (Greek). Machine readable text"
+    "title": "Eudemian Ethics"
   },
   "urn:cts:greekLit:tlg0086.tlg009.perseus-eng1": {
     "author": "Aristotle",
-    "title": "Eudemian Ethics (English). Machine readable text"
+    "title": "Eudemian Ethics"
   },
   "urn:cts:greekLit:tlg0086.tlg038.perseus-grc1": {
     "author": "Aristotle",
@@ -2005,19 +2005,19 @@
   },
   "urn:cts:greekLit:tlg0086.tlg025.perseus-eng1": {
     "author": "Aristotle",
-    "title": "Metaphysics (English). Machine readable text"
+    "title": "Metaphysics"
   },
   "urn:cts:greekLit:tlg0086.tlg025.perseus-grc1": {
     "author": "Aristotle",
-    "title": "Metaphysics (Greek). Machine readable text"
+    "title": "Metaphysics"
   },
   "urn:cts:greekLit:tlg0086.tlg035.perseus-eng1": {
     "author": "Aristotle",
-    "title": "Politics (English). Machine readable text"
+    "title": "Politics"
   },
   "urn:cts:greekLit:tlg0086.tlg035.perseus-grc1": {
     "author": "Aristotle",
-    "title": "Politics (Greek). Machine readable text"
+    "title": "Politics"
   },
   "urn:cts:greekLit:tlg0086.tlg003.perseus-grc1": {
     "author": "Aristotle",
@@ -2025,7 +2025,7 @@
   },
   "urn:cts:greekLit:tlg0086.tlg034.perseus-eng1": {
     "author": "Aristotle",
-    "title": "Poetics (English). Machine readable text"
+    "title": "Poetics"
   },
   "urn:cts:greekLit:tlg0086.tlg034.digicorpus-ara1": {
     "author": "Aristotle",
@@ -2041,11 +2041,11 @@
   },
   "urn:cts:greekLit:tlg0086.tlg029.perseus-grc1": {
     "author": "Aristotle",
-    "title": "Economics (Greek). Machine readable text"
+    "title": "Economics"
   },
   "urn:cts:greekLit:tlg0086.tlg029.perseus-eng1": {
     "author": "Aristotle",
-    "title": "Economics (English). Machine readable text"
+    "title": "Economics"
   },
   "urn:cts:greekLit:tlg0086.tlg010.perseus-grc1": {
     "author": "Aristotle",
@@ -2421,19 +2421,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg054.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg054.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg053.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg053.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg098.perseus-grc2": {
     "author": "Plutarch",
@@ -2461,19 +2461,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg065.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg065.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg062.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg062.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg096.perseus-grc2": {
     "author": "Plutarch",
@@ -2497,27 +2497,27 @@
   },
   "urn:cts:greekLit:tlg0007.tlg036.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg036.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg031.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg031.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg038.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg038.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg007.perseus-eng2": {
     "author": "Plutarch",
@@ -2541,19 +2541,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg063.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg063.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg064.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg064.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg090.perseus-eng4": {
     "author": "Plutarch",
@@ -2569,11 +2569,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg052.perseus-eng1": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg052.perseus-grc1": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg099.perseus-grc2": {
     "author": "Plutarch",
@@ -2589,11 +2589,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg055.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg055.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg001.perseus-grc2": {
     "author": "Plutarch",
@@ -2605,11 +2605,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg039.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg039.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg006.perseus-eng2": {
     "author": "Plutarch",
@@ -2621,11 +2621,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg030.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg030.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg008.perseus-eng2": {
     "author": "Plutarch",
@@ -2637,11 +2637,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg037.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg037.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg015.perseus-grc2": {
     "author": "Plutarch",
@@ -2649,7 +2649,7 @@
   },
   "urn:cts:greekLit:tlg0007.tlg015.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg012.perseus-eng2": {
     "author": "Plutarch",
@@ -2661,27 +2661,27 @@
   },
   "urn:cts:greekLit:tlg0007.tlg024.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg024.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg023.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg023.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg048.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg048.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg083.perseus-grc3": {
     "author": "Plutarch",
@@ -2737,19 +2737,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg046.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg046.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg041.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg041.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg022.perseus-eng2": {
     "author": "Plutarch",
@@ -2761,11 +2761,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg025.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg025.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg013.perseus-eng2": {
     "author": "Plutarch",
@@ -2785,11 +2785,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg040.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg040.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg078.perseus-eng3": {
     "author": "Plutarch",
@@ -2805,11 +2805,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg047.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg047.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg085.perseus-eng4": {
     "author": "Plutarch",
@@ -2841,11 +2841,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg049.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg049.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg076.perseus-eng4": {
     "author": "Plutarch",
@@ -3057,19 +3057,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg032.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg032.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg035.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg035.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg003.perseus-eng2": {
     "author": "Plutarch",
@@ -3089,15 +3089,15 @@
   },
   "urn:cts:greekLit:tlg0007.tlg050.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg050.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg057.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg057.perseus-grc2": {
     "author": "Plutarch",
@@ -3117,11 +3117,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg061.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg061.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg095.perseus-eng3": {
     "author": "Plutarch",
@@ -3149,15 +3149,15 @@
   },
   "urn:cts:greekLit:tlg0007.tlg066.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg066.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg059.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg059.perseus-grc2": {
     "author": "Plutarch",
@@ -3181,19 +3181,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg034.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg034.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg033.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg033.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg067.perseus-eng3": {
     "author": "Plutarch",
@@ -3221,7 +3221,7 @@
   },
   "urn:cts:greekLit:tlg0007.tlg058.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg058.perseus-grc2": {
     "author": "Plutarch",
@@ -3241,19 +3241,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg060.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg060.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg056.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg056.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg069.perseus-eng4": {
     "author": "Plutarch",
@@ -3269,11 +3269,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg051.perseus-grc1": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg051.perseus-eng1": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg073.perseus-eng3": {
     "author": "Plutarch",
@@ -3341,19 +3341,19 @@
   },
   "urn:cts:greekLit:tlg0007.tlg042.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg042.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg045.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg045.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg011.perseus-grc2": {
     "author": "Plutarch",
@@ -3373,11 +3373,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg029.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg029.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg020.perseus-grc2": {
     "author": "Plutarch",
@@ -3389,11 +3389,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg027.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg027.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg018.perseus-eng2": {
     "author": "Plutarch",
@@ -3405,11 +3405,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg044.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg044.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg088.perseus-grc3": {
     "author": "Plutarch",
@@ -3429,11 +3429,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg043.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg043.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg075.perseus-grc2": {
     "author": "Plutarch",
@@ -3493,11 +3493,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg026.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg026.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg019.perseus-eng2": {
     "author": "Plutarch",
@@ -3525,11 +3525,11 @@
   },
   "urn:cts:greekLit:tlg0007.tlg028.perseus-eng2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg028.perseus-grc2": {
     "author": "Plutarch",
-    "title": "Machine readable text"
+    "title": "Unkown"
   },
   "urn:cts:greekLit:tlg0007.tlg010.perseus-grc2": {
     "author": "Plutarch",
@@ -4121,7 +4121,7 @@
   },
   "urn:cts:greekLit:tlg0030.tlg001.perseus-eng1": {
     "author": "Hyperides",
-    "title": "In Defence of Lycophron from Speeches (English). Machine readable text"
+    "title": "In Defence of Lycophron from Speeches"
   },
   "urn:cts:greekLit:tlg0030.tlg001.perseus-grc1": {
     "author": "Hyperides",
@@ -4133,7 +4133,7 @@
   },
   "urn:cts:greekLit:tlg0030.tlg006.perseus-eng1": {
     "author": "Hyperides",
-    "title": "Funeral Speech from Speeches (English). Machine readable text"
+    "title": "Funeral Speech from Speeches"
   },
   "urn:cts:greekLit:tlg0030.tlg003.perseus-grc1": {
     "author": "Hyperides",
@@ -4141,11 +4141,11 @@
   },
   "urn:cts:greekLit:tlg0030.tlg003.perseus-eng1": {
     "author": "Hyperides",
-    "title": "Against Athenogenes from Speeches (English). Machine readable text"
+    "title": "Against Athenogenes from Speeches"
   },
   "urn:cts:greekLit:tlg0030.tlg004.perseus-eng1": {
     "author": "Hyperides",
-    "title": "In Defence of Euxenippus from Speeches (English). Machine readable text"
+    "title": "In Defence of Euxenippus from Speeches"
   },
   "urn:cts:greekLit:tlg0030.tlg004.perseus-grc1": {
     "author": "Hyperides",
@@ -4153,7 +4153,7 @@
   },
   "urn:cts:greekLit:tlg0030.tlg005.perseus-eng1": {
     "author": "Hyperides",
-    "title": "Against Demosthenes from Speeches (English). Machine readable text"
+    "title": "Against Demosthenes from Speeches"
   },
   "urn:cts:greekLit:tlg0030.tlg005.perseus-grc1": {
     "author": "Hyperides",
@@ -4165,7 +4165,7 @@
   },
   "urn:cts:greekLit:tlg0030.tlg002.perseus-eng1": {
     "author": "Hyperides",
-    "title": "Against Philippides from Speeches (English). Machine readable text"
+    "title": "Against Philippides from Speeches"
   },
   "urn:cts:greekLit:tlg0008.tlg001.perseus-grc3": {
     "author": "Athenaeus",
@@ -4193,7 +4193,7 @@
   },
   "urn:cts:greekLit:tlg0099.tlg001.perseus-eng1": {
     "author": "Strabo",
-    "title": "Geography (English). Machine readable text"
+    "title": "Geography"
   },
   "urn:cts:greekLit:tlg0099.tlg001.perseus-eng2": {
     "author": "Strabo",
@@ -4205,7 +4205,7 @@
   },
   "urn:cts:greekLit:tlg0099.tlg001.perseus-grc1": {
     "author": "Strabo",
-    "title": "Geography (Greek). Machine readable text"
+    "title": "Geography"
   },
   "urn:cts:greekLit:tlg4091.tlg001.perseus-grc1": {
     "author": "Callistratus",
@@ -4749,11 +4749,11 @@
   },
   "urn:cts:greekLit:tlg0012.tlg001.perseus-eng3": {
     "author": "Homer",
-    "title": "Iliad (English). Machine readable text"
+    "title": "Iliad"
   },
   "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2": {
     "author": "Homer",
-    "title": "Iliad (Greek). Machine readable text"
+    "title": "Iliad"
   },
   "urn:cts:greekLit:tlg0012.tlg003.perseus-grc1": {
     "author": "Homer",
@@ -4765,7 +4765,7 @@
   },
   "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2": {
     "author": "Homer",
-    "title": "Odyssey (Greek). Machine readable text"
+    "title": "Odyssey"
   },
   "urn:cts:greekLit:tlg0012.tlg002.perseus-eng4": {
     "author": "Homer",
@@ -4773,7 +4773,7 @@
   },
   "urn:cts:greekLit:tlg0012.tlg002.perseus-eng3": {
     "author": "Homer",
-    "title": "Odyssey (English). Machine readable text"
+    "title": "Odyssey"
   },
   "urn:cts:greekLit:tlg0024.tlg001.perseus-grc1": {
     "author": "Oppian of Apamea",
@@ -6469,15 +6469,15 @@
   },
   "urn:cts:greekLit:tlg0541.tlg042.1st1K-grc2": {
     "author": "pseudo-Menander",
-    "title": "Sententiae (corresponds to version Men ar II) (Greek)"
+    "title": "Sententiae (corresponds to version Men ar II)"
   },
   "urn:cts:greekLit:tlg0541.tlg042.1st1K-grc3": {
     "author": "pseudo-Menander",
-    "title": "Sententiae (corresponds to quotes from Gregory Nazianzen, Carmen morale XXX) (Greek)"
+    "title": "Sententiae (corresponds to quotes from Gregory Nazianzen, Carmen morale XXX)"
   },
   "urn:cts:greekLit:tlg0541.tlg042.1st1K-grc1": {
     "author": "pseudo-Menander",
-    "title": "Sententiae (corresponds to version Men Ar I) (Greek)"
+    "title": "Sententiae (corresponds to version Men Ar I)"
   },
   "urn:cts:greekLit:tlg5034.tlg001a.perseus-grc1": {
     "author": "Pindar Scholia",
@@ -7516,7 +7516,7 @@
     "title": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
   },
   "urn:cts:greekLit:tlg0031.tlg002.1st1K-cop1": {
-    "author": "",
+    "author": "Anonymous",
     "title": "Mark Chapter 1"
   },
   "urn:cts:greekLit:tlg0031.tlg002.INTF-grc1": {
