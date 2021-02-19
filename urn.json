@@ -432,7 +432,7 @@
     "title": "Narrationes Amatoriae"
   },
   "urn:cts:greekLit:tlg0003.tlg001.opp-fre1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Histoire de la Guerre du Péloponnèse"
   },
   "urn:cts:greekLit:tlg0003.tlg001.perseus-grc2": {
@@ -440,11 +440,11 @@
     "title": "The Peloponnesian War"
   },
   "urn:cts:greekLit:tlg0003.tlg001.opp-ger1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Geschichte des Peloponnesischen Kriegs von Thukydides"
   },
   "urn:cts:greekLit:tlg0003.tlg001.opp-ger2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Geschichte des Peloponnesischen Krieges von Thukydides"
   },
   "urn:cts:greekLit:tlg0003.tlg001.perseus-eng6": {
@@ -556,7 +556,7 @@
     "title": "Phaenomena"
   },
   "urn:cts:greekLit:tlg1311.tlg001.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "The Didache, or Teaching of the Twelve Apostles."
   },
   "urn:cts:greekLit:tlg0034.tlg001.perseus-eng1": {
@@ -569,35 +569,35 @@
   },
   "urn:cts:greekLit:tlg0033.tlg001.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes   - O."
+    "title": "Odes - O."
   },
   "urn:cts:greekLit:tlg0033.tlg001.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes   - O."
+    "title": "Odes - O."
   },
   "urn:cts:greekLit:tlg0033.tlg003.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes   - N."
+    "title": "Odes - N."
   },
   "urn:cts:greekLit:tlg0033.tlg003.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes   - N."
+    "title": "Odes - N."
   },
   "urn:cts:greekLit:tlg0033.tlg004.perseus-eng2": {
     "author": "Pindar",
-    "title": "Odes   - I."
+    "title": "Odes - I."
   },
   "urn:cts:greekLit:tlg0033.tlg004.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes   - I."
+    "title": "Odes - I."
   },
   "urn:cts:greekLit:tlg0033.tlg002.perseus-grc2": {
     "author": "Pindar",
-    "title": "Odes   - P."
+    "title": "Odes - P."
   },
   "urn:cts:greekLit:tlg0033.tlg002.perseus-eng3": {
     "author": "Pindar",
-    "title": "Odes   - P."
+    "title": "Odes - P."
   },
   "urn:cts:greekLit:tlg0525.tlg001.perseus-grc2": {
     "author": "Pausanias",
@@ -924,7 +924,7 @@
     "title": "Against Theomnestus 1"
   },
   "urn:cts:greekLit:tlg3135.tlg001.opp-grc3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "IOANNIS ZONARAE EPITOME HISTORIARUM"
   },
   "urn:cts:greekLit:tlg2046.tlg001.perseus-grc1": {
@@ -989,19 +989,19 @@
   },
   "urn:cts:greekLit:tlg0199.tlg001.perseus-grc1": {
     "author": "Bacchylides",
-    "title": "Odes  - Ep"
+    "title": "Odes - Ep"
   },
   "urn:cts:greekLit:tlg0199.tlg001.perseus-eng1": {
     "author": "Bacchylides",
-    "title": "Odes   - Ep"
+    "title": "Odes - Ep"
   },
   "urn:cts:greekLit:tlg0199.tlg002.perseus-eng1": {
     "author": "Bacchylides",
-    "title": "Odes   - Dith"
+    "title": "Odes - Dith"
   },
   "urn:cts:greekLit:tlg0199.tlg002.perseus-grc1": {
     "author": "Bacchylides",
-    "title": "Odes  - Dith"
+    "title": "Odes - Dith"
   },
   "urn:cts:greekLit:tlg1419.tlg001.perseus-eng1": {
     "author": "Hermas",
@@ -1668,23 +1668,23 @@
     "title": "On The Estate Of Aristarchus from Speeches"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc4": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Greek Anthology, Volume IV"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc5": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Greek Anthology, Volume V"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Greek Anthology, Volume II"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Greek Anthology, Volume III"
   },
   "urn:cts:greekLit:tlg7000.tlg001.perseus-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Greek Anthology, Volume I"
   },
   "urn:cts:greekLit:tlg0010.tlg009.perseus-eng2": {
@@ -1928,7 +1928,7 @@
     "title": "Busiris"
   },
   "urn:cts:greekLit:tlg0646.tlg004.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "The Epistle to Diogentus"
   },
   "urn:cts:greekLit:tlg0612.tlg001.perseus-grc1": {
@@ -2068,219 +2068,219 @@
     "title": "Vita Barlaam et Joasaph"
   },
   "urn:cts:greekLit:tlg0031.tlg009.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Galatians"
   },
   "urn:cts:greekLit:tlg0031.tlg009.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Galatians"
   },
   "urn:cts:greekLit:tlg0031.tlg007.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 1 Corinthians"
   },
   "urn:cts:greekLit:tlg0031.tlg007.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 1 Corinthians"
   },
   "urn:cts:greekLit:tlg0031.tlg001.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Matthew"
   },
   "urn:cts:greekLit:tlg0031.tlg001.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Matthew"
   },
   "urn:cts:greekLit:tlg0031.tlg006.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Romans"
   },
   "urn:cts:greekLit:tlg0031.tlg006.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Romans"
   },
   "urn:cts:greekLit:tlg0031.tlg008.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 2 Corinthians"
   },
   "urn:cts:greekLit:tlg0031.tlg008.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 2 Corinthians"
   },
   "urn:cts:greekLit:tlg0031.tlg015.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 1 Timothy"
   },
   "urn:cts:greekLit:tlg0031.tlg015.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 1 Timothy"
   },
   "urn:cts:greekLit:tlg0031.tlg012.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Colossians"
   },
   "urn:cts:greekLit:tlg0031.tlg012.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Colossians"
   },
   "urn:cts:greekLit:tlg0031.tlg024.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 2 John"
   },
   "urn:cts:greekLit:tlg0031.tlg024.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 2 John"
   },
   "urn:cts:greekLit:tlg0031.tlg023.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 1 John"
   },
   "urn:cts:greekLit:tlg0031.tlg023.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 1 John"
   },
   "urn:cts:greekLit:tlg0031.tlg022.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 2 Peter"
   },
   "urn:cts:greekLit:tlg0031.tlg022.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 2 Peter"
   },
   "urn:cts:greekLit:tlg0031.tlg025.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 3 John"
   },
   "urn:cts:greekLit:tlg0031.tlg025.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 3 John"
   },
   "urn:cts:greekLit:tlg0031.tlg013.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - I Thessalonians"
   },
   "urn:cts:greekLit:tlg0031.tlg013.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 1 Thessalonians"
   },
   "urn:cts:greekLit:tlg0031.tlg014.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 2 Thessalonians"
   },
   "urn:cts:greekLit:tlg0031.tlg014.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - II Thessalonians"
   },
   "urn:cts:greekLit:tlg0031.tlg003.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Luke"
   },
   "urn:cts:greekLit:tlg0031.tlg003.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Luke"
   },
   "urn:cts:greekLit:tlg0031.tlg004.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - John"
   },
   "urn:cts:greekLit:tlg0031.tlg004.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - John"
   },
   "urn:cts:greekLit:tlg0031.tlg005.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Acts"
   },
   "urn:cts:greekLit:tlg0031.tlg005.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Acts"
   },
   "urn:cts:greekLit:tlg0031.tlg002.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Mark"
   },
   "urn:cts:greekLit:tlg0031.tlg002.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Mark"
   },
   "urn:cts:greekLit:tlg0031.tlg011.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Philippians"
   },
   "urn:cts:greekLit:tlg0031.tlg011.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Philippians"
   },
   "urn:cts:greekLit:tlg0031.tlg016.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 2 Timothy"
   },
   "urn:cts:greekLit:tlg0031.tlg016.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 2 Timothy"
   },
   "urn:cts:greekLit:tlg0031.tlg020.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - James"
   },
   "urn:cts:greekLit:tlg0031.tlg020.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - James"
   },
   "urn:cts:greekLit:tlg0031.tlg027.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Apocalypse"
   },
   "urn:cts:greekLit:tlg0031.tlg027.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Revelation"
   },
   "urn:cts:greekLit:tlg0031.tlg018.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Philemon"
   },
   "urn:cts:greekLit:tlg0031.tlg018.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Philemon"
   },
   "urn:cts:greekLit:tlg0031.tlg026.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Jude"
   },
   "urn:cts:greekLit:tlg0031.tlg026.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Jude"
   },
   "urn:cts:greekLit:tlg0031.tlg019.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Hebrews"
   },
   "urn:cts:greekLit:tlg0031.tlg019.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Hebrews"
   },
   "urn:cts:greekLit:tlg0031.tlg021.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - 1 Peter"
   },
   "urn:cts:greekLit:tlg0031.tlg021.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - 1 Peter"
   },
   "urn:cts:greekLit:tlg0031.tlg017.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Titus"
   },
   "urn:cts:greekLit:tlg0031.tlg017.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Titus"
   },
   "urn:cts:greekLit:tlg0031.tlg010.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "New Testament - Ephesians"
   },
   "urn:cts:greekLit:tlg0031.tlg010.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Ephesians"
   },
   "urn:cts:greekLit:tlg0007.tlg118.perseus-grc2": {
@@ -4272,159 +4272,159 @@
     "title": "Historia ecclesiastica"
   },
   "urn:cts:greekLit:tlg0527.tlg053.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Ezekiel"
   },
   "urn:cts:greekLit:tlg0527.tlg036.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Hosea"
   },
   "urn:cts:greekLit:tlg0527.tlg031.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Canticle"
   },
   "urn:cts:greekLit:tlg0527.tlg038.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Micah"
   },
   "urn:cts:greekLit:tlg0527.tlg001.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Genesis"
   },
   "urn:cts:greekLit:tlg0527.tlg039.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Joel"
   },
   "urn:cts:greekLit:tlg0527.tlg006.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Joshua"
   },
   "urn:cts:greekLit:tlg0527.tlg030.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Ecclesiastes"
   },
   "urn:cts:greekLit:tlg0527.tlg008.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Judges"
   },
   "urn:cts:greekLit:tlg0527.tlg037.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Amos"
   },
   "urn:cts:greekLit:tlg0527.tlg015.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - I Chronicles"
   },
   "urn:cts:greekLit:tlg0527.tlg012.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - II Samuel"
   },
   "urn:cts:greekLit:tlg0527.tlg048.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Isaiah"
   },
   "urn:cts:greekLit:tlg0527.tlg046.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Zechariah"
   },
   "urn:cts:greekLit:tlg0527.tlg041.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Jonah"
   },
   "urn:cts:greekLit:tlg0527.tlg013.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - I Kings"
   },
   "urn:cts:greekLit:tlg0527.tlg014.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - II Kings"
   },
   "urn:cts:greekLit:tlg0527.tlg040.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Obadiah"
   },
   "urn:cts:greekLit:tlg0527.tlg047.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Malachi"
   },
   "urn:cts:greekLit:tlg0527.tlg049.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Jeremiah"
   },
   "urn:cts:greekLit:tlg0527.tlg032.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Job"
   },
   "urn:cts:greekLit:tlg0527.tlg003.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Leviticus"
   },
   "urn:cts:greekLit:tlg0527.tlg004.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Numbers"
   },
   "urn:cts:greekLit:tlg0527.tlg005.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Deuteronomy"
   },
   "urn:cts:greekLit:tlg0527.tlg002.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Exodus"
   },
   "urn:cts:greekLit:tlg0527.tlg056.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Daniel"
   },
   "urn:cts:greekLit:tlg0527.tlg051.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Lamentations"
   },
   "urn:cts:greekLit:tlg0527.tlg042.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Nahum"
   },
   "urn:cts:greekLit:tlg0527.tlg045.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Haggai"
   },
   "urn:cts:greekLit:tlg0527.tlg011.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - I Samuel"
   },
   "urn:cts:greekLit:tlg0527.tlg016.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - II Chronicles"
   },
   "urn:cts:greekLit:tlg0527.tlg029.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Proverbs"
   },
   "urn:cts:greekLit:tlg0527.tlg027.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Psalms"
   },
   "urn:cts:greekLit:tlg0527.tlg018.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Nehemiah"
   },
   "urn:cts:greekLit:tlg0527.tlg018.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Ezra"
   },
   "urn:cts:greekLit:tlg0527.tlg044.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Zephaniah"
   },
   "urn:cts:greekLit:tlg0527.tlg043.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Habakkuk"
   },
   "urn:cts:greekLit:tlg0527.tlg019.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Esther"
   },
   "urn:cts:greekLit:tlg0527.tlg010.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "World English Bible - Ruth"
   },
   "urn:cts:greekLit:tlg0385.tlg001.perseus-grc1": {
@@ -4616,7 +4616,7 @@
     "title": "Numidian Affairs"
   },
   "urn:cts:greekLit:tlg1484.tlg001.perseus-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "The Martydom of Polycarp"
   },
   "urn:cts:greekLit:tlg0556.tlg001.perseus-grc1": {
@@ -5020,267 +5020,267 @@
     "title": "Elements"
   },
   "urn:cts:greekLit:tlg0013.tlg009.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 9 To Artemis"
   },
   "urn:cts:greekLit:tlg0013.tlg009.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 9 To Artemis"
   },
   "urn:cts:greekLit:tlg0013.tlg031.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 31 To Helios"
   },
   "urn:cts:greekLit:tlg0013.tlg031.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 31 To Helios"
   },
   "urn:cts:greekLit:tlg0013.tlg007.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 7 Το Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg007.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 7 To Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg001.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 1 To Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg001.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 1 To Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg006.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 6 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0013.tlg006.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 6 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0013.tlg030.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 30 To Earth"
   },
   "urn:cts:greekLit:tlg0013.tlg030.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 30 To Earth"
   },
   "urn:cts:greekLit:tlg0013.tlg008.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 8 To Ares"
   },
   "urn:cts:greekLit:tlg0013.tlg008.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 8 To Ares"
   },
   "urn:cts:greekLit:tlg0013.tlg015.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 15 To Heracles the Lion-Hearted"
   },
   "urn:cts:greekLit:tlg0013.tlg015.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 15 To Heracles the Lion-Hearted"
   },
   "urn:cts:greekLit:tlg0013.tlg012.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 12 To Hera"
   },
   "urn:cts:greekLit:tlg0013.tlg012.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 12 To Hera"
   },
   "urn:cts:greekLit:tlg0013.tlg024.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 24 To Hestia"
   },
   "urn:cts:greekLit:tlg0013.tlg024.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 24 To Hestia"
   },
   "urn:cts:greekLit:tlg0013.tlg023.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 23 to Zeus"
   },
   "urn:cts:greekLit:tlg0013.tlg023.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 23 to Zeus"
   },
   "urn:cts:greekLit:tlg0013.tlg022.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 22 To Poseidon"
   },
   "urn:cts:greekLit:tlg0013.tlg022.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 22 To Poseidon"
   },
   "urn:cts:greekLit:tlg0013.tlg025.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 25 To the Muses and Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg025.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 25 To the Muses and Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg013.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 13 To Demeter"
   },
   "urn:cts:greekLit:tlg0013.tlg013.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 13 To Demeter"
   },
   "urn:cts:greekLit:tlg0013.tlg014.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 14 to the Mother of the Gods"
   },
   "urn:cts:greekLit:tlg0013.tlg014.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 14 to the Mother of the Gods"
   },
   "urn:cts:greekLit:tlg0013.tlg032.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 32 To Selene"
   },
   "urn:cts:greekLit:tlg0013.tlg032.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 32 To Selene"
   },
   "urn:cts:greekLit:tlg0013.tlg003.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 3 To Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg003.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 3 To Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg004.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 4 To Hermes"
   },
   "urn:cts:greekLit:tlg0013.tlg004.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 4 To Hermes"
   },
   "urn:cts:greekLit:tlg0013.tlg005.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 5 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0013.tlg005.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 5 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0013.tlg002.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 2 To Demeter"
   },
   "urn:cts:greekLit:tlg0013.tlg002.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 2 To Demeter"
   },
   "urn:cts:greekLit:tlg0013.tlg033.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 32 To the Dioscuri"
   },
   "urn:cts:greekLit:tlg0013.tlg033.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 33 To the Dioscuri"
   },
   "urn:cts:greekLit:tlg0013.tlg011.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 11 To Athena"
   },
   "urn:cts:greekLit:tlg0013.tlg011.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 11 To Athena"
   },
   "urn:cts:greekLit:tlg0013.tlg016.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 16 To Asclepius"
   },
   "urn:cts:greekLit:tlg0013.tlg016.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 16 To Asclepius"
   },
   "urn:cts:greekLit:tlg0013.tlg029.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 29 To Hestia"
   },
   "urn:cts:greekLit:tlg0013.tlg029.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 29 To Hestia"
   },
   "urn:cts:greekLit:tlg0013.tlg020.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 20 To Hephaestus"
   },
   "urn:cts:greekLit:tlg0013.tlg020.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 20 To Hephaestus"
   },
   "urn:cts:greekLit:tlg0013.tlg027.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 27 To Artemis"
   },
   "urn:cts:greekLit:tlg0013.tlg027.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 27 To Artemis"
   },
   "urn:cts:greekLit:tlg0013.tlg018.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 18 To Hermes"
   },
   "urn:cts:greekLit:tlg0013.tlg018.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 18 To Hermes"
   },
   "urn:cts:greekLit:tlg0013.tlg026.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 26 To Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg026.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 26 To Dionysus"
   },
   "urn:cts:greekLit:tlg0013.tlg019.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 19 To Pan"
   },
   "urn:cts:greekLit:tlg0013.tlg019.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 19 to Pan"
   },
   "urn:cts:greekLit:tlg0013.tlg021.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 21 To Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg021.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 21 To Apollo"
   },
   "urn:cts:greekLit:tlg0013.tlg017.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 17 To the Dioscuri"
   },
   "urn:cts:greekLit:tlg0013.tlg017.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 17 To the Dioscuri"
   },
   "urn:cts:greekLit:tlg0013.tlg028.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 28 To Athena"
   },
   "urn:cts:greekLit:tlg0013.tlg028.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 28 To Athena"
   },
   "urn:cts:greekLit:tlg0013.tlg010.perseus-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 10 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0013.tlg010.perseus-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Hymn 10 To Aphrodite"
   },
   "urn:cts:greekLit:tlg0014.tlg054.perseus-grc2": {
@@ -6352,7 +6352,7 @@
     "title": "Menippi periplus maris interni (epitome Marciani)"
   },
   "urn:cts:greekLit:tlg1252.tlg002.1st1K-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Certamen Homeri et Hesiodi"
   },
   "urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1": {
@@ -6420,7 +6420,7 @@
     "title": "Exegesis in Hesiodi theogoniam"
   },
   "urn:cts:greekLit:tlg9006.tlg011.opp-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Libanius Opera"
   },
   "urn:cts:greekLit:tlg2041.tlg001.opp-grc1": {
@@ -6924,7 +6924,7 @@
     "title": "In Categorias Commentarium"
   },
   "urn:cts:greekLit:heb0001.heb010.1st1K-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Isaias"
   },
   "urn:cts:greekLit:tlg1766.tlg001.perseus-grc1": {
@@ -7404,7 +7404,7 @@
     "title": "De sophisticis elenchis"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-mul1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Index Verborum to Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-lat1": {
@@ -7412,19 +7412,19 @@
     "title": "Prefatio to Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-mul2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Index Nominum to Aristotle, Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Addenda to Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corrigenda to Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-lat4": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Signorum Explicatio to Res Publica Atheniensium"
   },
   "urn:cts:greekLit:tlg0086.tlg003.1st1K-grc1": {
@@ -7516,11 +7516,11 @@
     "title": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
   },
   "urn:cts:greekLit:tlg0031.tlg002.1st1K-cop1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Mark Chapter 1"
   },
   "urn:cts:greekLit:tlg0031.tlg002.INTF-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "01"
   },
   "urn:cts:greekLit:tlg0658.tlg001.perseus-grc1": {
@@ -8224,27 +8224,27 @@
     "title": "Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.opp-grc2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Notes on Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Index I to Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Appendix to Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Index II to Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg048.opp-eng2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Isaias"
   },
   "urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1": {
@@ -8320,7 +8320,7 @@
     "title": "Ecclesiasticus"
   },
   "urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Ecclesiasticus"
   },
   "urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1": {
@@ -9360,7 +9360,7 @@
     "title": "Synagoge"
   },
   "urn:cts:greekLit:tlg1220.tlg001.1st1K-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Batrachomyomachia"
   },
   "urn:cts:greekLit:tlg2035.tlg117.1st1K-grc1": {
@@ -9552,7 +9552,7 @@
     "title": "Βιβλίον μυθικὸν τοῦ Αἰσώπου"
   },
   "urn:cts:greekLit:tlg0643.tlg001.1st1K-mul2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Supplementum Aristotelicum"
   },
   "urn:cts:greekLit:tlg0643.tlg001.1st1K-lat1": {
@@ -9560,7 +9560,7 @@
     "title": "Signorum Explicatio to Iatrica"
   },
   "urn:cts:greekLit:tlg0643.tlg001.1st1K-mul1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Index Verborum to Iatrica"
   },
   "urn:cts:greekLit:tlg0643.tlg001.1st1K-grc2": {
@@ -9576,11 +9576,11 @@
     "title": "Preface to Anonymi Londinensis ex Aristotelis iatricis Menoniis et aliis medicis eclogae"
   },
   "urn:cts:greekLit:tlg0643.tlg002.1st1K-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Anonymus Londinensis Fragmenta"
   },
   "urn:cts:greekLit:tlg0643.opp003.1st1K-grc1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Supplementum Aristotelicum"
   },
   "urn:cts:greekLit:tlg0643.opp002.1st1K-lat1": {
@@ -11008,123 +11008,123 @@
     "title": "Epilogus"
   },
   "urn:cts:latinLit:phi2331.phi010.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Severus"
   },
   "urn:cts:latinLit:phi2331.phi028.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Probus"
   },
   "urn:cts:latinLit:phi2331.phi017.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Antoninus Heliogabalus"
   },
   "urn:cts:latinLit:phi2331.phi021.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Maximus et Balbinus"
   },
   "urn:cts:latinLit:phi2331.phi019.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Maximini Duo"
   },
   "urn:cts:latinLit:phi2331.phi026.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Divus Aurelianus"
   },
   "urn:cts:latinLit:phi2331.phi018.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Alexander Severus"
   },
   "urn:cts:latinLit:phi2331.phi027.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Tacitus"
   },
   "urn:cts:latinLit:phi2331.phi020.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Gordiani Tres"
   },
   "urn:cts:latinLit:phi2331.phi029.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Firmus Saturninus, Proculus et Bonosus"
   },
   "urn:cts:latinLit:phi2331.phi016.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Diadumenus Antoninus"
   },
   "urn:cts:latinLit:phi2331.phi011.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Pescennius Niger"
   },
   "urn:cts:latinLit:phi2331.phi002.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Helius"
   },
   "urn:cts:latinLit:phi2331.phi005.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Verus"
   },
   "urn:cts:latinLit:phi2331.phi004.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Marcus Antoninus Philosophus"
   },
   "urn:cts:latinLit:phi2331.phi003.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Antoninus Pius"
   },
   "urn:cts:latinLit:phi2331.phi014.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Antoninus Geta"
   },
   "urn:cts:latinLit:phi2331.phi013.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Antoninus Caracallus"
   },
   "urn:cts:latinLit:phi2331.phi025.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Divus Claudius"
   },
   "urn:cts:latinLit:phi2331.phi022.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Valeriani Duo"
   },
   "urn:cts:latinLit:phi2331.phi023.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Gallieni Duo"
   },
   "urn:cts:latinLit:phi2331.phi024.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Tyranni Triginta"
   },
   "urn:cts:latinLit:phi2331.phi012.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Vita Clodii Albini"
   },
   "urn:cts:latinLit:phi2331.phi015.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Opilius Macrinus"
   },
   "urn:cts:latinLit:phi2331.phi008.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Helvius Pertinax"
   },
   "urn:cts:latinLit:phi2331.phi030.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Carus et Carinus et Numerianus"
   },
   "urn:cts:latinLit:phi2331.phi006.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Avidius Cassius"
   },
   "urn:cts:latinLit:phi2331.phi001.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "De vita Hadriani"
   },
   "urn:cts:latinLit:phi2331.phi007.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Commodus Antoninus"
   },
   "urn:cts:latinLit:phi2331.phi009.perseus-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Didius Julianus"
   },
   "urn:cts:latinLit:phi1318.phi001.perseus-lat1": {
@@ -11776,47 +11776,47 @@
     "title": "Historiae Alexandri Magni"
   },
   "urn:cts:latinLit:phi0692.phi011.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Moretum, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi002.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Lydia, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi005.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Copa, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi003.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Culex, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi013.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "De Est et Non, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi012.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "De Institutione Viri Boni, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi008.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi006.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi001.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Dirae, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi007.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi0692.phi009.perseus-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Catalepton, Appendix Vergiliana"
   },
   "urn:cts:latinLit:phi1294.phi002.perseus-lat2": {
@@ -12792,175 +12792,175 @@
     "title": "Facta et Dicta Memorabilia"
   },
   "urn:cts:latinLit:stoa0045a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0045a.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0162.stoa004.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0162.stoa004.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0162.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0162.stoa024.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0089a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0089a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0233h.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa011.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa014.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa013.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa012.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa015.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa008.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa006.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0114a.stoa007.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0180a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa008.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa007.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149b.stoa009.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0270.stoa002.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0270.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0270.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0270.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0169a.stoa002.opp-lat2": {
@@ -12968,263 +12968,263 @@
     "title": "Evangeliorum libri quattuor"
   },
   "urn:cts:latinLit:stoa0222a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0227b.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0223.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0223.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149p.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149p.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149p.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0276.stoa010.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0276.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0276.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0123a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0149c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0224b.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0224b.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0224b.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0241d.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0249a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0249a.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0249a.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0249a.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0245c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0034.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa010.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa021.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa019.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa018.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa020.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa016.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa011.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa014.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa013.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa015.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa008.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa007.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104p.stoa009.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa008.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa006.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0252.stoa007.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0058.stoa001.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0058.stoa007.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0058.stoa007.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0195a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292p.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292p.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0329.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292e.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292e.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292b.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292b.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0028e.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0028e.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0329c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0234f.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292d.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0171.stoa010.opp-lat1": {
@@ -13260,55 +13260,55 @@
     "title": "Divinarum Institutionum"
   },
   "urn:cts:latinLit:stoa0215b.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215b.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215b.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040a.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0117p.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0233d.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0233d.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215c.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215c.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0215c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0270p.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:tlg0526.tlg003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:phi9500.phi035.opp-lat1": {
@@ -13316,39 +13316,39 @@
     "title": "Epitaphium Ennodii"
   },
   "urn:cts:latinLit:stoa0022.stoa021.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa019.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa044.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa029.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa042.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa051.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa034.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa035.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa032.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa014.opp-lat1": {
@@ -13356,11 +13356,11 @@
     "title": "Apologia Altera Prophetae David"
   },
   "urn:cts:latinLit:stoa0022.stoa025.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa048.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa015.opp-lat1": {
@@ -13368,411 +13368,411 @@
     "title": "Apologia Prophetae David Ad Theodosium Augustum"
   },
   "urn:cts:latinLit:stoa0022.stoa039.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa052.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa038.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0022.stoa054.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0120c.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0120d.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa010.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa017.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa028.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa026.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa027.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa018.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa020.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa011.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa002.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa004.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa025.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa023.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa008.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa030.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa006.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0275.stoa007.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa056c.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa056b.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa035a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa015b.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa017.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa021.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa001a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa019.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa072.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa042a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa044.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa027.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa020.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa016.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa029.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa011.opp-lat4": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa011.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa011.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa042.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa080.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa074.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa056.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa060.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa029a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa033.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa034.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa066c.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa057.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa050.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa003.opp-lat4": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa003.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa035.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa080a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa032.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa037c.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa014a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa057a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa031a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa038a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa077c.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa077d.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa070a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa033a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa056a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa040.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa024b.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa021a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa025.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa041.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa046.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa070.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa077.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa023.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa024.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa037.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa055.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa064.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa063.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa031.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa036.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa062.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa053.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa054.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa054.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0040.stoa037a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0244d.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0121g.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0121g.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0121g.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0121g.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0121g.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0096.stoa004.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0096.stoa003.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0076c.stoa002.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0076c.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0076c.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0122a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0054.stoa001a.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0007.stoa002.opp-lat1": {
@@ -13780,127 +13780,127 @@
     "title": "De Locis Santis"
   },
   "urn:cts:latinLit:stoa0203.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0245a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0223a.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0251.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa010.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa011.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa005.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa014.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa013.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa012.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa015.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa008.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa006.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa007.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0104a.stoa009.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0292a.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0111.stoa001.opp-lat3": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0278a.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0119.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0119.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0119.stoa001.opp-lat2": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0117.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0117.stoa004.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0117.stoa003.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0117.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0234e.stoa002.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   },
   "urn:cts:latinLit:stoa0234e.stoa001.opp-lat1": {
-    "author": "Anonymous",
+    "author": "Unknown",
     "title": "Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)"
   }
 }

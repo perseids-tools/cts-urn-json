@@ -26,11 +26,17 @@
     }
   },
   {
+    "transform": {
+      "author": ["\\s+", " "],
+      "title": ["\\s+", " "]
+    }
+  },
+  {
     "match": {
       "author": "\\A\\z"
     },
     "transform": {
-      "author": ["", "Anonymous"]
+      "author": ["", "Unknown"]
     }
   },
   {
