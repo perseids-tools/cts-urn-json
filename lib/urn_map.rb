@@ -1,12 +1,17 @@
 require 'nokogiri'
 require 'json'
 
+require_relative './shell'
+require_relative './group'
+
 DEFAULT_CONFIGURATION_FILE = File.expand_path('../config/configuration.json', __dir__)
 DEFAULT_TRANSFORMATIONS_FILE = File.expand_path('../config/transformations.json', __dir__)
 DEFAULT_TMP_DIRECTORY = File.expand_path('../tmp', __dir__)
 DEFAULT_OUTPUT_FILE = File.expand_path('../urn.json', __dir__)
 
 class UrnMap
+  include Shell
+
   def initialize(
     config: DEFAULT_CONFIGURATION_FILE,
     transform: DEFAULT_TRANSFORMATIONS_FILE,
@@ -25,11 +30,11 @@ class UrnMap
   def init!
     `mkdir -p #{s(tmp)}`
 
-    configuration.each { |group| create_group!(group) }
+    configuration.each { |group| Group.new(group, tmp).init! }
   end
 
   def update_configuration!
-    configuration.each { |group| update_group!(group) }
+    configuration.each { |group| Group.new(group, tmp).update! }
     json = JSON.pretty_generate(configuration)
 
     if config == '-'
@@ -40,14 +45,7 @@ class UrnMap
   end
 
   def sync_git!
-    configuration.each do |group|
-      group[:git].each do |repo|
-        repo_name = s(File.join(tmp, group[:name], repo[:name]))
-        commit = s(repo[:commit])
-
-        `cd #{repo_name} && git fetch && git checkout #{commit}`
-      end
-    end
+    configuration.each { |group| Group.new(group, tmp).sync! }
   end
 
   def write_map!
@@ -65,36 +63,7 @@ class UrnMap
 
   private
 
-  attr_accessor :config, :transform, :tmp, :out, :configuration, :transformations
-
-  def s(string)
-    Shellwords.escape(string)
-  end
-
-  def create_group!(group)
-    name = s(File.join(tmp, group[:name]))
-    `mkdir -p #{name}`
-
-    group[:git].each do |repo|
-      repo_name = s(File.join(tmp, group[:name], repo[:name]))
-      url = s(repo[:url])
-      commit = s(repo[:commit])
-
-      `cd #{name} && git clone #{url} #{repo_name}`
-      `cd #{repo_name} && git checkout #{commit}`
-    end
-  end
-
-  def update_group!(group)
-    group[:git].each do |repo|
-      repo_name = s(File.join(tmp, group[:name], repo[:name]))
-
-      `cd #{repo_name} && git fetch && git reset --hard origin/HEAD`
-      sha = `cd #{repo_name} && git rev-parse HEAD`.chomp
-
-      repo[:commit] = sha
-    end
-  end
+  attr_reader :config, :transform, :tmp, :out, :configuration, :transformations
 
   def parse_files(group)
     xml_path = File.join(tmp, group[:name], '**', 'data', '**', '*.xml')
