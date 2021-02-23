@@ -4,7 +4,7 @@ require 'json'
 require_relative './shell'
 require_relative './group'
 
-DEFAULT_CONFIGURATION_FILE = File.expand_path('../config/configuration.json', __dir__)
+DEFAULT_REPOSITORIES_FILE = File.expand_path('../config/repositories.json', __dir__)
 DEFAULT_TRANSFORMATIONS_FILE = File.expand_path('../config/transformations.json', __dir__)
 DEFAULT_TMP_DIRECTORY = File.expand_path('../tmp', __dir__)
 DEFAULT_OUTPUT_FILE = File.expand_path('../urn.json', __dir__)
@@ -13,43 +13,43 @@ class UrnMap
   include Shell
 
   def initialize(
-    config: DEFAULT_CONFIGURATION_FILE,
+    repos: DEFAULT_REPOSITORIES_FILE,
     transform: DEFAULT_TRANSFORMATIONS_FILE,
     tmp: DEFAULT_TMP_DIRECTORY,
     out: DEFAULT_OUTPUT_FILE
   )
-    @config = config
+    @repos = repos
     @transform = transform
     @tmp = tmp
     @out = out
 
-    @configuration = JSON.parse(File.read(config), symbolize_names: true)
+    @repositories = JSON.parse(File.read(repos), symbolize_names: true)
     @transformations = JSON.parse(File.read(transform), symbolize_names: true)
   end
 
   def init!
     `mkdir -p #{s(tmp)}`
 
-    configuration.each { |group| Group.new(group, tmp).init! }
+    repositories.each { |group| Group.new(group, tmp).init! }
   end
 
-  def update_configuration!
-    configuration.each { |group| Group.new(group, tmp).update! }
-    json = JSON.pretty_generate(configuration)
+  def update_repositories!
+    repositories.each { |group| Group.new(group, tmp).update! }
+    json = JSON.pretty_generate(repositories)
 
-    if config == '-'
+    if repos == '-'
       puts(json)
     else
-      File.open(config, 'w') { |file| file.puts(json) }
+      File.open(repos, 'w') { |file| file.puts(json) }
     end
   end
 
   def sync_git!
-    configuration.each { |group| Group.new(group, tmp).sync! }
+    repositories.each { |group| Group.new(group, tmp).sync! }
   end
 
   def write_map!
-    map = configuration.reduce({}) do |hash, group|
+    map = repositories.reduce({}) do |hash, group|
       hash.merge!(parse_files(group))
     end
     json = JSON.pretty_generate(map)
@@ -63,7 +63,7 @@ class UrnMap
 
   private
 
-  attr_reader :config, :transform, :tmp, :out, :configuration, :transformations
+  attr_reader :repos, :transform, :tmp, :out, :repositories, :transformations
 
   def parse_files(group)
     xml_path = File.join(tmp, group[:name], '**', 'data', '**', '*.xml')

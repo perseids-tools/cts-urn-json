@@ -7,7 +7,7 @@ options = {}
 commands = <<~COMMANDS
   init      Initialize repositories in the temporary directory
   update    Pull the latest version of the repos and update the configuration
-  sync      Check out the version of the repos specified in the configuration#{' '}
+  sync      Check out the version of the repos specified in the configuration
   generate  Generate the urn.json file
 COMMANDS
 
@@ -16,8 +16,8 @@ show_help = false
 parser = OptionParser.new do |opts|
   opts.banner = 'Usage: urn.rb <init|update|sync|generate> [options]'
 
-  opts.on('-c', '--config CONFIG', 'Configuration file location', 'Default: ./config/configuration.json') do |c|
-    options[:config] = c
+  opts.on('-r', '--repos REPOS', 'Repository configuration file location', 'Default: ./config/repositories.json') do |r|
+    options[:repos] = r
   end
 
   opts.on('-t', '--transform TRANSFORM', 'Transformations file location',
@@ -61,7 +61,7 @@ urn_map = UrnMap.new(**options)
 
 case command
 when 'init' then urn_map.init!
-when 'update' then urn_map.update_configuration!
+when 'update' then urn_map.update_repositories!
 when 'sync' then urn_map.sync_git!
 when 'generate' then urn_map.write_map!
 end
